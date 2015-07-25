@@ -1,0 +1,281 @@
+languagesystem orya dflt;
+languagesystem orya ORI ;
+
+
+feature akhn { # Akhands
+ script orya; # Oriya
+    sub or_ka or_halant or_ssa by or_k_ssa;
+    sub or_ja or_halant or_nya by or_j_nya;
+    sub or_ba or_halant or_ba by or_b_ba;
+ language ORI ; # Oriya
+} akhn;
+
+feature rphf { # Reph Forms
+ script orya; # Oriya
+    sub or_ra or_halant by or_reph;
+ language ORI ; # Oriya
+} rphf;
+
+feature blwf { # Below-base Forms
+ script orya; # Oriya
+    sub or_ka or_halant by or_ka_phalaa;
+    sub or_kha or_halant by or_kha_phalaa;
+    sub or_ga or_halant by or_ga_phalaa;
+    sub or_gha or_halant by or_gha_phalaa;
+    sub or_nga or_halant by or_nga_phalaa;
+    sub or_ca or_halant by or_ca_phalaa;
+    sub or_cha or_halant by or_cha_phalaa;
+    sub or_ja or_halant by or_ja_phalaa;
+    sub or_jha or_halant by or_jha_phalaa;
+    sub or_nya or_halant by or_nya_phalaa;
+    sub or_tta or_halant by or_tta_phalaa;
+    sub or_ttha or_halant by or_ttha_phalaa;
+    sub or_dda or_halant by or_dda_phalaa;
+    sub or_ddha or_halant by or_ddha_phalaa;
+    sub or_nna or_halant by or_nna_phalaa;
+    sub or_ta or_halant by or_ta_phalaa;
+    sub or_tha or_halant by or_tha_phalaa;
+    sub or_da or_halant by or_da_phalaa;
+    sub or_dha or_halant by or_dha_phalaa;
+    sub or_na or_halant by or_na_phalaa;
+    sub or_pa or_halant by or_pa_phalaa;
+    sub or_pha or_halant by or_pha_phalaa;
+    sub or_ba or_halant by or_ba_phalaa;
+    sub or_bha or_halant by or_bha_phalaa;
+    sub or_ma or_halant by or_ma_phalaa;
+    sub or_ya or_halant by or_ya_phalaa;
+    sub or_ra or_halant by or_ra_phalaa;
+    sub or_la or_halant by or_la_phalaa;
+    sub or_lla or_halant by or_lla_phalaa;
+    sub or_wa or_halant by or_va_phalaa;
+ language ORI ; # Oriya
+} blwf;
+
+feature pstf { # Post-base Forms
+ script orya; # Oriya
+    sub or_halant or_yya by or_yya_phalaa;
+    sub or_yya or_halant by or_yya_phalaa;
+ language ORI ; # Oriya
+} pstf;
+
+feature nukt { # Nukta Forms
+ script orya; # Oriya
+    sub or_dda or_nukta by or_rra;
+    sub or_ddha or_nukta by or_rha;
+ language ORI ; # Oriya
+} nukt;
+
+feature pres { # Pre-base Substitutions
+ script orya; # Oriya
+    sub or_ka or_ka_phalaa by or_k_ka;
+    sub or_ka or_ta_phalaa by or_k_ta;
+    sub or_ka or_lla_phalaa by or_k_lla;
+    sub or_ka or_va_phalaa by or_k_va;
+    sub or_ka or_sa_phalaa by or_k_sa;
+    sub or_ga or_da_phalaa by or_g_da;
+    sub or_ga or_dha_phalaa by or_g_dha;
+    sub or_ga or_na_phalaa by or_g_na;
+    sub or_ga or_lla_phalaa by or_g_lla;
+    sub or_gha or_na_phalaa by or_gh_na;
+    sub or_nga or_ka_phalaa by or_ng_ka;
+    sub or_nga or_kha_phalaa by or_ng_kha;
+    sub or_nga or_ga_phalaa by or_ng_ga;
+    sub or_nga or_gha_phalaa by or_ng_gha;
+    sub or_ca or_ca_phalaa by or_c_ca;
+    sub or_ca or_cha_phalaa by or_c_cha;
+    sub or_ja or_ja_phalaa or_va_phalaa by or_j_j_va;
+    sub or_ja or_ja_phalaa by or_j_ja;
+    sub or_ja or_jha_phalaa by or_j_jha;
+    sub or_ja or_va_phalaa by or_j_va;
+    sub or_nya or_ca_phalaa by or_ny_ca;
+    sub or_nya or_cha_phalaa by or_ny_cha;
+    sub or_nya or_ja_phalaa by or_ny_ja;
+    sub or_nya or_jha_phalaa by or_ny_jha;
+    sub or_tta or_tta_phalaa by or_tt_tta;
+    sub or_dda or_ga_phalaa by or_dd_ga;
+    sub or_dda or_dda_phalaa by or_dd_dda;
+    sub or_nna or_tta_phalaa by or_nn_tta;
+    sub or_nna or_ttha_phalaa by or_nn_ttha;
+    sub or_nna or_dda_phalaa by or_nn_dda;
+    sub or_nna or_ddha_phalaa by or_nn_ddha;
+    sub or_nna or_nna_phalaa by or_nn_nna;
+    sub or_ta or_ka_phalaa by or_t_ka;
+    sub or_ta or_ta_phalaa by or_t_ta;
+    sub or_ta or_tha_phalaa by or_t_tha;
+    sub or_ta or_na_phalaa by or_t_na;
+    sub or_ta or_pa_phalaa by or_t_pa;
+    sub or_ta or_ma_phalaa by or_t_ma;
+    sub or_ta or_sa_phalaa by or_t_sa;
+    sub or_ta or_wa_phalaa by or_t_va;
+    sub or_da or_ga_phalaa by or_d_ga;
+    sub or_da or_gha_phalaa by or_d_gha;
+    sub or_da or_da_phalaa by or_d_da;
+    sub or_da or_dha_phalaa by or_d_dha;
+    sub or_da or_bha_phalaa by or_d_bha;
+    sub or_da or_wa_phalaa by or_d_va;
+    sub or_dha or_yya_phalaa by or_dh_yya;
+    sub or_dha or_wa_phalaa by or_dh_va;
+    sub or_na or_ta_phalaa or_ra_phalaa by or_n_t_ra;
+    sub or_na or_ta_phalaa by or_n_ta;
+    sub or_na or_tha_phalaa by or_n_tha;
+    sub or_na or_da_phalaa by or_n_da;
+    sub or_na or_dha_phalaa by or_n_dha;
+    sub or_na or_na_phalaa by or_n_na;
+    sub or_pa or_ta_phalaa by or_p_ta;
+    sub or_pa or_pa_phalaa by or_p_pa;
+    sub or_pa or_lla_phalaa by or_p_lla;
+    sub or_pa or_sa_phalaa by or_p_sa;
+    sub or_ba or_ja_phalaa by or_b_ja;
+    sub or_ba or_da_phalaa by or_b_da;
+    sub or_ba or_dha_phalaa by or_b_dha;
+    sub or_ba or_ba_phalaa by or_b_ba;
+    sub or_ma or_pa_phalaa by or_m_pa;
+    sub or_ma or_pha_phalaa by or_m_pha;
+    sub or_ma or_ba_phalaa by or_m_ba;
+    sub or_ma or_bha_phalaa by or_m_bha;
+    sub or_ma or_ma_phalaa by or_m_ma;
+    sub or_la or_ka_phalaa by or_l_ka;
+    sub or_la or_ga_phalaa by or_l_ga;
+    sub or_la or_la_phalaa by or_l_la;
+    sub or_lla or_ka_phalaa by or_ll_ka;
+    sub or_lla or_pa_phalaa by or_ll_pa;
+    sub or_lla or_pha_phalaa by or_ll_pha;
+    sub or_lla or_bha_phalaa by or_ll_bha;
+    sub or_lla or_lla_phalaa by or_ll_lla;
+    sub or_sha or_ca_phalaa by or_sh_ca;
+    sub or_sha or_cha_phalaa by or_sh_cha;
+    sub or_sha or_lla_phalaa by or_sh_lla;
+    sub or_sha or_wa_phalaa by or_sh_va;
+    sub or_ssa or_ka_phalaa by or_ss_ka;
+    sub or_ssa or_tta_phalaa by or_ss_tta;
+    sub or_ssa or_ttha_phalaa by or_ss_ttha;
+    sub or_ssa or_nna_phalaa by or_ss_nna;
+    sub or_ssa or_pa_phalaa by or_ss_pa;
+    sub or_ssa or_pha_phalaa by or_ss_pha;
+    sub or_sa or_ta_phalaa or_ra_phalaa by or_s_t_ra;
+    sub or_sa or_ka_phalaa by or_s_ka;
+    sub or_sa or_kha_phalaa by or_s_kha;
+    sub or_sa or_ta_phalaa by or_s_ta;
+    sub or_sa or_tha_phalaa by or_s_tha;
+    sub or_sa or_na_phalaa by or_s_na;
+    sub or_sa or_pa_phalaa by or_s_pa;
+    sub or_sa or_pha_phalaa by or_s_pha;
+    sub or_sa or_ma_phalaa by or_s_ma;
+    sub or_sa or_wa_phalaa by or_s_va;
+    sub or_ha or_na_phalaa by or_h_na;
+    sub or_ha or_ma_phalaa by or_h_ma;
+    sub or_ha or_la_phalaa by or_h_la;
+    sub or_k_ssa or_nna_phalaa by or_k_ss_nna;
+    sub or_k_ssa or_ma_phalaa by or_k_ss_ma;
+    sub or_ng_ka or_ta_phalaa by or_ng_k_ta;
+    sub or_ng_ka or_ssa_phalaa by or_ng_k_ssa;
+ language ORI ; # Oriya
+} pres;
+
+feature blws { # Below-base Substitutions
+ script orya; # Oriya
+    sub or_ka or_ra_phalaa by or_k_ra;
+    sub or_kha or_ra_phalaa by or_kh_ra;
+    sub or_ga or_ra_phalaa by or_g_ra;
+    sub or_gha or_ra_phalaa by or_gh_ra;
+    sub or_nga or_ra_phalaa by or_ng_ra;
+    sub or_ca or_ra_phalaa by or_c_ra;
+    sub or_cha or_ra_phalaa by or_ch_ra;
+    sub or_ja or_ra_phalaa by or_j_ra;
+    sub or_jha or_ra_phalaa by or_jh_ra;
+    sub or_nya or_ra_phalaa by or_ny_ra;
+    sub or_tta or_ra_phalaa by or_tt_ra;
+    sub or_ttha or_ra_phalaa by or_tth_ra;
+    sub or_dda or_ra_phalaa by or_dd_ra;
+    sub or_ddha or_ra_phalaa by or_ddh_ra;
+    sub or_nna or_ra_phalaa by or_nn_ra;
+    sub or_ta or_ra_phalaa by or_t_ra;
+    sub or_tha or_ra_phalaa by or_th_ra;
+    sub or_da or_ra_phalaa by or_d_ra;
+    sub or_dha or_ra_phalaa by or_dh_ra;
+    sub or_na or_ra_phalaa by or_n_ra;
+    sub or_pa or_ra_phalaa by or_p_ra;
+    sub or_pha or_ra_phalaa by or_ph_ra;
+    sub or_ba or_ra_phalaa by or_b_ra;
+    sub or_bha or_ra_phalaa by or_bh_ra;
+    sub or_ma or_ra_phalaa by or_m_ra;
+    sub or_ya or_ra_phalaa by or_y_ra;
+    sub or_la or_ra_phalaa by or_l_ra;
+    sub or_lla or_ra_phalaa by or_ll_ra;
+    sub or_va or_ra_phalaa by or_v_ra;
+    sub or_sha or_ra_phalaa by or_sh_ra;
+    sub or_ssa or_ra_phalaa by or_ss_ra;
+    sub or_sa or_ra_phalaa by or_s_ra;
+    sub or_ha or_ra_phalaa by or_h_ra;
+    sub or_rra or_ra_phalaa by or_rr_ra;
+    sub or_rha or_ra_phalaa by or_rh_ra;
+    sub or_yya or_ra_phalaa by or_yy_ra;
+    sub or_k_ta or_ra_phalaa by or_k_t_ra;
+    sub or_k_ssa or_ra_phalaa by or_k_ss_ra;
+    sub or_t_ta or_ra_phalaa by or_t_t_ra;
+    sub or_n_da or_ra_phalaa by or_n_d_ra;
+    sub or_n_dha or_ra_phalaa by or_n_dh_ra;
+    sub or_m_pa or_ra_phalaa by or_m_p_ra;
+    sub or_m_bha or_ra_phalaa by or_m_bh_ra;
+    sub or_ss_ka or_ra_phalaa by or_ss_k_ra;
+    sub or_ss_tta or_ra_phalaa by or_ss_tt_ra;
+    sub or_ss_pa or_ra_phalaa by or_ss_p_ra;
+    sub or_ra_phalaa or_ra_phalaa by or_r_ra;
+ language ORI ; # Oriya
+} blws;
+
+feature haln { # Halant Forms
+ script orya; # Oriya
+    sub or_ka or_halant by or_ka_halant;
+    sub or_kha or_halant by or_kha_halant;
+    sub or_ga or_halant by or_ga_halant;
+    sub or_gha or_halant by or_gha_halant;
+    sub or_nga or_halant by or_nga_halant;
+    sub or_ca or_halant by or_ca_halant;
+    sub or_cha or_halant by or_cha_halant;
+    sub or_ja or_halant by or_ja_halant;
+    sub or_jha or_halant by or_jha_halant;
+    sub or_nya or_halant by or_nya_halant;
+    sub or_tta or_halant by or_tta_halant;
+    sub or_ttha or_halant by or_ttha_halant;
+    sub or_dda or_halant by or_dda_halant;
+    sub or_ddha or_halant by or_ddha_halant;
+    sub or_nna or_halant by or_nna_halant;
+    sub or_ta or_halant by or_ta_halant;
+    sub or_tha or_halant by or_tha_halant;
+    sub or_da or_halant by or_da_halant;
+    sub or_dha or_halant by or_dha_halant;
+    sub or_na or_halant by or_na_halant;
+    sub or_pa or_halant by or_pa_halant;
+    sub or_pha or_halant by or_pha_halant;
+    sub or_ba or_halant by or_ba_halant;
+    sub or_bha or_halant by or_bha_halant;
+    sub or_ma or_halant by or_ma_halant;
+    sub or_ya or_halant by or_ya_halant;
+    sub or_ra or_halant by or_ra_halant;
+    sub or_la or_halant by or_la_halant;
+    sub or_lla or_halant by or_lla_halant;
+    sub or_va or_halant by or_va_halant;
+    sub or_sha or_halant by or_sha_halant;
+    sub or_ssa or_halant by or_ssa_halant;
+    sub or_sa or_halant by or_sa_halant;
+    sub or_ha or_halant by or_ha_halant;
+    sub or_rra or_halant by or_rra_halant;
+    sub or_rha or_halant by or_rha_halant;
+    sub or_yya or_halant by or_yya_halant;
+    sub or_k_ssa or_halant by or_k_ssa_halant;
+ language ORI ; # Oriya
+} haln;
+
+feature psts { # Post-base Substitutions
+ script orya; # Oriya
+    sub or_kha or_ikaar by or_kha_ikaar;
+    sub or_ca or_aakaar by or_ca_aakaar;
+    sub or_tha or_ikaar by or_tha_ikaar;
+    sub or_dha or_ikaar by or_dha_ikaar;
+    sub or_dha or_yya_phalaa by or_dh_yya;
+    sub or_ng_ka or_ta_phalaa by or_ng_k_ta;
+    sub or_nga_halant or_k_ssa by or_ng_k_ssa;
+ language ORI ; # Oriya
+} psts;
+
