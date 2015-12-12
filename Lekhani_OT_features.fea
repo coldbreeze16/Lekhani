@@ -1,0 +1,3054 @@
+# GDEF Mark Attachment Classes
+@MarkClass2=[\candrabinduorya \rephorya \rephcandrabinduorya ];
+@MarkClass3=[\nuktaorya \uvowelsignorya \uuvowelsignorya \rvocalicvowelsignorya 
+	\rrvocalicvowelsignorya \viramaorya \lvocalicvowelsignorya 
+	\llvocalicvowelsignorya \kasubscriptorya \khasubscriptorya 
+	\gasubscriptorya \ghasubscriptorya \ngasubscriptorya 
+	\casubscriptorya \chasubscriptorya \jasubscriptorya 
+	\jhasubscriptorya \ttasubscriptorya \tthasubscriptorya 
+	\ddasubscriptorya \ddhasubscriptorya \nnasubscriptorya 
+	\tasubscriptorya \thasubscriptorya \dasubscriptorya 
+	\dhasubscriptorya \nasubscriptorya \pasubscriptorya 
+	\phasubscriptorya \basubscriptorya \bhasubscriptorya 
+	\masubscriptorya \rasubscriptorya \lasubscriptorya 
+	\llasubscriptorya \shasubscriptorya \ssasubscriptorya 
+	\sasubscriptorya \hasubscriptorya \kassasubscriptorya 
+	\tarasubscriptorya \ivowelsignloworya \uvowelsignaltorya 
+	\uuvowelsignaltorya \rvocalicvowelsignaltorya 
+	\rrvocalicvowelsignaltorya \uvowelsignloworya \uuvowelsignloworya 
+	\rvocalicvowelsignloworya \rrvocalicvowelsignloworya 
+	\viramaloworya \lvocalicvowelsignloworya 
+	\llvocalicvowelsignloworya \uvowelsignlowerorya 
+	\uuvowelsignlowerorya \rvocalicvowelsignlowerorya \viramalowerorya 
+	\uvowelsigndeeporya \uuvowelsigndeeporya 
+	\rvocalicvowelsigndeeporya \rrvocalicvowelsignleftorya 
+	\viramadeeporya \lvocalicvowelsignleftorya 
+	\llvocalicvowelsignleftorya \nuktakasubscriptorya 
+	\nuktakhasubscriptorya \nuktagasubscriptorya 
+	\nuktaghasubscriptorya \nuktangasubscriptorya 
+	\nuktacasubscriptorya \nuktachasubscriptorya \nuktajasubscriptorya 
+	\nuktajhasubscriptorya \nuktattasubscriptorya 
+	\nuktatthasubscriptorya \nuktaddasubscriptorya 
+	\nuktaddhasubscriptorya \nuktannasubscriptorya 
+	\nuktatasubscriptorya \nuktathasubscriptorya \nuktadasubscriptorya 
+	\nuktadhasubscriptorya \nuktanasubscriptorya \nuktapasubscriptorya 
+	\nuktaphasubscriptorya \nuktabasubscriptorya 
+	\nuktabhasubscriptorya \nuktamasubscriptorya \nuktarasubscriptorya 
+	\nuktalasubscriptorya \nuktallasubscriptorya 
+	\nuktashasubscriptorya \nuktassasubscriptorya 
+	\nuktasasubscriptorya \nuktahasubscriptorya 
+	\nuktakassasubscriptorya \nuktauvowelsignorya 
+	\nuktauuvowelsignorya \nuktarvocalicvowelsignorya 
+	\nuktarrvocalicvowelsignorya \nuktalvocalicvowelsignorya 
+	\nuktallvocalicvowelsignorya \kasubscriptloworya 
+	\khasubscriptloworya \gasubscriptloworya \ghasubscriptloworya 
+	\ngasubscriptloworya \casubscriptloworya \chasubscriptloworya 
+	\jasubscriptloworya \jhasubscriptloworya \ttasubscriptloworya 
+	\tthasubscriptloworya \ddasubscriptloworya \ddhasubscriptloworya 
+	\nnasubscriptloworya \tasubscriptloworya \thasubscriptloworya 
+	\dasubscriptloworya \dhasubscriptloworya \nasubscriptloworya 
+	\pasubscriptloworya \phasubscriptloworya \basubscriptloworya 
+	\bhasubscriptloworya \masubscriptloworya \rasubscriptloworya 
+	\lasubscriptloworya \llasubscriptloworya \shasubscriptloworya 
+	\ssasubscriptloworya \sasubscriptloworya \hasubscriptloworya 
+	\kassasubscriptloworya \kasubscriptlowerorya \jasubscriptlowerorya 
+	\tasubscriptlowerorya \thasubscriptlowerorya \nasubscriptlowerorya 
+	\basubscriptlowerorya \masubscriptlowerorya \rasubscriptlowerorya 
+	\lasubscriptlowerorya \llasubscriptlowerorya \kasubscriptdeeporya 
+	\khasubscriptleftorya \gasubscriptleftorya \ghasubscriptleftorya 
+	\ngasubscriptleftorya \casubscriptleftorya \chasubscriptleftorya 
+	\jasubscriptdeeporya \jhasubscriptleftorya \ttasubscriptleftorya 
+	\tthasubscriptleftorya \ddasubscriptleftorya 
+	\ddhasubscriptleftorya \nnasubscriptleftorya \tasubscriptdeeporya 
+	\thasubscriptdeeporya \dasubscriptleftorya \dhasubscriptleftorya 
+	\nasubscriptdeeporya \pasubscriptleftorya \phasubscriptleftorya 
+	\basubscriptdeeporya \bhasubscriptleftorya \masubscriptdeeporya 
+	\rasubscriptdeeporya \lasubscriptdeeporya \llasubscriptdeeporya 
+	\shasubscriptleftorya \ssasubscriptleftorya \sasubscriptleftorya 
+	\hasubscriptleftorya \kassasubscriptleftorya \uvowelsignleftorya 
+	\uuvowelsignleftorya \rvocalicvowelsignleftorya 
+	\rrvocalicvowelsignspaceorya \viramaleftorya 
+	\lvocalicvowelsignspaceorya \llvocalicvowelsignspaceorya 
+	\kasubscriptleftorya \jasubscriptleftorya \tasubscriptleftorya 
+	\thasubscriptleftorya \nasubscriptleftorya \basubscriptleftorya 
+	\masubscriptleftorya \rasubscriptleftorya \lasubscriptleftorya 
+	\llasubscriptleftorya \rasubscriptaltorya \rasubscriptshortorya 
+	\rasubscriptshorterorya \uvowelsignmarkorya \uuvowelsignmarkorya 
+	\rvocalicvowelsignmarkorya \viramamarkorya \rasubscriptmarkorya 
+	\barasubscriptorya \ruvowelsubscriptloworya \khasubscriptspaceorya 
+	\gasubscriptspaceorya \ghasubscriptspaceorya 
+	\ngasubscriptspaceorya \casubscriptspaceorya 
+	\chasubscriptspaceorya \jhasubscriptspaceorya 
+	\ttasubscriptspaceorya \tthasubscriptspaceorya 
+	\ddasubscriptspaceorya \ddhasubscriptspaceorya 
+	\nnasubscriptspaceorya \dasubscriptspaceorya 
+	\dhasubscriptspaceorya \pasubscriptspaceorya 
+	\phasubscriptspaceorya \bhasubscriptspaceorya 
+	\shasubscriptspaceorya \ssasubscriptspaceorya 
+	\sasubscriptspaceorya \hasubscriptspaceorya 
+	\kassasubscriptspaceorya \khasubscriptleftmarkorya 
+	\gasubscriptleftmarkorya \ghasubscriptleftmarkorya 
+	\ngasubscriptleftmarkorya \casubscriptleftmarkorya 
+	\chasubscriptleftmarkorya \jhasubscriptleftmarkorya 
+	\ttasubscriptleftmarkorya \tthasubscriptleftmarkorya 
+	\ddasubscriptleftmarkorya \ddhasubscriptleftmarkorya 
+	\nnasubscriptleftmarkorya \dasubscriptleftmarkorya 
+	\dhasubscriptleftmarkorya \pasubscriptleftmarkorya 
+	\phasubscriptleftmarkorya \bhasubscriptleftmarkorya 
+	\shasubscriptleftmarkorya \ssasubscriptleftmarkorya 
+	\sasubscriptleftmarkorya \hasubscriptleftmarkorya 
+	\kassasubscriptleftmarkorya \uvowelsignspaceorya 
+	\uuvowelsignspaceorya \rvocalicvowelsignspaceorya 
+	\kasubscriptspaceorya \jasubscriptspaceorya \tasubscriptspaceorya 
+	\thasubscriptspaceorya \nasubscriptspaceorya \basubscriptspaceorya 
+	\masubscriptspaceorya \rasubscriptspaceorya \lasubscriptspaceorya 
+	\llasubscriptspaceorya ];
+
+languagesystem ory2 dflt;
+languagesystem orya dflt;
+
+
+# GSUB 
+
+
+lookup nuktNuktaFormslookup0 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    sub \ddaorya \nuktaorya  by \rraorya;
+    sub \ddhaorya \nuktaorya  by \rhaorya;
+    sub \kaorya \nuktaorya  by \kanuktaorya;
+    sub \khaorya \nuktaorya  by \khanuktaorya;
+    sub \gaorya \nuktaorya  by \ganuktaorya;
+    sub \ghaorya \nuktaorya  by \ghanuktaorya;
+    sub \ngaorya \nuktaorya  by \nganuktaorya;
+    sub \caorya \nuktaorya  by \canuktaorya;
+    sub \chaorya \nuktaorya  by \chanuktaorya;
+    sub \jaorya \nuktaorya  by \januktaorya;
+    sub \jhaorya \nuktaorya  by \jhanuktaorya;
+    sub \nyaorya \nuktaorya  by \nyanuktaorya;
+    sub \ttaorya \nuktaorya  by \ttanuktaorya;
+    sub \tthaorya \nuktaorya  by \tthanuktaorya;
+    sub \nnaorya \nuktaorya  by \nnanuktaorya;
+    sub \taorya \nuktaorya  by \tanuktaorya;
+    sub \thaorya \nuktaorya  by \thanuktaorya;
+    sub \daorya \nuktaorya  by \danuktaorya;
+    sub \dhaorya \nuktaorya  by \dhanuktaorya;
+    sub \naorya \nuktaorya  by \nanuktaorya;
+    sub \paorya \nuktaorya  by \panuktaorya;
+    sub \phaorya \nuktaorya  by \phanuktaorya;
+    sub \baorya \nuktaorya  by \banuktaorya;
+    sub \bhaorya \nuktaorya  by \bhanuktaorya;
+    sub \maorya \nuktaorya  by \manuktaorya;
+    sub \yaorya \nuktaorya  by \yanuktaorya;
+    sub \raorya \nuktaorya  by \ranuktaorya;
+    sub \laorya \nuktaorya  by \lanuktaorya;
+    sub \llaorya \nuktaorya  by \llanuktaorya;
+    sub \vaorya \nuktaorya  by \vanuktaorya;
+    sub \shaorya \nuktaorya  by \shanuktaorya;
+    sub \ssaorya \nuktaorya  by \ssanuktaorya;
+    sub \saorya \nuktaorya  by \sanuktaorya;
+    sub \haorya \nuktaorya  by \hanuktaorya;
+    sub \yyaorya \nuktaorya  by \yyanuktaorya;
+    sub \waorya \nuktaorya  by \wanuktaorya;
+} nuktNuktaFormslookup0;
+
+lookup rphfRephFormlookup1 {
+  lookupflag 0;
+    sub \raorya \viramaorya  by \rephorya;
+} rphfRephFormlookup1;
+
+lookup blwfBelowBaseFormsinOriyalookup {
+  lookupflag 0;
+    sub \kaorya \viramaorya  by \kasubscriptorya;
+    sub \khaorya \viramaorya  by \khasubscriptorya;
+    sub \gaorya \viramaorya  by \gasubscriptorya;
+    sub \ghaorya \viramaorya  by \ghasubscriptorya;
+    sub \ngaorya \viramaorya  by \ngasubscriptorya;
+    sub \caorya \viramaorya  by \casubscriptorya;
+    sub \chaorya \viramaorya  by \chasubscriptorya;
+    sub \jaorya \viramaorya  by \jasubscriptorya;
+    sub \jhaorya \viramaorya  by \jhasubscriptorya;
+    sub \ttaorya \viramaorya  by \ttasubscriptorya;
+    sub \tthaorya \viramaorya  by \tthasubscriptorya;
+    sub \ddaorya \viramaorya  by \ddasubscriptorya;
+    sub \ddhaorya \viramaorya  by \ddhasubscriptorya;
+    sub \nnaorya \viramaorya  by \nnasubscriptorya;
+    sub \taorya \viramaorya  by \tasubscriptorya;
+    sub \thaorya \viramaorya  by \thasubscriptorya;
+    sub \daorya \viramaorya  by \dasubscriptorya;
+    sub \dhaorya \viramaorya  by \dhasubscriptorya;
+    sub \naorya \viramaorya  by \nasubscriptorya;
+    sub \paorya \viramaorya  by \pasubscriptorya;
+    sub \phaorya \viramaorya  by \phasubscriptorya;
+    sub \waorya \viramaorya  by \basubscriptorya;
+    sub \vaorya \viramaorya  by \basubscriptorya;
+    sub \baorya \viramaorya  by \basubscriptorya;
+    sub \bhaorya \viramaorya  by \bhasubscriptorya;
+    sub \maorya \viramaorya  by \masubscriptorya;
+    sub \raorya \viramaorya  by \rasubscriptorya;
+    sub \laorya \viramaorya  by \lasubscriptorya;
+    sub \llaorya \viramaorya  by \llasubscriptorya;
+    sub \shaorya \viramaorya  by \shasubscriptorya;
+    sub \ssaorya \viramaorya  by \ssasubscriptorya;
+    sub \saorya \viramaorya  by \sasubscriptorya;
+    sub \haorya \viramaorya  by \hasubscriptorya;
+} blwfBelowBaseFormsinOriyalookup;
+
+lookup blwfBelowBaseFormsinOriya2looku {
+  lookupflag 0;
+    sub \viramaorya \kaorya  by \kasubscriptorya;
+    sub \viramaorya \khaorya  by \khasubscriptorya;
+    sub \viramaorya \gaorya  by \gasubscriptorya;
+    sub \viramaorya \ghaorya  by \ghasubscriptorya;
+    sub \viramaorya \ngaorya  by \ngasubscriptorya;
+    sub \viramaorya \caorya  by \casubscriptorya;
+    sub \viramaorya \chaorya  by \chasubscriptorya;
+    sub \viramaorya \jaorya  by \jasubscriptorya;
+    sub \viramaorya \jhaorya  by \jhasubscriptorya;
+    sub \viramaorya \ttaorya  by \ttasubscriptorya;
+    sub \viramaorya \tthaorya  by \tthasubscriptorya;
+    sub \viramaorya \ddaorya  by \ddasubscriptorya;
+    sub \viramaorya \ddhaorya  by \ddhasubscriptorya;
+    sub \viramaorya \nnaorya  by \nnasubscriptorya;
+    sub \viramaorya \taorya  by \tasubscriptorya;
+    sub \viramaorya \thaorya  by \thasubscriptorya;
+    sub \viramaorya \daorya  by \dasubscriptorya;
+    sub \viramaorya \dhaorya  by \dhasubscriptorya;
+    sub \viramaorya \naorya  by \nasubscriptorya;
+    sub \viramaorya \paorya  by \pasubscriptorya;
+    sub \viramaorya \phaorya  by \phasubscriptorya;
+    sub \viramaorya \waorya  by \basubscriptorya;
+    sub \viramaorya \vaorya  by \basubscriptorya;
+    sub \viramaorya \baorya  by \basubscriptorya;
+    sub \viramaorya \bhaorya  by \bhasubscriptorya;
+    sub \viramaorya \maorya  by \masubscriptorya;
+    sub \viramaorya \raorya  by \rasubscriptorya;
+    sub \viramaorya \laorya  by \lasubscriptorya;
+    sub \viramaorya \llaorya  by \llasubscriptorya;
+    sub \viramaorya \shaorya  by \shasubscriptorya;
+    sub \viramaorya \ssaorya  by \ssasubscriptorya;
+    sub \viramaorya \saorya  by \sasubscriptorya;
+    sub \viramaorya \haorya  by \hasubscriptorya;
+    sub \viramaorya \kaorya \viramaorya \ssaorya  by \kassasubscriptorya;
+} blwfBelowBaseFormsinOriya2looku;
+
+lookup pstfPostBaseFormsinOriya2lookup {
+  lookupflag 0;
+    sub \viramaorya \yyaorya  by \yapostorya;
+    sub \viramaorya \yaorya  by \yapostorya;
+} pstfPostBaseFormsinOriya2lookup;
+
+lookup pstfPostBaseFormsinOriyalookup5 {
+  lookupflag 0;
+    sub \yyaorya \viramaorya  by \yapostorya;
+    sub \yaorya \viramaorya  by \yapostorya;
+} pstfPostBaseFormsinOriyalookup5;
+
+lookup cjctConjunctFormsinOriya2lookup {
+  lookupflag 0;
+    sub \jaorya \viramaorya \nyaorya  by \janyaorya;
+} cjctConjunctFormsinOriya2lookup;
+
+lookup presPreBaseSubstitutionsinOriya {
+  lookupflag 0;
+    sub \viramaorya \kaorya  by \kasubscriptorya;
+    sub \viramaorya \khaorya  by \khasubscriptorya;
+    sub \viramaorya \gaorya  by \gasubscriptorya;
+    sub \viramaorya \ghaorya  by \ghasubscriptorya;
+    sub \viramaorya \ngaorya  by \ngasubscriptorya;
+    sub \viramaorya \caorya  by \casubscriptorya;
+    sub \viramaorya \chaorya  by \chasubscriptorya;
+    sub \viramaorya \jaorya  by \jasubscriptorya;
+    sub \viramaorya \jhaorya  by \jhasubscriptorya;
+    sub \viramaorya \ttaorya  by \ttasubscriptorya;
+    sub \viramaorya \tthaorya  by \tthasubscriptorya;
+    sub \viramaorya \ddaorya  by \ddasubscriptorya;
+    sub \viramaorya \ddhaorya  by \ddhasubscriptorya;
+    sub \viramaorya \nnaorya  by \nnasubscriptorya;
+    sub \viramaorya \thaorya  by \thasubscriptorya;
+    sub \viramaorya \daorya  by \dasubscriptorya;
+    sub \viramaorya \dhaorya  by \dhasubscriptorya;
+    sub \viramaorya \paorya  by \pasubscriptorya;
+    sub \viramaorya \phaorya  by \phasubscriptorya;
+    sub \viramaorya \shaorya  by \shasubscriptorya;
+    sub \viramaorya \ssaorya  by \ssasubscriptorya;
+    sub \viramaorya \saorya  by \sasubscriptorya;
+    sub \viramaorya \haorya  by \hasubscriptorya;
+    sub \kasubscriptorya \ssasubscriptorya  by \kassasubscriptorya;
+    sub \viramaorya \kaorya \viramaorya \ssaorya  by \kassasubscriptorya;
+    sub \viramaorya \yyaorya  by \yapostorya;
+    sub \jaorya \viramaorya \nyaorya  by \janyaorya;
+} presPreBaseSubstitutionsinOriya;
+
+lookup SingleSubstitutionlookup11 {
+  lookupflag 0;
+    sub \yapostorya by \uvowelsignorya ;
+} SingleSubstitutionlookup11;
+
+lookup SingleSubstitutionlookup19 {
+  lookupflag 0;
+    sub \candrabinduorya by \yapostorya ;
+    sub \ivowelsignorya by \yapostorya ;
+    sub \uvowelsignorya by \yapostorya ;
+    sub \uuvowelsignorya by \yapostorya ;
+    sub \rvocalicvowelsignorya by \yapostorya ;
+    sub \viramaorya by \yapostorya ;
+    sub \ailengthmarkorya by \yapostorya ;
+    sub \rephorya by \yapostorya ;
+} SingleSubstitutionlookup19;
+
+lookup SingleSubstitutionlookup12 {
+  lookupflag 0;
+    sub \yapostorya by \uuvowelsignorya ;
+} SingleSubstitutionlookup12;
+
+lookup SingleSubstitutionlookup13 {
+  lookupflag 0;
+    sub \yapostorya by \rvocalicvowelsignorya ;
+} SingleSubstitutionlookup13;
+
+lookup SingleSubstitutionlookup14 {
+  lookupflag 0;
+    sub \yapostorya by \viramaorya ;
+} SingleSubstitutionlookup14;
+
+lookup SingleSubstitutionlookup17 {
+  lookupflag 0;
+    sub \yapostorya by \ivowelsignorya ;
+} SingleSubstitutionlookup17;
+
+lookup SingleSubstitutionlookup18 {
+  lookupflag 0;
+    sub \yapostorya by \ailengthmarkorya ;
+} SingleSubstitutionlookup18;
+
+lookup sub_context_presorya_0 {
+  lookupflag 0;
+    sub \yapostorya'lookup SingleSubstitutionlookup11  \uvowelsignorya'lookup SingleSubstitutionlookup11  ;
+    sub \yapostorya'lookup SingleSubstitutionlookup12  \uuvowelsignorya'lookup SingleSubstitutionlookup12  ;
+    sub \yapostorya'lookup SingleSubstitutionlookup13  \rvocalicvowelsignorya'lookup SingleSubstitutionlookup13  ;
+    sub \yapostorya'lookup SingleSubstitutionlookup14  \viramaorya'lookup SingleSubstitutionlookup14  ;
+    sub \yapostorya'lookup SingleSubstitutionlookup17  \ivowelsignorya'lookup SingleSubstitutionlookup17  ;
+    sub \yapostorya'lookup SingleSubstitutionlookup18  \ailengthmarkorya'lookup SingleSubstitutionlookup18  ;
+} sub_context_presorya_0;
+
+lookup SingleSubstitutionlookup16 {
+  lookupflag 0;
+    sub \yapostorya by \candrabinduorya ;
+} SingleSubstitutionlookup16;
+
+lookup sub_context_presorya_2 {
+  lookupflag 0;
+    sub \yapostorya'lookup SingleSubstitutionlookup16  \candrabinduorya'lookup SingleSubstitutionlookup16  ;
+} sub_context_presorya_2;
+
+lookup SingleSubstitutionlookup15 {
+  lookupflag 0;
+    sub \yapostorya by \rephorya ;
+} SingleSubstitutionlookup15;
+
+lookup sub_context_presorya_4 {
+  lookupflag 0;
+    sub \yapostorya'lookup SingleSubstitutionlookup15  \rephorya'lookup SingleSubstitutionlookup15  ;
+} sub_context_presorya_4;
+
+lookup presPreBaseSubstitutionslookup2 {
+  lookupflag MarkAttachmentType @MarkClass3;
+	sub \ngaorya \kasubscriptorya \tasubscriptorya  by \ngakataorya;
+	sub \jaorya \jhasubscriptorya  by \jajhaorya;
+	sub \daorya \ghasubscriptorya  by \daghaorya;
+	sub \baorya \jasubscriptorya  by \bajaorya;
+	sub \llaorya \bhasubscriptorya  by \llabhaorya;
+	sub \naorya \tasubscriptorya \rasubscriptorya  by \nataraorya;
+    sub \saorya \tasubscriptorya \rasubscriptorya  by \sataraorya;
+    sub \kaorya \ssasubscriptorya  by \kassaorya;
+    sub \ngaorya \kasubscriptorya  by \ngakaorya;
+    sub \ngaorya \khasubscriptorya  by \ngakhaorya;
+    sub \ngaorya \gasubscriptorya  by \ngagaorya;
+    sub \ngaorya \ghasubscriptorya  by \ngaghaorya;
+    sub \caorya \casubscriptorya  by \cacaorya;
+    sub \caorya \chasubscriptorya  by \cachaorya;
+    sub \nyaorya \casubscriptorya  by \nyacaorya;
+    sub \nyaorya \chasubscriptorya  by \nyachaorya;
+    sub \nyaorya \jasubscriptorya  by \nyajaorya;
+    sub \nyaorya \jhasubscriptorya  by \nyajhaorya;
+    sub \ttaorya \ttasubscriptorya  by \ttattaorya;
+    sub \nnaorya \ddasubscriptorya  by \nnaddaorya;
+    sub \nnaorya \nnasubscriptorya  by \nnannaorya;
+    sub \taorya \kasubscriptorya  by \takaorya;
+    sub \taorya \tasubscriptorya  by \tataorya;
+    sub \taorya \thasubscriptorya  by \tathaorya;
+    sub \taorya \nasubscriptorya  by \tanaorya;
+    sub \taorya \pasubscriptorya  by \tapaorya;
+    sub \taorya \masubscriptorya  by \tamaorya;
+    sub \taorya \sasubscriptorya  by \tasaorya;
+    sub \daorya \dasubscriptorya  by \dadaorya;
+    sub \daorya \dhasubscriptorya  by \dadhaorya;
+    sub \daorya \bhasubscriptorya  by \dabhaorya;
+    sub \dhaorya \yapostorya  by \dhayapostorya;
+    sub \naorya \dasubscriptorya  by \nadaorya;
+    sub \naorya \dhasubscriptorya  by \nadhaorya;
+    sub \baorya \dasubscriptorya  by \badaorya;
+    sub \baorya \basubscriptorya  by \babaorya;
+    sub \maorya \pasubscriptorya  by \mapaorya;
+    sub \maorya \phasubscriptorya  by \maphaorya;
+    sub \maorya \bhasubscriptorya  by \mabhaorya;
+    sub \maorya \masubscriptorya  by \mamaorya;
+    sub \shaorya \chasubscriptorya  by \shachaorya;
+    sub \ssaorya \nnasubscriptorya  by \ssannaorya;
+    sub \haorya \uvowelsignorya  by \huorya;
+    sub \haorya \uuvowelsignorya  by \huuorya;
+    sub \haorya \rvocalicvowelsignorya  by \hrvocalicorya;
+    sub \haorya \kasubscriptorya  by \hakaorya;
+    sub \haorya \jasubscriptorya  by \hajaorya;
+    sub \haorya \nasubscriptorya  by \hanaorya;
+    sub \haorya \basubscriptorya  by \habaorya;
+    sub \haorya \masubscriptorya  by \hamaorya;
+    sub \haorya \rasubscriptorya  by \haraorya;
+    sub \haorya \lasubscriptorya  by \halaorya;
+    sub \haorya \llasubscriptorya  by \hallaorya;
+    sub \yyaorya \uvowelsignorya  by \yyuorya;
+    sub \yyaorya \uuvowelsignorya  by \yyuuorya;
+    sub \yyaorya \rvocalicvowelsignorya  by \yyrvocalicorya;
+    sub \yyaorya \kasubscriptorya  by \yyakaorya;
+    sub \yyaorya \jasubscriptorya  by \yyajaorya;
+    sub \yyaorya \nasubscriptorya  by \yyanaorya;
+    sub \yyaorya \basubscriptorya  by \yyabaorya;
+    sub \yyaorya \masubscriptorya  by \yyamaorya;
+    sub \yyaorya \rasubscriptorya  by \yyaraorya;
+    sub \yyaorya \lasubscriptorya  by \yyalaorya;
+    sub \yyaorya \llasubscriptorya  by \yyallaorya;
+    sub \taorya \kasubscriptorya \rasubscriptorya  by \takaraorya;
+	sub \kaorya \ttasubscriptorya  by \kattaorya;
+    sub \kassaorya \nnasubscriptorya  by \kassannaorya;
+    sub \kaorya \sasubscriptorya  by \kasaorya;
+    sub \gaorya \dasubscriptorya  by \gadaorya;
+    sub \gaorya \dhasubscriptorya  by \gadhaorya;
+    sub \ngaorya \kassasubscriptorya  by \ngakassaorya;
+    sub \ddaorya \gasubscriptorya  by \ddagaorya;
+    sub \ddaorya \ddasubscriptorya  by \ddaddaorya;
+    sub \nnaorya \ddhasubscriptorya  by \nnaddhaorya;
+    sub \daorya \gasubscriptorya  by \dagaorya;
+    sub \naorya \thasubscriptorya  by \nathaorya;
+    sub \paorya \pasubscriptorya  by \papaorya;
+    sub \paorya \llasubscriptorya  by \pallaorya;
+    sub \paorya \sasubscriptorya  by \pasaorya;
+    sub \baorya \dhasubscriptorya  by \badhaorya;
+    sub \laorya \gasubscriptorya  by \lagaorya;
+    sub \llaorya \pasubscriptorya  by \llapaorya;
+    sub \llaorya \phasubscriptorya  by \llaphaorya;
+    sub \shaorya \casubscriptorya  by \shacaorya;
+    sub \ssaorya \kasubscriptorya  by \ssakaorya;
+    sub \ssaorya \pasubscriptorya  by \ssapaorya;
+    sub \ssaorya \phasubscriptorya  by \ssaphaorya;
+    sub \saorya \kasubscriptorya  by \sakaorya;
+    sub \saorya \thasubscriptorya  by \sathaorya;
+    sub \kaorya \kasubscriptorya  by \kakaUIorya;
+    sub \kaorya \tasubscriptorya  by \kataUIorya;
+    sub \kaorya \llasubscriptorya  by \kallaUIorya;
+    sub \gaorya \llasubscriptorya  by \gallaUIorya;
+    sub \jaorya \jasubscriptorya  by \jajaUIorya;
+    sub \nnaorya \ttasubscriptorya  by \nnattaUIorya;
+    sub \nnaorya \tthasubscriptorya  by \nnatthaUIorya;
+    sub \naorya \tasubscriptorya  by \nataUIorya;
+    sub \naorya \nasubscriptorya  by \nanaUIorya;
+    sub \paorya \tasubscriptorya  by \pataUIorya;
+    sub \laorya \kasubscriptorya  by \lakaUIorya;
+    sub \laorya \lasubscriptorya  by \lalaUIorya;
+    sub \llaorya \kasubscriptorya  by \llakaUIorya;
+    sub \llaorya \llasubscriptorya  by \llallaUIorya;
+    sub \shaorya \llasubscriptorya  by \shallaUIorya;
+    sub \ssaorya \ttasubscriptorya  by \ssattaUIorya;
+    sub \ssaorya \tthasubscriptorya  by \ssatthaUIorya;
+    sub \saorya \khasubscriptorya  by \sakhaUIorya;
+    sub \saorya \tasubscriptorya  by \sataUIorya;
+    sub \saorya \pasubscriptorya  by \sapaUIorya;
+    sub \saorya \phasubscriptorya  by \saphaUIorya;
+	sub \kaorya \kasubscriptorya  by \kakaorya;
+    sub \kaorya \ttasubscriptorya  by \kattaorya;
+    sub \kaorya \tasubscriptorya  by \kataorya;
+    sub \kaorya \llasubscriptorya  by \kallaorya;
+    sub \kassaorya \nnasubscriptorya  by \kassannaorya;
+    sub \kaorya \sasubscriptorya  by \kasaorya;
+    sub \gaorya \dasubscriptorya  by \gadaorya;
+    sub \gaorya \dhasubscriptorya  by \gadhaorya;
+    sub \gaorya \llasubscriptorya  by \gallaorya;
+    sub \ngaorya \kassasubscriptorya  by \ngakassaorya;
+    sub \jaorya \jasubscriptorya  by \jajaorya;
+    sub \ddaorya \gasubscriptorya  by \ddagaorya;
+    sub \ddaorya \ddasubscriptorya  by \ddaddaorya;
+    sub \nnaorya \ttasubscriptorya  by \nnattaorya;
+    sub \nnaorya \tthasubscriptorya  by \nnatthaorya;
+    sub \nnaorya \ddhasubscriptorya  by \nnaddhaorya;
+    sub \daorya \gasubscriptorya  by \dagaorya;
+    sub \naorya \tasubscriptorya  by \nataorya;
+    sub \naorya \nasubscriptorya  by \nanaorya;
+    sub \paorya \tasubscriptorya  by \pataorya;
+    sub \paorya \pasubscriptorya  by \papaorya;
+    sub \paorya \sasubscriptorya  by \pasaorya;
+    sub \baorya \dhasubscriptorya  by \badhaorya;
+    sub \laorya \kasubscriptorya  by \lakaorya;
+    sub \laorya \gasubscriptorya  by \lagaorya;
+    sub \laorya \lasubscriptorya  by \lalaorya;
+    sub \llaorya \kasubscriptorya  by \llakaorya;
+    sub \llaorya \pasubscriptorya  by \llapaorya;
+    sub \llaorya \phasubscriptorya  by \llaphaorya;
+    sub \llaorya \llasubscriptorya  by \llallaorya;
+    sub \shaorya \casubscriptorya  by \shacaorya;
+    sub \shaorya \llasubscriptorya  by \shallaorya;
+    sub \ssaorya \ttasubscriptorya  by \ssattaorya;
+    sub \ssaorya \tthasubscriptorya  by \ssatthaorya;
+    sub \ssaorya \pasubscriptorya  by \ssapaorya;
+    sub \ssaorya \phasubscriptorya  by \ssaphaorya;
+    sub \saorya \khasubscriptorya  by \sakhaorya;
+    sub \saorya \tasubscriptorya  by \sataorya;
+    sub \saorya \pasubscriptorya  by \sapaorya;
+    sub \saorya \phasubscriptorya  by \saphaorya;
+} presPreBaseSubstitutionslookup2;
+
+lookup LigatureSubstitutionlookup22 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    sub \tasubscriptorya \rasubscriptorya  by \tarasubscriptorya;
+    sub \naorya \tasubscriptorya \rasubscriptorya  by \nataraorya;
+    sub \saorya \tasubscriptorya \rasubscriptorya  by \sataraorya;
+} LigatureSubstitutionlookup22;
+
+lookup sub_context_presory2_0 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc21_match_1 = [\naorya \saorya ];
+    @cc21_match_2 = [\tasubscriptorya ];
+    @cc21_match_3 = [\rasubscriptorya ];
+    @cc21_match_4 = [\uvowelsignorya \uuvowelsignorya \rvocalicvowelsignorya 
+	\rrvocalicvowelsignorya \viramaorya \lvocalicvowelsignorya 
+	\llvocalicvowelsignorya \kasubscriptorya \khasubscriptorya 
+	\gasubscriptorya \ghasubscriptorya \ngasubscriptorya 
+	\casubscriptorya \chasubscriptorya \jasubscriptorya 
+	\jhasubscriptorya \ttasubscriptorya \tthasubscriptorya 
+	\ddasubscriptorya \ddhasubscriptorya \nnasubscriptorya 
+	\thasubscriptorya \dasubscriptorya \dhasubscriptorya 
+	\nasubscriptorya \pasubscriptorya \phasubscriptorya 
+	\basubscriptorya \bhasubscriptorya \masubscriptorya 
+	\lasubscriptorya \llasubscriptorya \shasubscriptorya 
+	\ssasubscriptorya \sasubscriptorya \hasubscriptorya ];
+    sub @cc21_match_1'lookup LigatureSubstitutionlookup22  @cc21_match_2'lookup LigatureSubstitutionlookup22  @cc21_match_3'lookup LigatureSubstitutionlookup22  @cc21_match_2'lookup LigatureSubstitutionlookup22  ;
+    sub @cc21_match_1'lookup LigatureSubstitutionlookup22  @cc21_match_2'lookup LigatureSubstitutionlookup22  @cc21_match_3'lookup LigatureSubstitutionlookup22  @cc21_match_3'lookup LigatureSubstitutionlookup22  ;
+    sub @cc21_match_1'lookup LigatureSubstitutionlookup22  @cc21_match_2'lookup LigatureSubstitutionlookup22  @cc21_match_3'lookup LigatureSubstitutionlookup22  @cc21_match_4'lookup LigatureSubstitutionlookup22  ;
+    sub @cc21_match_1' @cc21_match_2'lookup LigatureSubstitutionlookup22  @cc21_match_3'lookup LigatureSubstitutionlookup22  ;
+} sub_context_presory2_0;
+
+lookup LigatureSubstitutionlookup25 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    sub \kaorya \ttasubscriptorya  by \kattaorya;
+    sub \kassaorya \nnasubscriptorya  by \kassannaorya;
+    sub \kaorya \sasubscriptorya  by \kasaorya;
+    sub \gaorya \dasubscriptorya  by \gadaorya;
+    sub \gaorya \dhasubscriptorya  by \gadhaorya;
+    sub \ngaorya \kassasubscriptorya  by \ngakassaorya;
+    sub \ddaorya \gasubscriptorya  by \ddagaorya;
+    sub \ddaorya \ddasubscriptorya  by \ddaddaorya;
+    sub \nnaorya \ddhasubscriptorya  by \nnaddhaorya;
+    sub \daorya \gasubscriptorya  by \dagaorya;
+    sub \naorya \thasubscriptorya  by \nathaorya;
+    sub \paorya \pasubscriptorya  by \papaorya;
+    sub \paorya \llasubscriptorya  by \pallaorya;
+    sub \paorya \sasubscriptorya  by \pasaorya;
+    sub \baorya \dhasubscriptorya  by \badhaorya;
+    sub \laorya \gasubscriptorya  by \lagaorya;
+    sub \llaorya \pasubscriptorya  by \llapaorya;
+    sub \llaorya \phasubscriptorya  by \llaphaorya;
+    sub \shaorya \casubscriptorya  by \shacaorya;
+    sub \ssaorya \kasubscriptorya  by \ssakaorya;
+    sub \ssaorya \pasubscriptorya  by \ssapaorya;
+    sub \ssaorya \phasubscriptorya  by \ssaphaorya;
+    sub \saorya \kasubscriptorya  by \sakaorya;
+    sub \saorya \thasubscriptorya  by \sathaorya;
+    sub \kaorya \kasubscriptorya  by \kakaUIorya;
+    sub \kaorya \tasubscriptorya  by \kataUIorya;
+    sub \kaorya \llasubscriptorya  by \kallaUIorya;
+    sub \gaorya \llasubscriptorya  by \gallaUIorya;
+    sub \jaorya \jasubscriptorya  by \jajaUIorya;
+    sub \nnaorya \ttasubscriptorya  by \nnattaUIorya;
+    sub \nnaorya \tthasubscriptorya  by \nnatthaUIorya;
+    sub \naorya \tasubscriptorya  by \nataUIorya;
+    sub \naorya \nasubscriptorya  by \nanaUIorya;
+    sub \paorya \tasubscriptorya  by \pataUIorya;
+    sub \laorya \kasubscriptorya  by \lakaUIorya;
+    sub \laorya \lasubscriptorya  by \lalaUIorya;
+    sub \llaorya \kasubscriptorya  by \llakaUIorya;
+    sub \llaorya \llasubscriptorya  by \llallaUIorya;
+    sub \shaorya \llasubscriptorya  by \shallaUIorya;
+    sub \ssaorya \ttasubscriptorya  by \ssattaUIorya;
+    sub \ssaorya \tthasubscriptorya  by \ssatthaUIorya;
+    sub \saorya \khasubscriptorya  by \sakhaUIorya;
+    sub \saorya \tasubscriptorya  by \sataUIorya;
+    sub \saorya \pasubscriptorya  by \sapaUIorya;
+    sub \saorya \phasubscriptorya  by \saphaUIorya;
+} LigatureSubstitutionlookup25;
+
+lookup LigatureSubstitutionlookup24 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    sub \kaorya \kasubscriptorya  by \kakaorya;
+    sub \kaorya \ttasubscriptorya  by \kattaorya;
+    sub \kaorya \tasubscriptorya  by \kataorya;
+    sub \kaorya \llasubscriptorya  by \kallaorya;
+    sub \kassaorya \nnasubscriptorya  by \kassannaorya;
+    sub \kaorya \sasubscriptorya  by \kasaorya;
+    sub \gaorya \dasubscriptorya  by \gadaorya;
+    sub \gaorya \dhasubscriptorya  by \gadhaorya;
+    sub \gaorya \llasubscriptorya  by \gallaorya;
+    sub \ngaorya \kassasubscriptorya  by \ngakassaorya;
+    sub \jaorya \jasubscriptorya  by \jajaorya;
+    sub \ddaorya \gasubscriptorya  by \ddagaorya;
+    sub \ddaorya \ddasubscriptorya  by \ddaddaorya;
+    sub \nnaorya \ttasubscriptorya  by \nnattaorya;
+    sub \nnaorya \tthasubscriptorya  by \nnatthaorya;
+    sub \nnaorya \ddhasubscriptorya  by \nnaddhaorya;
+    sub \daorya \gasubscriptorya  by \dagaorya;
+    sub \naorya \tasubscriptorya  by \nataorya;
+    sub \naorya \nasubscriptorya  by \nanaorya;
+    sub \paorya \tasubscriptorya  by \pataorya;
+    sub \paorya \pasubscriptorya  by \papaorya;
+    sub \paorya \sasubscriptorya  by \pasaorya;
+    sub \baorya \dhasubscriptorya  by \badhaorya;
+    sub \laorya \kasubscriptorya  by \lakaorya;
+    sub \laorya \gasubscriptorya  by \lagaorya;
+    sub \laorya \lasubscriptorya  by \lalaorya;
+    sub \llaorya \kasubscriptorya  by \llakaorya;
+    sub \llaorya \pasubscriptorya  by \llapaorya;
+    sub \llaorya \phasubscriptorya  by \llaphaorya;
+    sub \llaorya \llasubscriptorya  by \llallaorya;
+    sub \shaorya \casubscriptorya  by \shacaorya;
+    sub \shaorya \llasubscriptorya  by \shallaorya;
+    sub \ssaorya \ttasubscriptorya  by \ssattaorya;
+    sub \ssaorya \tthasubscriptorya  by \ssatthaorya;
+    sub \ssaorya \pasubscriptorya  by \ssapaorya;
+    sub \ssaorya \phasubscriptorya  by \ssaphaorya;
+    sub \saorya \khasubscriptorya  by \sakhaorya;
+    sub \saorya \tasubscriptorya  by \sataorya;
+    sub \saorya \pasubscriptorya  by \sapaorya;
+    sub \saorya \phasubscriptorya  by \saphaorya;
+} LigatureSubstitutionlookup24;
+
+lookup sub_chain_presory2_0 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc23_match_1 = [\kaorya \gaorya \ngaorya \jaorya \ddaorya \nnaorya \daorya \naorya \paorya 
+	\baorya \laorya \llaorya \shaorya \ssaorya \saorya \kassaorya ];
+    @cc23_match_2 = [\nnaddaorya \nnannaorya \tathaorya \nataraorya \mamaorya \shachaorya 
+	\ssannaorya \sataraorya ];
+    @cc23_match_3 = [\kasubscriptorya \khasubscriptorya \gasubscriptorya \casubscriptorya 
+	\jasubscriptorya \ttasubscriptorya \tthasubscriptorya 
+	\ddasubscriptorya \ddhasubscriptorya \nnasubscriptorya 
+	\tasubscriptorya \thasubscriptorya \dasubscriptorya 
+	\dhasubscriptorya \nasubscriptorya \pasubscriptorya 
+	\phasubscriptorya \lasubscriptorya \llasubscriptorya 
+	\sasubscriptorya \kassasubscriptorya ];
+    @cc23_back_1 = [\NULL ];
+    @cc23_ahead_1 = [\uvowelsignorya \uuvowelsignorya \rvocalicvowelsignorya \viramaorya 
+	\kasubscriptorya \jasubscriptorya \tasubscriptorya 
+	\thasubscriptorya \nasubscriptorya \basubscriptorya 
+	\masubscriptorya \rasubscriptorya \lasubscriptorya 
+	\llasubscriptorya ];
+    @cc23_ahead_2 = [\rrvocalicvowelsignorya \lvocalicvowelsignorya \llvocalicvowelsignorya 
+	\khasubscriptorya \gasubscriptorya \ghasubscriptorya 
+	\ngasubscriptorya \casubscriptorya \chasubscriptorya 
+	\jhasubscriptorya \ttasubscriptorya \tthasubscriptorya 
+	\ddasubscriptorya \ddhasubscriptorya \nnasubscriptorya 
+	\dasubscriptorya \dhasubscriptorya \pasubscriptorya 
+	\phasubscriptorya \bhasubscriptorya \shasubscriptorya 
+	\ssasubscriptorya \sasubscriptorya \hasubscriptorya 
+	\kassasubscriptorya ];
+    sub @cc23_match_1'lookup LigatureSubstitutionlookup25  @cc23_match_3'lookup LigatureSubstitutionlookup25  @cc23_ahead_1 @cc23_ahead_1 ;
+    sub @cc23_match_1'lookup LigatureSubstitutionlookup24  @cc23_match_3'lookup LigatureSubstitutionlookup24  @cc23_ahead_1 ;
+    sub @cc23_match_1'lookup LigatureSubstitutionlookup25  @cc23_match_3'lookup LigatureSubstitutionlookup25  @cc23_ahead_2 ;
+    sub @cc23_match_2' @cc23_ahead_2  by [\nnaddaUIorya \nnannaUIorya \tathaUIorya \nataraUIorya \mamaUIorya \shachaUIorya \ssannaUIorya \sataraUIorya ] ;
+} sub_chain_presory2_0;
+
+lookup LigatureSubstitutionlookup28 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    sub \basubscriptorya \rasubscriptorya  by \barasubscriptorya;
+    sub \nnaddaorya \rasubscriptorya  by \nnaddaraorya;
+} LigatureSubstitutionlookup28;
+
+lookup sub_chain_presory2_2 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc27_match_1 = [\basubscriptorya \nnaddaorya ];
+    @cc27_match_2 = [\haorya ];
+    @cc27_match_3 = [\rasubscriptorya ];
+    @cc27_back_1 = [\NULL ];
+    @cc27_ahead_1 = [\uvowelsignorya \uuvowelsignorya \rvocalicvowelsignorya \viramaorya ];
+    @cc27_ahead_2 = [\khasubscriptorya \gasubscriptorya \ghasubscriptorya \ngasubscriptorya 
+	\casubscriptorya \chasubscriptorya \jhasubscriptorya 
+	\ttasubscriptorya \tthasubscriptorya \ddasubscriptorya 
+	\ddhasubscriptorya \nnasubscriptorya \dasubscriptorya 
+	\dhasubscriptorya \pasubscriptorya \phasubscriptorya 
+	\bhasubscriptorya \shasubscriptorya \ssasubscriptorya 
+	\sasubscriptorya \hasubscriptorya \kassasubscriptorya ];
+    sub @cc27_match_1'lookup LigatureSubstitutionlookup28  @cc27_match_3'lookup LigatureSubstitutionlookup28  @cc27_ahead_1 ;
+    sub @cc27_match_2' @cc27_ahead_2  by [\hasquishorya ] ;
+} sub_chain_presory2_2;
+
+lookup abvsAboveBaseSubstitutionslooku {
+  lookupflag 0;
+    @cc30_match_1 = [\ivowelsignorya ];
+    @cc30_back_1 = [\khaorya \thaorya \dhaorya ];
+    @cc30_back_2 = [\phaorya \bhaorya \laorya \phanuktaorya \lanuktaorya \ngakaorya \ngakhaorya 
+	\ngagaorya \ngaghaorya \nyajaorya \dabhaorya \maphaorya \lakaorya 
+	\lagaorya \lalaorya \lakaUIorya \lalaUIorya ];
+    @cc30_back_3 = [\waorya \wanuktaorya \dhayapostorya ];
+    @cc30_ahead_1 = [\NULL ];
+    sub @cc30_back_1 @cc30_match_1'  by [\ivowelsignloworya ] ;
+    sub @cc30_back_2 @cc30_match_1'  by [\ivowelsignwideorya ] ;
+    sub @cc30_back_3 @cc30_match_1'  by [\ivowelsignnarroworya ] ;
+} abvsAboveBaseSubstitutionslooku;
+
+lookup sub_ligature_abvsory2_0 {
+  lookupflag 0;
+    sub \rephorya \candrabinduorya  by \rephcandrabinduorya;
+    sub \candrabinduorya \rephorya  by \rephcandrabinduorya;
+    sub \aiorya \candrabinduorya  by \aicandrabinduorya;
+    sub \aiorya \rephorya  by \airephorya;
+    sub \oorya \uni200D \candrabinduorya  by \omorya;
+    sub \auorya \candrabinduorya  by \aucandrabinduorya;
+    sub \auorya \rephorya  by \aurephorya;
+    sub \ailengthmarkorya \candrabinduorya  by \ailengthmarkcandrabinduorya;
+    sub \rephorya \ailengthmarkorya  by \ailengthmarkrephorya;
+    sub \ailengthmarkorya \rephorya  by \ailengthmarkrephorya;
+    sub \rephorya \ailengthmarkorya \candrabinduorya  by \ailengthmarkrephcandrabinduorya;
+    sub \ailengthmarkorya \rephorya \candrabinduorya  by \ailengthmarkrephcandrabinduorya;
+    sub \ailengthmarkorya \candrabinduorya \rephorya  by \ailengthmarkrephcandrabinduorya;
+    sub \aulengthmarkorya \candrabinduorya  by \aulengthmarkcandrabinduorya;
+    sub \rephorya \aulengthmarkorya  by \aulengthmarkrephorya;
+    sub \rephorya \aulengthmarkorya \candrabinduorya  by \aulengthmarkrephcandrabinduorya;
+} sub_ligature_abvsory2_0;
+
+lookup MultipleSubstitutionlookup44 {
+  lookupflag 0;
+    sub \kasubscriptorya by \viramaorya \kaorya ;
+    sub \khasubscriptorya by \viramaorya \khaorya ;
+    sub \gasubscriptorya by \viramaorya \gaorya ;
+    sub \ghasubscriptorya by \viramaorya \ghaorya ;
+    sub \ngasubscriptorya by \viramaorya \ngaorya ;
+    sub \casubscriptorya by \viramaorya \caorya ;
+    sub \chasubscriptorya by \viramaorya \chaorya ;
+    sub \jasubscriptorya by \viramaorya \jaorya ;
+    sub \jhasubscriptorya by \viramaorya \jhaorya ;
+    sub \ttasubscriptorya by \viramaorya \ttaorya ;
+    sub \tthasubscriptorya by \viramaorya \tthaorya ;
+    sub \ddasubscriptorya by \viramaorya \ddaorya ;
+    sub \ddhasubscriptorya by \viramaorya \ddhaorya ;
+    sub \nnasubscriptorya by \viramaorya \nnaorya ;
+    sub \tasubscriptorya by \viramaorya \taorya ;
+    sub \thasubscriptorya by \viramaorya \thaorya ;
+    sub \dasubscriptorya by \viramaorya \daorya ;
+    sub \dhasubscriptorya by \viramaorya \dhaorya ;
+    sub \nasubscriptorya by \viramaorya \naorya ;
+    sub \pasubscriptorya by \viramaorya \paorya ;
+    sub \phasubscriptorya by \viramaorya \phaorya ;
+    sub \bhasubscriptorya by \viramaorya \bhaorya ;
+    sub \masubscriptorya by \viramaorya \maorya ;
+    sub \rasubscriptorya by \viramaorya \raorya ;
+    sub \lasubscriptorya by \viramaorya \laorya ;
+    sub \llasubscriptorya by \viramaorya \llaorya ;
+    sub \shasubscriptorya by \viramaorya \shaorya ;
+    sub \ssasubscriptorya by \viramaorya \ssaorya ;
+    sub \sasubscriptorya by \viramaorya \saorya ;
+    sub \hasubscriptorya by \viramaorya \haorya ;
+    sub \kassasubscriptorya by \viramaorya \kassaorya ;
+    sub \kattaorya by \kahalforya \ttaorya ;
+    sub \kassannaorya by \kassahalforya \nnaorya ;
+    sub \kasaorya by \kahalforya \saorya ;
+    sub \gadaorya by \gahalforya \daorya ;
+    sub \gadhaorya by \gahalforya \dhaorya ;
+    sub \ngakassaorya by \ngahalforya \kassaorya ;
+    sub \nyachaorya by \nyahalforya \chaorya ;
+    sub \ddagaorya by \ddahalforya \gaorya ;
+    sub \ddaddaorya by \ddahalforya \ddaorya ;
+    sub \tathaorya by \tahalforya \thaorya ;
+    sub \dagaorya by \dahalforya \gaorya ;
+    sub \papaorya by \pahalforya \paorya ;
+    sub \pasaorya by \pahalforya \saorya ;
+    sub \badhaorya by \bahalforya \dhaorya ;
+    sub \lagaorya by \lahalforya \gaorya ;
+    sub \llapaorya by \llahalforya \paorya ;
+    sub \llaphaorya by \llahalforya \phaorya ;
+    sub \shacaorya by \shahalforya \caorya ;
+    sub \ssapaorya by \ssahalforya \paorya ;
+    sub \ssaphaorya by \ssahalforya \phaorya ;
+} MultipleSubstitutionlookup44;
+
+lookup MultipleSubstitutionlookup36 {
+  lookupflag 0;
+    sub \rraorya by \ddaorya \nuktaorya ;
+    sub \rhaorya by \ddhaorya \nuktaorya ;
+    sub \kanuktaorya by \kaorya \nuktaorya ;
+    sub \khanuktaorya by \khaorya \nuktaorya ;
+    sub \ganuktaorya by \gaorya \nuktaorya ;
+    sub \ghanuktaorya by \ghaorya \nuktaorya ;
+    sub \nganuktaorya by \ngaorya \nuktaorya ;
+    sub \canuktaorya by \caorya \nuktaorya ;
+    sub \chanuktaorya by \chaorya \nuktaorya ;
+    sub \januktaorya by \jaorya \nuktaorya ;
+    sub \jhanuktaorya by \jhaorya \nuktaorya ;
+    sub \nyanuktaorya by \nyaorya \nuktaorya ;
+    sub \ttanuktaorya by \ttaorya \nuktaorya ;
+    sub \tthanuktaorya by \tthaorya \nuktaorya ;
+    sub \nnanuktaorya by \nnaorya \nuktaorya ;
+    sub \tanuktaorya by \taorya \nuktaorya ;
+    sub \thanuktaorya by \thaorya \nuktaorya ;
+    sub \danuktaorya by \daorya \nuktaorya ;
+    sub \dhanuktaorya by \dhaorya \nuktaorya ;
+    sub \nanuktaorya by \naorya \nuktaorya ;
+    sub \panuktaorya by \paorya \nuktaorya ;
+    sub \phanuktaorya by \phaorya \nuktaorya ;
+    sub \banuktaorya by \baorya \nuktaorya ;
+    sub \bhanuktaorya by \bhaorya \nuktaorya ;
+    sub \manuktaorya by \maorya \nuktaorya ;
+    sub \yanuktaorya by \yaorya \nuktaorya ;
+    sub \ranuktaorya by \raorya \nuktaorya ;
+    sub \lanuktaorya by \laorya \nuktaorya ;
+    sub \llanuktaorya by \llaorya \nuktaorya ;
+    sub \vanuktaorya by \vaorya \nuktaorya ;
+    sub \shanuktaorya by \shaorya \nuktaorya ;
+    sub \ssanuktaorya by \ssaorya \nuktaorya ;
+    sub \sanuktaorya by \saorya \nuktaorya ;
+    sub \hanuktaorya by \haorya \nuktaorya ;
+    sub \yyanuktaorya by \yyaorya \nuktaorya ;
+    sub \wanuktaorya by \waorya \nuktaorya ;
+} MultipleSubstitutionlookup36;
+
+lookup blwsBelowBaseSubstitutionslooku {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc35_match_1 = [\kasubscriptorya \khasubscriptorya \gasubscriptorya \ghasubscriptorya 
+	\ngasubscriptorya \casubscriptorya \chasubscriptorya 
+	\jasubscriptorya \jhasubscriptorya \ttasubscriptorya 
+	\tthasubscriptorya \ddasubscriptorya \ddhasubscriptorya 
+	\nnasubscriptorya \tasubscriptorya \thasubscriptorya 
+	\dasubscriptorya \dhasubscriptorya \nasubscriptorya 
+	\pasubscriptorya \phasubscriptorya \bhasubscriptorya 
+	\masubscriptorya \rasubscriptorya \lasubscriptorya 
+	\llasubscriptorya \shasubscriptorya \ssasubscriptorya 
+	\sasubscriptorya \hasubscriptorya \kassasubscriptorya ];
+    @cc35_match_2 = [\rraorya \rhaorya ];
+    @cc35_match_3 = [\kanuktaorya \khanuktaorya \ganuktaorya \ghanuktaorya \nganuktaorya 
+	\canuktaorya \chanuktaorya \januktaorya \jhanuktaorya \nyanuktaorya 
+	\ttanuktaorya \tthanuktaorya \nnanuktaorya \tanuktaorya 
+	\thanuktaorya \danuktaorya \dhanuktaorya \nanuktaorya \panuktaorya 
+	\phanuktaorya \banuktaorya \bhanuktaorya \manuktaorya \yanuktaorya 
+	\ranuktaorya \lanuktaorya \llanuktaorya \vanuktaorya \shanuktaorya 
+	\ssanuktaorya \sanuktaorya \hanuktaorya \yyanuktaorya \wanuktaorya ];
+    @cc35_back_1 = [\kanuktaorya \khanuktaorya \ganuktaorya \ghanuktaorya \nganuktaorya 
+	\canuktaorya \chanuktaorya \januktaorya \jhanuktaorya \nyanuktaorya 
+	\ttanuktaorya \tthanuktaorya \nnanuktaorya \tanuktaorya 
+	\thanuktaorya \danuktaorya \dhanuktaorya \nanuktaorya \panuktaorya 
+	\phanuktaorya \banuktaorya \bhanuktaorya \manuktaorya \yanuktaorya 
+	\ranuktaorya \lanuktaorya \llanuktaorya \vanuktaorya \shanuktaorya 
+	\ssanuktaorya \sanuktaorya \hanuktaorya \yyanuktaorya \wanuktaorya ];
+    @cc35_ahead_1 = [\uvowelsignorya \uuvowelsignorya \rvocalicvowelsignorya 
+	\rrvocalicvowelsignorya \lvocalicvowelsignorya 
+	\llvocalicvowelsignorya \kasubscriptorya \khasubscriptorya 
+	\gasubscriptorya \ghasubscriptorya \ngasubscriptorya 
+	\casubscriptorya \chasubscriptorya \jasubscriptorya 
+	\jhasubscriptorya \ttasubscriptorya \tthasubscriptorya 
+	\ddasubscriptorya \ddhasubscriptorya \nnasubscriptorya 
+	\tasubscriptorya \thasubscriptorya \dasubscriptorya 
+	\dhasubscriptorya \nasubscriptorya \pasubscriptorya 
+	\phasubscriptorya \bhasubscriptorya \masubscriptorya 
+	\rasubscriptorya \lasubscriptorya \llasubscriptorya 
+	\shasubscriptorya \ssasubscriptorya \sasubscriptorya 
+	\hasubscriptorya \kassasubscriptorya ];
+    @cc35_ahead_2 = [\basubscriptorya ];
+    sub @cc35_back_1 @cc35_match_1'lookup MultipleSubstitutionlookup44  ;
+    sub @cc35_match_2'lookup MultipleSubstitutionlookup36  @cc35_ahead_1 ;
+    sub @cc35_match_2'lookup MultipleSubstitutionlookup36  @cc35_ahead_2 ;
+    sub @cc35_match_3'lookup MultipleSubstitutionlookup36  @cc35_ahead_2 ;
+} blwsBelowBaseSubstitutionslooku;
+
+lookup sub_ligature_blwsory2_0 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    sub \nuktaorya \tasubscriptorya  by \nuktatasubscriptorya;
+    sub \nuktaorya \rasubscriptorya  by \nuktarasubscriptorya;
+} sub_ligature_blwsory2_0;
+
+lookup SingleSubstitutionlookup39 {
+  lookupflag 0;
+    sub \uvowelsignorya by \uvowelsignloworya ;
+    sub \uuvowelsignorya by \uuvowelsignloworya ;
+    sub \rvocalicvowelsignorya by \rvocalicvowelsignloworya ;
+    sub \rrvocalicvowelsignorya by \rrvocalicvowelsignloworya ;
+    sub \viramaorya by \viramaloworya ;
+    sub \lvocalicvowelsignorya by \lvocalicvowelsignloworya ;
+    sub \llvocalicvowelsignorya by \llvocalicvowelsignloworya ;
+    sub \kasubscriptorya by \kasubscriptloworya ;
+    sub \khasubscriptorya by \khasubscriptloworya ;
+    sub \gasubscriptorya by \gasubscriptloworya ;
+    sub \ghasubscriptorya by \ghasubscriptloworya ;
+    sub \ngasubscriptorya by \ngasubscriptloworya ;
+    sub \casubscriptorya by \casubscriptloworya ;
+    sub \chasubscriptorya by \chasubscriptloworya ;
+    sub \jasubscriptorya by \jasubscriptloworya ;
+    sub \jhasubscriptorya by \jhasubscriptloworya ;
+    sub \ttasubscriptorya by \ttasubscriptloworya ;
+    sub \tthasubscriptorya by \tthasubscriptloworya ;
+    sub \ddasubscriptorya by \ddasubscriptloworya ;
+    sub \ddhasubscriptorya by \ddhasubscriptloworya ;
+    sub \nnasubscriptorya by \nnasubscriptloworya ;
+    sub \tasubscriptorya by \tasubscriptloworya ;
+    sub \thasubscriptorya by \thasubscriptloworya ;
+    sub \dasubscriptorya by \dasubscriptloworya ;
+    sub \dhasubscriptorya by \dhasubscriptloworya ;
+    sub \nasubscriptorya by \nasubscriptloworya ;
+    sub \pasubscriptorya by \pasubscriptloworya ;
+    sub \phasubscriptorya by \phasubscriptloworya ;
+    sub \basubscriptorya by \basubscriptloworya ;
+    sub \bhasubscriptorya by \bhasubscriptloworya ;
+    sub \masubscriptorya by \masubscriptloworya ;
+    sub \rasubscriptorya by \rasubscriptloworya ;
+    sub \lasubscriptorya by \lasubscriptloworya ;
+    sub \llasubscriptorya by \llasubscriptloworya ;
+    sub \shasubscriptorya by \shasubscriptloworya ;
+    sub \ssasubscriptorya by \ssasubscriptloworya ;
+    sub \sasubscriptorya by \sasubscriptloworya ;
+    sub \hasubscriptorya by \hasubscriptloworya ;
+    sub \kassasubscriptorya by \kassasubscriptloworya ;
+} SingleSubstitutionlookup39;
+
+lookup SingleSubstitutionlookup40 {
+  lookupflag 0;
+    sub \uvowelsignorya by \uvowelsignlowerorya ;
+    sub \uuvowelsignorya by \uuvowelsignlowerorya ;
+    sub \rvocalicvowelsignorya by \rvocalicvowelsignlowerorya ;
+    sub \rrvocalicvowelsignorya by \rrvocalicvowelsignleftorya ;
+    sub \viramaorya by \viramalowerorya ;
+    sub \lvocalicvowelsignorya by \lvocalicvowelsignleftorya ;
+    sub \llvocalicvowelsignorya by \llvocalicvowelsignleftorya ;
+    sub \kasubscriptorya by \kasubscriptlowerorya ;
+    sub \khasubscriptorya by \khasubscriptleftorya ;
+    sub \gasubscriptorya by \gasubscriptleftorya ;
+    sub \ghasubscriptorya by \ghasubscriptleftorya ;
+    sub \ngasubscriptorya by \ngasubscriptleftorya ;
+    sub \casubscriptorya by \casubscriptleftorya ;
+    sub \chasubscriptorya by \chasubscriptleftorya ;
+    sub \jasubscriptorya by \jasubscriptlowerorya ;
+    sub \jhasubscriptorya by \jhasubscriptleftorya ;
+    sub \ttasubscriptorya by \ttasubscriptleftorya ;
+    sub \tthasubscriptorya by \tthasubscriptleftorya ;
+    sub \ddasubscriptorya by \ddasubscriptleftorya ;
+    sub \ddhasubscriptorya by \ddhasubscriptleftorya ;
+    sub \nnasubscriptorya by \nnasubscriptleftorya ;
+    sub \tasubscriptorya by \tasubscriptlowerorya ;
+    sub \thasubscriptorya by \thasubscriptlowerorya ;
+    sub \dasubscriptorya by \dasubscriptleftorya ;
+    sub \dhasubscriptorya by \dhasubscriptleftorya ;
+    sub \nasubscriptorya by \nasubscriptlowerorya ;
+    sub \pasubscriptorya by \pasubscriptleftorya ;
+    sub \phasubscriptorya by \phasubscriptleftorya ;
+    sub \basubscriptorya by \basubscriptlowerorya ;
+    sub \bhasubscriptorya by \bhasubscriptleftorya ;
+    sub \masubscriptorya by \masubscriptlowerorya ;
+    sub \rasubscriptorya by \rasubscriptlowerorya ;
+    sub \lasubscriptorya by \lasubscriptlowerorya ;
+    sub \llasubscriptorya by \llasubscriptlowerorya ;
+    sub \shasubscriptorya by \shasubscriptleftorya ;
+    sub \ssasubscriptorya by \ssasubscriptleftorya ;
+    sub \sasubscriptorya by \sasubscriptleftorya ;
+    sub \hasubscriptorya by \hasubscriptleftorya ;
+    sub \kassasubscriptorya by \kassasubscriptleftorya ;
+} SingleSubstitutionlookup40;
+
+lookup SingleSubstitutionlookup41 {
+  lookupflag 0;
+    sub \uvowelsignorya by \uvowelsigndeeporya ;
+    sub \uuvowelsignorya by \uuvowelsigndeeporya ;
+    sub \rvocalicvowelsignorya by \rvocalicvowelsigndeeporya ;
+    sub \rrvocalicvowelsignorya by \rrvocalicvowelsignleftorya ;
+    sub \viramaorya by \viramadeeporya ;
+    sub \lvocalicvowelsignorya by \lvocalicvowelsignleftorya ;
+    sub \llvocalicvowelsignorya by \llvocalicvowelsignleftorya ;
+    sub \kasubscriptorya by \kasubscriptdeeporya ;
+    sub \khasubscriptorya by \khasubscriptleftorya ;
+    sub \gasubscriptorya by \gasubscriptleftorya ;
+    sub \ghasubscriptorya by \ghasubscriptleftorya ;
+    sub \ngasubscriptorya by \ngasubscriptleftorya ;
+    sub \casubscriptorya by \casubscriptleftorya ;
+    sub \chasubscriptorya by \chasubscriptleftorya ;
+    sub \jasubscriptorya by \jasubscriptdeeporya ;
+    sub \jhasubscriptorya by \jhasubscriptleftorya ;
+    sub \ttasubscriptorya by \ttasubscriptleftorya ;
+    sub \tthasubscriptorya by \tthasubscriptleftorya ;
+    sub \ddasubscriptorya by \ddasubscriptleftorya ;
+    sub \ddhasubscriptorya by \ddhasubscriptleftorya ;
+    sub \nnasubscriptorya by \nnasubscriptleftorya ;
+    sub \tasubscriptorya by \tasubscriptdeeporya ;
+    sub \thasubscriptorya by \thasubscriptdeeporya ;
+    sub \dasubscriptorya by \dasubscriptleftorya ;
+    sub \dhasubscriptorya by \dhasubscriptleftorya ;
+    sub \nasubscriptorya by \nasubscriptdeeporya ;
+    sub \pasubscriptorya by \pasubscriptleftorya ;
+    sub \phasubscriptorya by \phasubscriptleftorya ;
+    sub \basubscriptorya by \basubscriptdeeporya ;
+    sub \bhasubscriptorya by \bhasubscriptleftorya ;
+    sub \masubscriptorya by \masubscriptdeeporya ;
+    sub \rasubscriptorya by \rasubscriptdeeporya ;
+    sub \lasubscriptorya by \lasubscriptdeeporya ;
+    sub \llasubscriptorya by \llasubscriptdeeporya ;
+    sub \shasubscriptorya by \shasubscriptleftorya ;
+    sub \ssasubscriptorya by \ssasubscriptleftorya ;
+    sub \sasubscriptorya by \sasubscriptleftorya ;
+    sub \hasubscriptorya by \hasubscriptleftorya ;
+    sub \kassasubscriptorya by \kassasubscriptleftorya ;
+} SingleSubstitutionlookup41;
+
+lookup SingleSubstitutionlookup42 {
+  lookupflag 0;
+    sub \uvowelsignorya by \uvowelsignleftorya ;
+    sub \uuvowelsignorya by \uuvowelsignleftorya ;
+    sub \rvocalicvowelsignorya by \rvocalicvowelsignleftorya ;
+    sub \rrvocalicvowelsignorya by \rrvocalicvowelsignspaceorya ;
+    sub \viramaorya by \viramaleftorya ;
+    sub \lvocalicvowelsignorya by \lvocalicvowelsignspaceorya ;
+    sub \llvocalicvowelsignorya by \llvocalicvowelsignspaceorya ;
+    sub \kasubscriptorya by \kasubscriptleftorya ;
+    sub \khasubscriptorya by \khasubscriptleftorya ;
+    sub \gasubscriptorya by \gasubscriptleftorya ;
+    sub \ghasubscriptorya by \ghasubscriptleftorya ;
+    sub \ngasubscriptorya by \ngasubscriptleftorya ;
+    sub \casubscriptorya by \casubscriptleftorya ;
+    sub \chasubscriptorya by \chasubscriptleftorya ;
+    sub \jasubscriptorya by \jasubscriptleftorya ;
+    sub \jhasubscriptorya by \jhasubscriptleftorya ;
+    sub \ttasubscriptorya by \ttasubscriptleftorya ;
+    sub \tthasubscriptorya by \tthasubscriptleftorya ;
+    sub \ddasubscriptorya by \ddasubscriptleftorya ;
+    sub \ddhasubscriptorya by \ddhasubscriptleftorya ;
+    sub \nnasubscriptorya by \nnasubscriptleftorya ;
+    sub \tasubscriptorya by \tasubscriptleftorya ;
+    sub \thasubscriptorya by \thasubscriptleftorya ;
+    sub \dasubscriptorya by \dasubscriptleftorya ;
+    sub \dhasubscriptorya by \dhasubscriptleftorya ;
+    sub \nasubscriptorya by \nasubscriptleftorya ;
+    sub \pasubscriptorya by \pasubscriptleftorya ;
+    sub \phasubscriptorya by \phasubscriptleftorya ;
+    sub \basubscriptorya by \basubscriptleftorya ;
+    sub \bhasubscriptorya by \bhasubscriptleftorya ;
+    sub \masubscriptorya by \masubscriptleftorya ;
+    sub \rasubscriptorya by \rasubscriptleftorya ;
+    sub \lasubscriptorya by \lasubscriptleftorya ;
+    sub \llasubscriptorya by \llasubscriptleftorya ;
+    sub \shasubscriptorya by \shasubscriptleftorya ;
+    sub \ssasubscriptorya by \ssasubscriptleftorya ;
+    sub \sasubscriptorya by \sasubscriptleftorya ;
+    sub \hasubscriptorya by \hasubscriptleftorya ;
+    sub \kassasubscriptorya by \kassasubscriptleftorya ;
+} SingleSubstitutionlookup42;
+
+lookup SingleSubstitutionlookup43 {
+  lookupflag 0;
+    sub \uvowelsignorya by \uvowelsignaltorya ;
+    sub \uuvowelsignorya by \uuvowelsignaltorya ;
+    sub \rvocalicvowelsignorya by \rvocalicvowelsignaltorya ;
+    sub \rrvocalicvowelsignorya by \rrvocalicvowelsignaltorya ;
+    sub \rasubscriptorya by \rasubscriptaltorya ;
+    sub \ivowelsignloworya by \ivowelsignorya ;
+} SingleSubstitutionlookup43;
+
+lookup sub_chain_blwsory2_0 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc38_match_1 = [\uvowelsignorya \uuvowelsignorya \rvocalicvowelsignorya 
+	\rrvocalicvowelsignorya \rasubscriptorya ];
+    @cc38_match_2 = [\viramaorya \lvocalicvowelsignorya \llvocalicvowelsignorya \kasubscriptorya 
+	\khasubscriptorya \gasubscriptorya \ghasubscriptorya 
+	\ngasubscriptorya \casubscriptorya \chasubscriptorya 
+	\jasubscriptorya \jhasubscriptorya \ttasubscriptorya 
+	\tthasubscriptorya \ddasubscriptorya \ddhasubscriptorya 
+	\nnasubscriptorya \tasubscriptorya \thasubscriptorya 
+	\dasubscriptorya \dhasubscriptorya \nasubscriptorya 
+	\pasubscriptorya \phasubscriptorya \basubscriptorya 
+	\bhasubscriptorya \masubscriptorya \lasubscriptorya 
+	\llasubscriptorya \shasubscriptorya \ssasubscriptorya 
+	\sasubscriptorya \hasubscriptorya \kassasubscriptorya ];
+    @cc38_match_3 = [\ivowelsignloworya ];
+    @cc38_back_1 = [\haorya \yyaorya \cachaorya \takaorya \tanaorya \tapaorya \tamaorya \tasaorya 
+	\nathaorya \pallaorya \ssakaorya \sakaorya \sathaorya \kakaUIorya 
+	\kataUIorya \kallaUIorya \gallaUIorya \jajaUIorya \nnattaUIorya 
+	\nnatthaUIorya \nnaddaUIorya \nnannaUIorya \nataUIorya \nataraUIorya 
+	\nanaUIorya \pataUIorya \mamaUIorya \lakaUIorya \lalaUIorya 
+	\llakaUIorya \llallaUIorya \shachaUIorya \shallaUIorya \ssattaUIorya 
+	\ssatthaUIorya \ssannaUIorya \sakhaUIorya \sataUIorya \sataraUIorya 
+	\sapaUIorya \saphaUIorya ];
+    @cc38_back_2 = [\rraorya \rhaorya \kanuktaorya \khanuktaorya \ganuktaorya \ghanuktaorya 
+	\nganuktaorya \canuktaorya \chanuktaorya \januktaorya \jhanuktaorya 
+	\nyanuktaorya \ttanuktaorya \tthanuktaorya \nnanuktaorya 
+	\tanuktaorya \thanuktaorya \danuktaorya \dhanuktaorya \nanuktaorya 
+	\panuktaorya \phanuktaorya \banuktaorya \bhanuktaorya \manuktaorya 
+	\yanuktaorya \ranuktaorya \lanuktaorya \llanuktaorya \vanuktaorya 
+	\shanuktaorya \ssanuktaorya \sanuktaorya \hanuktaorya \yyanuktaorya 
+	\wanuktaorya \rasubscriptorya \kakaorya \kattaorya \kataorya 
+	\kallaorya \kasaorya \gadaorya \gallaorya \ngakassaorya \jajaorya 
+	\nyachaorya \ddagaorya \ddaddaorya \nnattaorya \nnatthaorya 
+	\nnaddaorya \nnaddhaorya \dagaorya \nataorya \nataraorya \nanaorya 
+	\pataorya \papaorya \pasaorya \mamaorya \lakaorya \lagaorya \lalaorya 
+	\llakaorya \llapaorya \llaphaorya \llallaorya \shacaorya \shallaorya 
+	\ssattaorya \ssatthaorya \ssapaorya \ssaphaorya \sakhaorya \sataorya 
+	\sataraorya \sapaorya \saphaorya \tathaUIorya \rasubscriptaltorya ];
+    @cc38_back_3 = [\kasubscriptorya \khasubscriptorya \gasubscriptorya \ghasubscriptorya 
+	\ngasubscriptorya \casubscriptorya \chasubscriptorya 
+	\jasubscriptorya \jhasubscriptorya \ttasubscriptorya 
+	\tthasubscriptorya \ddasubscriptorya \ddhasubscriptorya 
+	\nnasubscriptorya \tasubscriptorya \thasubscriptorya 
+	\dasubscriptorya \dhasubscriptorya \nasubscriptorya 
+	\pasubscriptorya \phasubscriptorya \basubscriptorya 
+	\bhasubscriptorya \masubscriptorya \lasubscriptorya 
+	\llasubscriptorya \shasubscriptorya \ssasubscriptorya 
+	\sasubscriptorya \hasubscriptorya \kassasubscriptorya \kassannaorya 
+	\gadhaorya \nnannaorya \tathaorya \badhaorya \shachaorya \ssannaorya 
+	\nuktatasubscriptorya \nuktarasubscriptorya \hakaorya \hajaorya 
+	\hanaorya \habaorya \hamaorya \haraorya \halaorya \hallaorya 
+	\yyakaorya \yyajaorya \yyanaorya \yyabaorya \yyamaorya \yyaraorya 
+	\yyalaorya \yyallaorya \barasubscriptorya \nnaddaraorya ];
+    @cc38_back_4 = [\kasubscriptloworya \khasubscriptloworya \gasubscriptloworya 
+	\ghasubscriptloworya \ngasubscriptloworya \casubscriptloworya 
+	\chasubscriptloworya \jasubscriptloworya \jhasubscriptloworya 
+	\ttasubscriptloworya \tthasubscriptloworya \ddasubscriptloworya 
+	\ddhasubscriptloworya \nnasubscriptloworya \tasubscriptloworya 
+	\thasubscriptloworya \dasubscriptloworya \dhasubscriptloworya 
+	\nasubscriptloworya \pasubscriptloworya \phasubscriptloworya 
+	\basubscriptloworya \bhasubscriptloworya \masubscriptloworya 
+	\rasubscriptloworya \lasubscriptloworya \llasubscriptloworya 
+	\shasubscriptloworya \ssasubscriptloworya \sasubscriptloworya 
+	\hasubscriptloworya \kassasubscriptloworya \kasubscriptlowerorya 
+	\jasubscriptlowerorya \tasubscriptlowerorya \thasubscriptlowerorya 
+	\nasubscriptlowerorya \basubscriptlowerorya \masubscriptlowerorya 
+	\rasubscriptlowerorya \lasubscriptlowerorya \llasubscriptlowerorya 
+	\kasubscriptdeeporya \khasubscriptleftorya \gasubscriptleftorya 
+	\ghasubscriptleftorya \ngasubscriptleftorya \casubscriptleftorya 
+	\chasubscriptleftorya \jasubscriptdeeporya \jhasubscriptleftorya 
+	\ttasubscriptleftorya \tthasubscriptleftorya \ddasubscriptleftorya 
+	\ddhasubscriptleftorya \nnasubscriptleftorya \tasubscriptdeeporya 
+	\thasubscriptdeeporya \dasubscriptleftorya \dhasubscriptleftorya 
+	\nasubscriptdeeporya \pasubscriptleftorya \phasubscriptleftorya 
+	\basubscriptdeeporya \bhasubscriptleftorya \masubscriptdeeporya 
+	\rasubscriptdeeporya \lasubscriptdeeporya \llasubscriptdeeporya 
+	\shasubscriptleftorya \ssasubscriptleftorya \sasubscriptleftorya 
+	\hasubscriptleftorya \kassasubscriptleftorya \kasubscriptleftorya 
+	\jasubscriptleftorya \tasubscriptleftorya \thasubscriptleftorya 
+	\nasubscriptleftorya \basubscriptleftorya \masubscriptleftorya 
+	\rasubscriptleftorya \lasubscriptleftorya \llasubscriptleftorya 
+	\takaraorya ];
+    @cc38_back_5 = [\ngaorya \caorya \jhaorya \nyaorya \ttaorya \tthaorya \ddaorya \ddhaorya \taorya 
+	\bhaorya \raorya \cacaorya \tataorya ];
+    @cc38_ahead_1 = [\kasubscriptorya \khasubscriptorya \gasubscriptorya \ghasubscriptorya 
+	\ngasubscriptorya \casubscriptorya \chasubscriptorya 
+	\jasubscriptorya \jhasubscriptorya \ttasubscriptorya 
+	\tthasubscriptorya \ddasubscriptorya \ddhasubscriptorya 
+	\nnasubscriptorya \tasubscriptorya \thasubscriptorya 
+	\dasubscriptorya \dhasubscriptorya \nasubscriptorya 
+	\pasubscriptorya \phasubscriptorya \basubscriptorya 
+	\bhasubscriptorya \masubscriptorya \rasubscriptorya 
+	\lasubscriptorya \llasubscriptorya \shasubscriptorya 
+	\ssasubscriptorya \sasubscriptorya \hasubscriptorya 
+	\kassasubscriptorya ];
+    sub @cc38_back_1 @cc38_match_1'lookup SingleSubstitutionlookup39  ;
+    sub @cc38_back_2 @cc38_match_1'lookup SingleSubstitutionlookup40  ;
+    sub @cc38_back_3 @cc38_match_1'lookup SingleSubstitutionlookup41  ;
+    sub @cc38_back_4 @cc38_match_1'lookup SingleSubstitutionlookup42  ;
+    sub @cc38_back_5 @cc38_match_1'lookup SingleSubstitutionlookup43  ;
+    sub @cc38_back_1 @cc38_match_2'lookup SingleSubstitutionlookup39  ;
+    sub @cc38_back_2 @cc38_match_2'lookup SingleSubstitutionlookup40  ;
+    sub @cc38_back_3 @cc38_match_2'lookup SingleSubstitutionlookup41  ;
+    sub @cc38_back_4 @cc38_match_2'lookup SingleSubstitutionlookup42  ;
+    sub @cc38_match_3'lookup SingleSubstitutionlookup43  @cc38_ahead_1 ;
+} sub_chain_blwsory2_0;
+
+lookup sub_ligature_blwsory2_2 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    sub \nuktaorya \kasubscriptorya  by \nuktakasubscriptorya;
+    sub \nuktaorya \khasubscriptorya  by \nuktakhasubscriptorya;
+    sub \nuktaorya \gasubscriptorya  by \nuktagasubscriptorya;
+    sub \nuktaorya \ghasubscriptorya  by \nuktaghasubscriptorya;
+    sub \nuktaorya \ngasubscriptorya  by \nuktangasubscriptorya;
+    sub \nuktaorya \casubscriptorya  by \nuktacasubscriptorya;
+    sub \nuktaorya \chasubscriptorya  by \nuktachasubscriptorya;
+    sub \nuktaorya \jasubscriptorya  by \nuktajasubscriptorya;
+    sub \nuktaorya \jhasubscriptorya  by \nuktajhasubscriptorya;
+    sub \nuktaorya \ttasubscriptorya  by \nuktattasubscriptorya;
+    sub \nuktaorya \tthasubscriptorya  by \nuktatthasubscriptorya;
+    sub \nuktaorya \ddasubscriptorya  by \nuktaddasubscriptorya;
+    sub \nuktaorya \ddhasubscriptorya  by \nuktaddhasubscriptorya;
+    sub \nuktaorya \nnasubscriptorya  by \nuktannasubscriptorya;
+    sub \nuktaorya \thasubscriptorya  by \nuktathasubscriptorya;
+    sub \nuktaorya \dasubscriptorya  by \nuktadasubscriptorya;
+    sub \nuktaorya \dhasubscriptorya  by \nuktadhasubscriptorya;
+    sub \nuktaorya \nasubscriptorya  by \nuktanasubscriptorya;
+    sub \nuktaorya \pasubscriptorya  by \nuktapasubscriptorya;
+    sub \nuktaorya \phasubscriptorya  by \nuktaphasubscriptorya;
+    sub \nuktaorya \basubscriptorya  by \nuktabasubscriptorya;
+    sub \nuktaorya \bhasubscriptorya  by \nuktabhasubscriptorya;
+    sub \nuktaorya \masubscriptorya  by \nuktamasubscriptorya;
+    sub \nuktaorya \lasubscriptorya  by \nuktalasubscriptorya;
+    sub \nuktaorya \llasubscriptorya  by \nuktallasubscriptorya;
+    sub \nuktaorya \shasubscriptorya  by \nuktashasubscriptorya;
+    sub \nuktaorya \ssasubscriptorya  by \nuktassasubscriptorya;
+    sub \nuktaorya \sasubscriptorya  by \nuktasasubscriptorya;
+    sub \nuktaorya \hasubscriptorya  by \nuktahasubscriptorya;
+    sub \nuktaorya \kassasubscriptorya  by \nuktakassasubscriptorya;
+    sub \nuktaorya \uvowelsignorya  by \nuktauvowelsignorya;
+    sub \nuktaorya \uuvowelsignorya  by \nuktauuvowelsignorya;
+    sub \nuktaorya \rvocalicvowelsignorya  by \nuktarvocalicvowelsignorya;
+    sub \nuktaorya \rrvocalicvowelsignorya  by \nuktarrvocalicvowelsignorya;
+    sub \nuktaorya \lvocalicvowelsignorya  by \nuktalvocalicvowelsignorya;
+    sub \nuktaorya \llvocalicvowelsignorya  by \nuktallvocalicvowelsignorya;
+    sub \rasubscriptloworya \uvowelsignleftorya  by \ruvowelsubscriptloworya;
+} sub_ligature_blwsory2_2;
+
+lookup sub_chain_blwsory2_2 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc46_match_1 = [\rasubscriptorya ];
+    @cc46_match_2 = [\uvowelsigndeeporya \uuvowelsigndeeporya \rvocalicvowelsigndeeporya 
+	\viramadeeporya \rasubscriptdeeporya ];
+    @cc46_back_1 = [\kaorya \jaorya \laorya \llaorya ];
+    @cc46_back_2 = [\daorya \naorya \baorya \vaorya \waorya \nadaorya \nadhaorya ];
+    @cc46_back_3 = [\kasubscriptorya \khasubscriptorya \gasubscriptorya \ghasubscriptorya 
+	\ngasubscriptorya \casubscriptorya \chasubscriptorya 
+	\jasubscriptorya \jhasubscriptorya \ttasubscriptorya 
+	\tthasubscriptorya \ddasubscriptorya \ddhasubscriptorya 
+	\nnasubscriptorya \tasubscriptorya \thasubscriptorya 
+	\dasubscriptorya \dhasubscriptorya \nasubscriptorya 
+	\pasubscriptorya \phasubscriptorya \basubscriptorya 
+	\bhasubscriptorya \masubscriptorya \lasubscriptorya 
+	\llasubscriptorya \shasubscriptorya \ssasubscriptorya 
+	\sasubscriptorya \hasubscriptorya \kassasubscriptorya 
+	\nuktakasubscriptorya \nuktakhasubscriptorya \nuktagasubscriptorya 
+	\nuktaghasubscriptorya \nuktangasubscriptorya 
+	\nuktacasubscriptorya \nuktachasubscriptorya \nuktajasubscriptorya 
+	\nuktajhasubscriptorya \nuktattasubscriptorya 
+	\nuktatthasubscriptorya \nuktaddasubscriptorya 
+	\nuktaddhasubscriptorya \nuktannasubscriptorya 
+	\nuktatasubscriptorya \nuktathasubscriptorya \nuktadasubscriptorya 
+	\nuktadhasubscriptorya \nuktanasubscriptorya \nuktapasubscriptorya 
+	\nuktaphasubscriptorya \nuktabasubscriptorya 
+	\nuktabhasubscriptorya \nuktamasubscriptorya \nuktarasubscriptorya 
+	\nuktalasubscriptorya \nuktallasubscriptorya 
+	\nuktashasubscriptorya \nuktassasubscriptorya 
+	\nuktasasubscriptorya \nuktahasubscriptorya 
+	\nuktakassasubscriptorya \barasubscriptorya ];
+    @cc46_ahead_1 = [\NULL ];
+    sub @cc46_back_1 @cc46_match_1'  by [\rasubscriptshortorya ] ;
+    sub @cc46_back_2 @cc46_match_1'  by [\rasubscriptshorterorya ] ;
+    sub @cc46_back_3 @cc46_match_2'  by [\uvowelsignmarkorya \uuvowelsignmarkorya \rvocalicvowelsignmarkorya \viramamarkorya \rasubscriptmarkorya ] ;
+} sub_chain_blwsory2_2;
+
+lookup SingleSubstitutionlookup51 {
+  lookupflag 0;
+    sub \khasubscriptleftorya by \khasubscriptspaceorya ;
+    sub \gasubscriptleftorya by \gasubscriptspaceorya ;
+    sub \ghasubscriptleftorya by \ghasubscriptspaceorya ;
+    sub \ngasubscriptleftorya by \ngasubscriptspaceorya ;
+    sub \casubscriptleftorya by \casubscriptspaceorya ;
+    sub \chasubscriptleftorya by \chasubscriptspaceorya ;
+    sub \jhasubscriptleftorya by \jhasubscriptspaceorya ;
+    sub \ttasubscriptleftorya by \ttasubscriptspaceorya ;
+    sub \tthasubscriptleftorya by \tthasubscriptspaceorya ;
+    sub \ddasubscriptleftorya by \ddasubscriptspaceorya ;
+    sub \ddhasubscriptleftorya by \ddhasubscriptspaceorya ;
+    sub \nnasubscriptleftorya by \nnasubscriptspaceorya ;
+    sub \dasubscriptleftorya by \dasubscriptspaceorya ;
+    sub \dhasubscriptleftorya by \dhasubscriptspaceorya ;
+    sub \pasubscriptleftorya by \pasubscriptspaceorya ;
+    sub \phasubscriptleftorya by \phasubscriptspaceorya ;
+    sub \bhasubscriptleftorya by \bhasubscriptspaceorya ;
+    sub \shasubscriptleftorya by \shasubscriptspaceorya ;
+    sub \ssasubscriptleftorya by \ssasubscriptspaceorya ;
+    sub \sasubscriptleftorya by \sasubscriptspaceorya ;
+    sub \hasubscriptleftorya by \hasubscriptspaceorya ;
+    sub \kassasubscriptleftorya by \kassasubscriptspaceorya ;
+} SingleSubstitutionlookup51;
+
+lookup sub_chain_blwsory2_4 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc50_match_1 = [\khasubscriptleftorya \gasubscriptleftorya \ghasubscriptleftorya 
+	\ngasubscriptleftorya \casubscriptleftorya \chasubscriptleftorya 
+	\jhasubscriptleftorya \ttasubscriptleftorya \tthasubscriptleftorya 
+	\ddasubscriptleftorya \ddhasubscriptleftorya \nnasubscriptleftorya 
+	\dasubscriptleftorya \dhasubscriptleftorya \pasubscriptleftorya 
+	\phasubscriptleftorya \bhasubscriptleftorya \shasubscriptleftorya 
+	\ssasubscriptleftorya \sasubscriptleftorya \hasubscriptleftorya 
+	\kassasubscriptleftorya ];
+    @cc50_back_1 = [\kattaorya \kassannaorya \gadaorya \gadhaorya \nyachaorya \ddagaorya 
+	\nnaddhaorya \dagaorya \papaorya \pasaorya \badhaorya \shacaorya 
+	\ssapaorya \ssaphaorya \nuktakasubscriptorya \nuktakhasubscriptorya 
+	\nuktagasubscriptorya \nuktaghasubscriptorya 
+	\nuktangasubscriptorya \nuktacasubscriptorya 
+	\nuktachasubscriptorya \nuktajasubscriptorya 
+	\nuktajhasubscriptorya \nuktattasubscriptorya 
+	\nuktatthasubscriptorya \nuktaddasubscriptorya 
+	\nuktaddhasubscriptorya \nuktannasubscriptorya 
+	\nuktatasubscriptorya \nuktathasubscriptorya \nuktadasubscriptorya 
+	\nuktadhasubscriptorya \nuktanasubscriptorya \nuktapasubscriptorya 
+	\nuktaphasubscriptorya \nuktabasubscriptorya 
+	\nuktabhasubscriptorya \nuktamasubscriptorya \nuktarasubscriptorya 
+	\nuktalasubscriptorya \nuktallasubscriptorya 
+	\nuktashasubscriptorya \nuktassasubscriptorya 
+	\nuktasasubscriptorya \nuktahasubscriptorya 
+	\nuktakassasubscriptorya \tathaUIorya \khasubscriptleftorya 
+	\gasubscriptleftorya \ghasubscriptleftorya \ngasubscriptleftorya 
+	\casubscriptleftorya \chasubscriptleftorya \jhasubscriptleftorya 
+	\ttasubscriptleftorya \tthasubscriptleftorya \ddasubscriptleftorya 
+	\ddhasubscriptleftorya \nnasubscriptleftorya \dasubscriptleftorya 
+	\dhasubscriptleftorya \pasubscriptleftorya \phasubscriptleftorya 
+	\bhasubscriptleftorya \shasubscriptleftorya \ssasubscriptleftorya 
+	\sasubscriptleftorya \hasubscriptleftorya \kassasubscriptleftorya 
+	\kasubscriptleftorya \jasubscriptleftorya \tasubscriptleftorya 
+	\thasubscriptleftorya \nasubscriptleftorya \basubscriptleftorya 
+	\masubscriptleftorya \rasubscriptleftorya \lasubscriptleftorya 
+	\llasubscriptleftorya \halaorya \yyalaorya \takaraorya 
+	\khasubscriptspaceorya \gasubscriptspaceorya 
+	\ghasubscriptspaceorya \ngasubscriptspaceorya 
+	\casubscriptspaceorya \chasubscriptspaceorya 
+	\jhasubscriptspaceorya \ttasubscriptspaceorya 
+	\tthasubscriptspaceorya \ddasubscriptspaceorya 
+	\ddhasubscriptspaceorya \nnasubscriptspaceorya 
+	\dasubscriptspaceorya \dhasubscriptspaceorya \pasubscriptspaceorya 
+	\phasubscriptspaceorya \bhasubscriptspaceorya 
+	\shasubscriptspaceorya \ssasubscriptspaceorya 
+	\sasubscriptspaceorya \hasubscriptspaceorya 
+	\kassasubscriptspaceorya \khasubscriptleftmarkorya 
+	\gasubscriptleftmarkorya \ghasubscriptleftmarkorya 
+	\ngasubscriptleftmarkorya \casubscriptleftmarkorya 
+	\chasubscriptleftmarkorya \jhasubscriptleftmarkorya 
+	\ttasubscriptleftmarkorya \tthasubscriptleftmarkorya 
+	\ddasubscriptleftmarkorya \ddhasubscriptleftmarkorya 
+	\nnasubscriptleftmarkorya \dasubscriptleftmarkorya 
+	\dhasubscriptleftmarkorya \pasubscriptleftmarkorya 
+	\phasubscriptleftmarkorya \bhasubscriptleftmarkorya 
+	\shasubscriptleftmarkorya \ssasubscriptleftmarkorya 
+	\sasubscriptleftmarkorya \hasubscriptleftmarkorya 
+	\kassasubscriptleftmarkorya ];
+    @cc50_back_2 = [\kasaorya \ngakassaorya \ddaddaorya \lagaorya \llapaorya \llaphaorya \hakaorya 
+	\hajaorya \hanaorya \habaorya \hamaorya \haraorya \hallaorya 
+	\yyakaorya \yyajaorya \yyanaorya \yyabaorya \yyamaorya \yyaraorya 
+	\yyallaorya ];
+    @cc50_back_3 = [\kasubscriptorya \khasubscriptorya \gasubscriptorya \ghasubscriptorya 
+	\ngasubscriptorya \casubscriptorya \chasubscriptorya 
+	\jasubscriptorya \jhasubscriptorya \ttasubscriptorya 
+	\tthasubscriptorya \ddasubscriptorya \ddhasubscriptorya 
+	\nnasubscriptorya \tasubscriptorya \thasubscriptorya 
+	\dasubscriptorya \dhasubscriptorya \nasubscriptorya 
+	\pasubscriptorya \phasubscriptorya \basubscriptorya 
+	\bhasubscriptorya \masubscriptorya \rasubscriptorya 
+	\lasubscriptorya \llasubscriptorya \shasubscriptorya 
+	\ssasubscriptorya \sasubscriptorya \hasubscriptorya 
+	\kassasubscriptorya \tarasubscriptorya ];
+    @cc50_back_4 = [\khaorya \gaorya \ghaorya \nnaorya \thaorya \dhaorya \paorya \maorya \yaorya 
+	\shaorya \ssaorya \saorya \kassaorya \nyajaorya \dhayapostorya 
+	\mapaorya ];
+    @cc50_ahead_1 = [\NULL ];
+    sub @cc50_back_1 @cc50_match_1'lookup SingleSubstitutionlookup51  ;
+    sub @cc50_back_2 @cc50_match_1'  by [\khasubscriptleftmarkorya \gasubscriptleftmarkorya \ghasubscriptleftmarkorya \ngasubscriptleftmarkorya \casubscriptleftmarkorya \chasubscriptleftmarkorya \jhasubscriptleftmarkorya \ttasubscriptleftmarkorya \tthasubscriptleftmarkorya \ddasubscriptleftmarkorya \ddhasubscriptleftmarkorya \nnasubscriptleftmarkorya \dasubscriptleftmarkorya \dhasubscriptleftmarkorya \pasubscriptleftmarkorya \phasubscriptleftmarkorya \bhasubscriptleftmarkorya \shasubscriptleftmarkorya \ssasubscriptleftmarkorya \sasubscriptleftmarkorya \hasubscriptleftmarkorya \kassasubscriptleftmarkorya ] ;
+    sub @cc50_back_3 @cc50_back_4 @cc50_match_1'lookup SingleSubstitutionlookup51  ;
+} sub_chain_blwsory2_4;
+
+lookup SingleSubstitutionlookup54 {
+  lookupflag 0;
+    sub \uvowelsignleftorya by \uvowelsignspaceorya ;
+    sub \uuvowelsignleftorya by \uuvowelsignspaceorya ;
+    sub \rvocalicvowelsignleftorya by \rvocalicvowelsignspaceorya ;
+    sub \kasubscriptleftorya by \kasubscriptspaceorya ;
+    sub \jasubscriptleftorya by \jasubscriptspaceorya ;
+    sub \tasubscriptleftorya by \tasubscriptspaceorya ;
+    sub \thasubscriptleftorya by \thasubscriptspaceorya ;
+    sub \nasubscriptleftorya by \nasubscriptspaceorya ;
+    sub \basubscriptleftorya by \basubscriptspaceorya ;
+    sub \masubscriptleftorya by \masubscriptspaceorya ;
+    sub \rasubscriptleftorya by \rasubscriptspaceorya ;
+    sub \lasubscriptleftorya by \lasubscriptspaceorya ;
+    sub \llasubscriptleftorya by \llasubscriptspaceorya ;
+} SingleSubstitutionlookup54;
+
+lookup sub_chain_blwsory2_6 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc53_match_1 = [\uvowelsignleftorya \uuvowelsignleftorya \rvocalicvowelsignleftorya 
+	\kasubscriptleftorya \jasubscriptleftorya \tasubscriptleftorya 
+	\thasubscriptleftorya \nasubscriptleftorya \basubscriptleftorya 
+	\masubscriptleftorya \rasubscriptleftorya \lasubscriptleftorya 
+	\llasubscriptleftorya ];
+    @cc53_back_0 = [\.notdef \NULL \nonmarkingreturn \space \candrabinduorya 
+	\anusvaraorya \visargaorya \aorya \aaorya \iorya \iiorya \uorya 
+	\uuorya \rvocalicorya \lvocalicorya \eorya \aiorya \oorya 
+	\auorya \kaorya \ngaorya \caorya \chaorya \jaorya \jhaorya 
+	\nyaorya \ttaorya \tthaorya \ddaorya \ddhaorya \taorya \daorya 
+	\naorya \phaorya \baorya \bhaorya \raorya \laorya \llaorya 
+	\vaorya \haorya \nuktaorya \avagrahaorya \aavowelsignorya 
+	\ivowelsignorya \iivowelsignorya \uvowelsignorya 
+	\uuvowelsignorya \rvocalicvowelsignorya \rrvocalicvowelsignorya 
+	\evowelsignorya \aivowelsignorya \ovowelsignorya 
+	\auvowelsignorya \viramaorya \ailengthmarkorya 
+	\aulengthmarkorya \rraorya \rhaorya \yyaorya \rrvocalicorya 
+	\llvocalicorya \lvocalicvowelsignorya \llvocalicvowelsignorya 
+	\zeroorya \oneorya \twoorya \threeorya \fourorya \fiveorya 
+	\sixorya \sevenorya \eightorya \nineorya \issharorya \waorya 
+	\uni0B72 \uni0B73 \uni0B74 \uni0B75 \uni0B76 \uni0B77 
+	\kanuktaorya \khanuktaorya \ganuktaorya \ghanuktaorya 
+	\nganuktaorya \canuktaorya \chanuktaorya \januktaorya 
+	\jhanuktaorya \nyanuktaorya \ttanuktaorya \tthanuktaorya 
+	\nnanuktaorya \tanuktaorya \thanuktaorya \danuktaorya 
+	\dhanuktaorya \nanuktaorya \panuktaorya \phanuktaorya 
+	\banuktaorya \bhanuktaorya \manuktaorya \yanuktaorya 
+	\ranuktaorya \lanuktaorya \llanuktaorya \vanuktaorya 
+	\shanuktaorya \ssanuktaorya \sanuktaorya \hanuktaorya 
+	\yyanuktaorya \wanuktaorya \rephorya \yapostorya \kakaorya 
+	\kattaorya \kataorya \kallaorya \kassannaorya \kasaorya 
+	\gadaorya \gadhaorya \gallaorya \ngakaorya \ngakhaorya 
+	\ngagaorya \ngaghaorya \ngakassaorya \cacaorya \cachaorya 
+	\jajaorya \janyaorya \nyacaorya \nyachaorya \nyajhaorya 
+	\ttattaorya \ddagaorya \ddaddaorya \nnattaorya \nnatthaorya 
+	\nnaddaorya \nnaddhaorya \nnannaorya \takaorya \tataorya 
+	\tathaorya \tanaorya \tapaorya \tamaorya \tasaorya \dagaorya 
+	\dadaorya \dadhaorya \dabhaorya \nataorya \nataraorya 
+	\nathaorya \nadaorya \nadhaorya \nanaorya \pataorya \papaorya 
+	\pallaorya \pasaorya \badaorya \badhaorya \babaorya \maphaorya 
+	\mabhaorya \mamaorya \lakaorya \lagaorya \lalaorya \llakaorya 
+	\llapaorya \llaphaorya \llallaorya \shacaorya \shachaorya 
+	\shallaorya \ssakaorya \ssattaorya \ssatthaorya \ssannaorya 
+	\ssapaorya \ssaphaorya \sakaorya \sakhaorya \sataorya 
+	\sataraorya \sathaorya \sapaorya \saphaorya 
+	\rephcandrabinduorya \aicandrabinduorya \airephorya \omorya 
+	\aucandrabinduorya \aurephorya \ivowelsigncandrabinduorya 
+	\ivowelsignrephorya \ivowelsignrephcandrabinduorya 
+	\ailengthmarkcandrabinduorya \ailengthmarkrephorya 
+	\ailengthmarkrephcandrabinduorya \aulengthmarkcandrabinduorya 
+	\aulengthmarkrephorya \aulengthmarkrephcandrabinduorya 
+	\ivowelsignloworya \ivowelsignwideorya 
+	\ivowelsigncandrabinduwideorya \ivowelsignrephwideorya 
+	\ivowelrephcandrabinduwideorya \ivowelsignnarroworya 
+	\ivowelsigncandrabindunarroworya \ivowelsignrephnarroworya 
+	\ivowelrephcandrabindunarroworya \uvowelsignaltorya 
+	\uuvowelsignaltorya \rvocalicvowelsignaltorya 
+	\rrvocalicvowelsignaltorya \uvowelsignloworya 
+	\uuvowelsignloworya \rvocalicvowelsignloworya 
+	\rrvocalicvowelsignloworya \viramaloworya 
+	\lvocalicvowelsignloworya \llvocalicvowelsignloworya 
+	\uvowelsignlowerorya \uuvowelsignlowerorya 
+	\rvocalicvowelsignlowerorya \viramalowerorya 
+	\uvowelsigndeeporya \uuvowelsigndeeporya 
+	\rvocalicvowelsigndeeporya \rrvocalicvowelsignleftorya 
+	\viramadeeporya \lvocalicvowelsignleftorya 
+	\llvocalicvowelsignleftorya \kahalforya \khahalforya 
+	\gahalforya \ghahalforya \ngahalforya \cahalforya \chahalforya 
+	\jahalforya \jhahalforya \nyahalforya \ttahalforya 
+	\tthahalforya \ddahalforya \ddhahalforya \nnahalforya 
+	\tahalforya \thahalforya \dahalforya \dhahalforya \nahalforya 
+	\pahalforya \phahalforya \bahalforya \bhahalforya \mahalforya 
+	\yahalforya \rahalforya \lahalforya \llahalforya \vahalforya 
+	\shahalforya \ssahalforya \sahalforya \hahalforya \rrahalforya 
+	\rhahalforya \yyahalforya \wahalforya \kanuktahalforya 
+	\khanuktahalforya \ganuktahalforya \ghanuktahalforya 
+	\nganuktahalforya \canuktahalforya \chanuktahalforya 
+	\januktahalforya \jhanuktahalforya \nyanuktahalforya 
+	\ttanuktahalforya \tthanuktahalforya \nnanuktahalforya 
+	\tanuktahalforya \thanuktahalforya \danuktahalforya 
+	\dhanuktahalforya \nanuktahalforya \panuktahalforya 
+	\phanuktahalforya \banuktahalforya \bhanuktahalforya 
+	\manuktahalforya \yanuktahalforya \ranuktahalforya 
+	\lanuktahalforya \llanuktahalforya \vanuktahalforya 
+	\shanuktahalforya \ssanuktahalforya \sanuktahalforya 
+	\hanuktahalforya \yyanuktahalforya \wanuktahalforya 
+	\kassahalforya \exclam.orya \quotedbl.orya \numbersign.orya 
+	\percent.orya \quotesingle.orya \parenleft.orya 
+	\parenright.orya \asterisk.orya \plus.orya \comma.orya 
+	\hyphen.orya \period.orya \slash.orya \zero.orya \one.orya 
+	\two.orya \three.orya \four.orya \five.orya \six.orya 
+	\seven.orya \eight.orya \nine.orya \colon.orya \semicolon.orya 
+	\less.orya \equal.orya \greater.orya \question.orya 
+	\bracketleft.orya \backslash.orya \bracketright.orya 
+	\asciicircum.orya \underscore.orya \braceleft.orya \bar.orya 
+	\braceright.orya \asciitilde.orya \sfthyphen.orya \endash.orya 
+	\emdash.orya \quoteleft.orya \quoteright.orya 
+	\quotedblleft.orya \quotedblright.orya \ellipsis.orya 
+	\multiply.orya \divide.orya \minus.orya \uni20B9.orya 
+	\danda.orya \dbldanda.orya \uni200B \uni200C \uni200D \uni25CC 
+	\nuktakasubscriptorya \nuktakhasubscriptorya 
+	\nuktagasubscriptorya \nuktaghasubscriptorya 
+	\nuktangasubscriptorya \nuktacasubscriptorya 
+	\nuktachasubscriptorya \nuktajasubscriptorya 
+	\nuktajhasubscriptorya \nuktattasubscriptorya 
+	\nuktatthasubscriptorya \nuktaddasubscriptorya 
+	\nuktaddhasubscriptorya \nuktannasubscriptorya 
+	\nuktatasubscriptorya \nuktathasubscriptorya 
+	\nuktadasubscriptorya \nuktadhasubscriptorya 
+	\nuktanasubscriptorya \nuktapasubscriptorya 
+	\nuktaphasubscriptorya \nuktabasubscriptorya 
+	\nuktabhasubscriptorya \nuktamasubscriptorya 
+	\nuktarasubscriptorya \nuktalasubscriptorya 
+	\nuktallasubscriptorya \nuktashasubscriptorya 
+	\nuktassasubscriptorya \nuktasasubscriptorya 
+	\nuktahasubscriptorya \nuktakassasubscriptorya 
+	\nuktauvowelsignorya \nuktauuvowelsignorya 
+	\nuktarvocalicvowelsignorya \nuktarrvocalicvowelsignorya 
+	\nuktalvocalicvowelsignorya \nuktallvocalicvowelsignorya 
+	\kakaUIorya \kataUIorya \kallaUIorya \gallaUIorya \jajaUIorya 
+	\nnattaUIorya \nnatthaUIorya \nnaddaUIorya \nnannaUIorya 
+	\tathaUIorya \nataUIorya \nataraUIorya \nanaUIorya \pataUIorya 
+	\mamaUIorya \lakaUIorya \lalaUIorya \llakaUIorya \llallaUIorya 
+	\shachaUIorya \shallaUIorya \ssattaUIorya \ssatthaUIorya 
+	\ssannaUIorya \sakhaUIorya \sataUIorya \sataraUIorya 
+	\sapaUIorya \saphaUIorya \kasubscriptloworya 
+	\khasubscriptloworya \gasubscriptloworya \ghasubscriptloworya 
+	\ngasubscriptloworya \casubscriptloworya \chasubscriptloworya 
+	\jasubscriptloworya \jhasubscriptloworya \ttasubscriptloworya 
+	\tthasubscriptloworya \ddasubscriptloworya 
+	\ddhasubscriptloworya \nnasubscriptloworya \tasubscriptloworya 
+	\thasubscriptloworya \dasubscriptloworya \dhasubscriptloworya 
+	\nasubscriptloworya \pasubscriptloworya \phasubscriptloworya 
+	\basubscriptloworya \bhasubscriptloworya \masubscriptloworya 
+	\rasubscriptloworya \lasubscriptloworya \llasubscriptloworya 
+	\shasubscriptloworya \ssasubscriptloworya \sasubscriptloworya 
+	\hasubscriptloworya \kassasubscriptloworya 
+	\kasubscriptlowerorya \jasubscriptlowerorya 
+	\tasubscriptlowerorya \thasubscriptlowerorya 
+	\nasubscriptlowerorya \basubscriptlowerorya 
+	\masubscriptlowerorya \rasubscriptlowerorya 
+	\lasubscriptlowerorya \llasubscriptlowerorya 
+	\kasubscriptdeeporya \jasubscriptdeeporya \tasubscriptdeeporya 
+	\thasubscriptdeeporya \nasubscriptdeeporya \basubscriptdeeporya 
+	\masubscriptdeeporya \rasubscriptdeeporya \lasubscriptdeeporya 
+	\llasubscriptdeeporya \uvowelsignleftorya \uuvowelsignleftorya 
+	\rvocalicvowelsignleftorya \rrvocalicvowelsignspaceorya 
+	\viramaleftorya \lvocalicvowelsignspaceorya 
+	\llvocalicvowelsignspaceorya \rasubscriptaltorya 
+	\rasubscriptshortorya \rasubscriptshorterorya \huorya \huuorya 
+	\hrvocalicorya \hakaorya \hajaorya \hanaorya \habaorya 
+	\hamaorya \haraorya \halaorya \hallaorya \yyuorya \yyuuorya 
+	\yyrvocalicorya \yyakaorya \yyajaorya \yyanaorya \yyabaorya 
+	\yyamaorya \yyaraorya \yyalaorya \yyallaorya 
+	\uvowelsignmarkorya \uuvowelsignmarkorya 
+	\rvocalicvowelsignmarkorya \viramamarkorya \rasubscriptmarkorya 
+	\barasubscriptorya \nnaddaraorya \takaraorya \hasquishorya 
+	\ruvowelsubscriptloworya \uvowelsignspaceorya 
+	\uuvowelsignspaceorya \rvocalicvowelsignspaceorya ];
+    @cc53_back_1 = [\khasubscriptleftorya \gasubscriptleftorya \ghasubscriptleftorya 
+	\ngasubscriptleftorya \casubscriptleftorya \chasubscriptleftorya 
+	\jhasubscriptleftorya \ttasubscriptleftorya \tthasubscriptleftorya 
+	\ddasubscriptleftorya \ddhasubscriptleftorya \nnasubscriptleftorya 
+	\dasubscriptleftorya \dhasubscriptleftorya \pasubscriptleftorya 
+	\phasubscriptleftorya \bhasubscriptleftorya \shasubscriptleftorya 
+	\ssasubscriptleftorya \sasubscriptleftorya \hasubscriptleftorya 
+	\kassasubscriptleftorya \kasubscriptleftorya \jasubscriptleftorya 
+	\tasubscriptleftorya \thasubscriptleftorya \nasubscriptleftorya 
+	\basubscriptleftorya \masubscriptleftorya \rasubscriptleftorya 
+	\lasubscriptleftorya \llasubscriptleftorya \khasubscriptspaceorya 
+	\gasubscriptspaceorya \ghasubscriptspaceorya 
+	\ngasubscriptspaceorya \casubscriptspaceorya 
+	\chasubscriptspaceorya \jhasubscriptspaceorya 
+	\ttasubscriptspaceorya \tthasubscriptspaceorya 
+	\ddasubscriptspaceorya \ddhasubscriptspaceorya 
+	\nnasubscriptspaceorya \dasubscriptspaceorya 
+	\dhasubscriptspaceorya \pasubscriptspaceorya 
+	\phasubscriptspaceorya \bhasubscriptspaceorya 
+	\shasubscriptspaceorya \ssasubscriptspaceorya 
+	\sasubscriptspaceorya \hasubscriptspaceorya 
+	\kassasubscriptspaceorya \khasubscriptleftmarkorya 
+	\gasubscriptleftmarkorya \ghasubscriptleftmarkorya 
+	\ngasubscriptleftmarkorya \casubscriptleftmarkorya 
+	\chasubscriptleftmarkorya \jhasubscriptleftmarkorya 
+	\ttasubscriptleftmarkorya \tthasubscriptleftmarkorya 
+	\ddasubscriptleftmarkorya \ddhasubscriptleftmarkorya 
+	\nnasubscriptleftmarkorya \dasubscriptleftmarkorya 
+	\dhasubscriptleftmarkorya \pasubscriptleftmarkorya 
+	\phasubscriptleftmarkorya \bhasubscriptleftmarkorya 
+	\shasubscriptleftmarkorya \ssasubscriptleftmarkorya 
+	\sasubscriptleftmarkorya \hasubscriptleftmarkorya 
+	\kassasubscriptleftmarkorya \kasubscriptspaceorya 
+	\jasubscriptspaceorya \tasubscriptspaceorya \thasubscriptspaceorya 
+	\nasubscriptspaceorya \basubscriptspaceorya \masubscriptspaceorya 
+	\rasubscriptspaceorya \lasubscriptspaceorya \llasubscriptspaceorya ];
+    @cc53_back_2 = [\kasubscriptorya \khasubscriptorya \gasubscriptorya \ghasubscriptorya 
+	\ngasubscriptorya \casubscriptorya \chasubscriptorya 
+	\jasubscriptorya \jhasubscriptorya \ttasubscriptorya 
+	\tthasubscriptorya \ddasubscriptorya \ddhasubscriptorya 
+	\nnasubscriptorya \tasubscriptorya \thasubscriptorya 
+	\dasubscriptorya \dhasubscriptorya \nasubscriptorya 
+	\pasubscriptorya \phasubscriptorya \basubscriptorya 
+	\bhasubscriptorya \masubscriptorya \rasubscriptorya 
+	\lasubscriptorya \llasubscriptorya \shasubscriptorya 
+	\ssasubscriptorya \sasubscriptorya \hasubscriptorya 
+	\kassasubscriptorya \tarasubscriptorya ];
+    @cc53_back_3 = [\khaorya \gaorya \ghaorya \nnaorya \thaorya \dhaorya \paorya \maorya \yaorya 
+	\shaorya \ssaorya \saorya \kassaorya \nyajaorya \dhayapostorya 
+	\mapaorya ];
+    @cc53_ahead_1 = [\NULL ];
+    sub @cc53_back_1 @cc53_match_1'lookup SingleSubstitutionlookup54  ;
+    sub @cc53_back_0 @cc53_back_2 @cc53_back_3 @cc53_match_1'lookup SingleSubstitutionlookup54  ;
+} sub_chain_blwsory2_6;
+
+lookup SingleSubstitutionlookup56 {
+  lookupflag 0;
+    sub \rrvocalicvowelsignleftorya by \rrvocalicvowelsignspaceorya ;
+    sub \lvocalicvowelsignleftorya by \lvocalicvowelsignspaceorya ;
+    sub \llvocalicvowelsignleftorya by \llvocalicvowelsignspaceorya ;
+} SingleSubstitutionlookup56;
+
+lookup sub_chain_blwsory2_8 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc55_match_1 = [\rrvocalicvowelsignleftorya \lvocalicvowelsignleftorya 
+	\llvocalicvowelsignleftorya ];
+    @cc55_back_1 = [\khasubscriptorya \gasubscriptorya \ghasubscriptorya \ngasubscriptorya 
+	\casubscriptorya \chasubscriptorya \jhasubscriptorya 
+	\ttasubscriptorya \tthasubscriptorya \ddasubscriptorya 
+	\ddhasubscriptorya \nnasubscriptorya \tasubscriptorya 
+	\thasubscriptorya \dasubscriptorya \dhasubscriptorya 
+	\pasubscriptorya \phasubscriptorya \bhasubscriptorya 
+	\lasubscriptorya \shasubscriptorya \ssasubscriptorya 
+	\sasubscriptorya \hasubscriptorya \kassasubscriptorya \kassannaorya 
+	\gadaorya \gadhaorya \nyachaorya \nnaddhaorya \dagaorya \papaorya 
+	\pasaorya \shacaorya \ssapaorya \nuktakasubscriptorya 
+	\nuktakhasubscriptorya \nuktagasubscriptorya 
+	\nuktaghasubscriptorya \nuktangasubscriptorya 
+	\nuktacasubscriptorya \nuktachasubscriptorya \nuktajasubscriptorya 
+	\nuktajhasubscriptorya \nuktattasubscriptorya 
+	\nuktatthasubscriptorya \nuktaddasubscriptorya 
+	\nuktaddhasubscriptorya \nuktannasubscriptorya 
+	\nuktathasubscriptorya \nuktadasubscriptorya 
+	\nuktadhasubscriptorya \nuktanasubscriptorya \nuktapasubscriptorya 
+	\nuktaphasubscriptorya \nuktabasubscriptorya 
+	\nuktabhasubscriptorya \nuktamasubscriptorya \nuktalasubscriptorya 
+	\nuktallasubscriptorya \nuktashasubscriptorya 
+	\nuktassasubscriptorya \nuktasasubscriptorya \nuktahasubscriptorya 
+	\nuktakassasubscriptorya \hallaorya \khasubscriptspaceorya 
+	\gasubscriptspaceorya \ghasubscriptspaceorya 
+	\ngasubscriptspaceorya \casubscriptspaceorya 
+	\chasubscriptspaceorya \jhasubscriptspaceorya 
+	\ttasubscriptspaceorya \tthasubscriptspaceorya 
+	\ddasubscriptspaceorya \ddhasubscriptspaceorya 
+	\nnasubscriptspaceorya \dasubscriptspaceorya 
+	\dhasubscriptspaceorya \pasubscriptspaceorya 
+	\phasubscriptspaceorya \bhasubscriptspaceorya 
+	\shasubscriptspaceorya \ssasubscriptspaceorya 
+	\sasubscriptspaceorya \hasubscriptspaceorya 
+	\kassasubscriptspaceorya \khasubscriptleftmarkorya 
+	\gasubscriptleftmarkorya \ghasubscriptleftmarkorya 
+	\ngasubscriptleftmarkorya \casubscriptleftmarkorya 
+	\chasubscriptleftmarkorya \jhasubscriptleftmarkorya 
+	\ttasubscriptleftmarkorya \tthasubscriptleftmarkorya 
+	\ddasubscriptleftmarkorya \ddhasubscriptleftmarkorya 
+	\nnasubscriptleftmarkorya \dasubscriptleftmarkorya 
+	\dhasubscriptleftmarkorya \pasubscriptleftmarkorya 
+	\phasubscriptleftmarkorya \bhasubscriptleftmarkorya 
+	\shasubscriptleftmarkorya \ssasubscriptleftmarkorya 
+	\sasubscriptleftmarkorya \hasubscriptleftmarkorya 
+	\kassasubscriptleftmarkorya ];
+    @cc55_back_2 = [\kasubscriptorya \jasubscriptorya \nasubscriptorya \basubscriptorya 
+	\masubscriptorya \rasubscriptorya \llasubscriptorya ];
+    @cc55_back_3 = [\khaorya \gaorya \ghaorya \nnaorya \thaorya \dhaorya \paorya \maorya \yaorya 
+	\shaorya \ssaorya \saorya \kassaorya \nyajaorya \dhayapostorya 
+	\mapaorya ];
+    @cc55_back_4 = [\kanuktaorya \khanuktaorya \ganuktaorya \ghanuktaorya \nganuktaorya 
+	\canuktaorya \chanuktaorya \januktaorya \jhanuktaorya \nyanuktaorya 
+	\ttanuktaorya \tthanuktaorya \nnanuktaorya \tanuktaorya 
+	\thanuktaorya \danuktaorya \dhanuktaorya \nanuktaorya \panuktaorya 
+	\phanuktaorya \banuktaorya \bhanuktaorya \manuktaorya \yanuktaorya 
+	\ranuktaorya \lanuktaorya \llanuktaorya \vanuktaorya \shanuktaorya 
+	\ssanuktaorya \sanuktaorya \hanuktaorya \yyanuktaorya \wanuktaorya ];
+    @cc55_ahead_1 = [\NULL ];
+    sub @cc55_back_1 @cc55_match_1'lookup SingleSubstitutionlookup56  ;
+    sub @cc55_back_2 @cc55_back_3 @cc55_match_1'lookup SingleSubstitutionlookup56  ;
+    sub @cc55_back_4 @cc55_match_1'  by [\rrvocalicvowelsignloworya \lvocalicvowelsignloworya \llvocalicvowelsignloworya ] ;
+} sub_chain_blwsory2_8;
+
+lookup SingleSubstitutionlookup60 {
+  lookupflag 0;
+    sub \candrabinduorya by \uni200B ;
+    sub \rephorya by \uni200B ;
+    sub \rephcandrabinduorya by \uni200B ;
+} SingleSubstitutionlookup60;
+
+lookup SingleSubstitutionlookup61 {
+  lookupflag 0;
+    sub \aulengthmarkorya by \aulengthmarkcandrabinduorya ;
+} SingleSubstitutionlookup61;
+
+lookup SingleSubstitutionlookup62 {
+  lookupflag 0;
+    sub \aulengthmarkorya by \aulengthmarkrephorya ;
+} SingleSubstitutionlookup62;
+
+lookup SingleSubstitutionlookup63 {
+  lookupflag 0;
+    sub \aulengthmarkorya by \aulengthmarkrephcandrabinduorya ;
+} SingleSubstitutionlookup63;
+
+lookup pstsPostBaseSubstitutionslookup {
+  lookupflag MarkAttachmentType @MarkClass2;
+    sub \candrabinduorya'lookup SingleSubstitutionlookup60  \aulengthmarkorya'lookup SingleSubstitutionlookup60  ;
+    sub \rephorya'lookup SingleSubstitutionlookup60  \aulengthmarkorya'lookup SingleSubstitutionlookup60  ;
+    sub \rephcandrabinduorya'lookup SingleSubstitutionlookup60  \aulengthmarkorya'lookup SingleSubstitutionlookup60  ;
+} pstsPostBaseSubstitutionslookup;
+
+lookup sub_ligature_pstsory2_0 {
+  lookupflag 0;
+    sub \ivowelsignorya \candrabinduorya  by \ivowelsigncandrabinduorya;
+    sub \ivowelsignorya \rephorya  by \ivowelsignrephorya;
+    sub \ivowelsignorya \rephcandrabinduorya  by \ivowelsignrephcandrabinduorya;
+    sub \ivowelsignwideorya \candrabinduorya  by \ivowelsigncandrabinduwideorya;
+    sub \ivowelsignwideorya \rephorya  by \ivowelsignrephwideorya;
+    sub \ivowelsignwideorya \rephcandrabinduorya  by \ivowelrephcandrabinduwideorya;
+    sub \ivowelsignnarroworya \candrabinduorya  by \ivowelsigncandrabindunarroworya;
+    sub \ivowelsignnarroworya \rephorya  by \ivowelsignrephnarroworya;
+    sub \ivowelsignnarroworya \rephcandrabinduorya  by \ivowelrephcandrabindunarroworya;
+} sub_ligature_pstsory2_0;
+
+lookup halnHalantFormslookup64 {
+  lookupflag 0;
+    sub \kaorya \viramaorya  by \kahalforya;
+    sub \khaorya \viramaorya  by \khahalforya;
+    sub \gaorya \viramaorya  by \gahalforya;
+    sub \ghaorya \viramaorya  by \ghahalforya;
+    sub \ngaorya \viramaorya  by \ngahalforya;
+    sub \caorya \viramaorya  by \cahalforya;
+    sub \chaorya \viramaorya  by \chahalforya;
+    sub \jaorya \viramaorya  by \jahalforya;
+    sub \jhaorya \viramaorya  by \jhahalforya;
+    sub \nyaorya \viramaorya  by \nyahalforya;
+    sub \ttaorya \viramaorya  by \ttahalforya;
+    sub \tthaorya \viramaorya  by \tthahalforya;
+    sub \ddaorya \viramaorya  by \ddahalforya;
+    sub \ddhaorya \viramaorya  by \ddhahalforya;
+    sub \nnaorya \viramaorya  by \nnahalforya;
+    sub \taorya \viramaorya  by \tahalforya;
+    sub \thaorya \viramaorya  by \thahalforya;
+    sub \daorya \viramaorya  by \dahalforya;
+    sub \dhaorya \viramaorya  by \dhahalforya;
+    sub \naorya \viramaorya  by \nahalforya;
+    sub \paorya \viramaorya  by \pahalforya;
+    sub \phaorya \viramaorya  by \phahalforya;
+    sub \baorya \viramaorya  by \bahalforya;
+    sub \bhaorya \viramaorya  by \bhahalforya;
+    sub \maorya \viramaorya  by \mahalforya;
+    sub \yaorya \viramaorya  by \yahalforya;
+    sub \raorya \viramaorya  by \rahalforya;
+    sub \laorya \viramaorya  by \lahalforya;
+    sub \llaorya \viramaorya  by \llahalforya;
+    sub \vaorya \viramaorya  by \vahalforya;
+    sub \shaorya \viramaorya  by \shahalforya;
+    sub \ssaorya \viramaorya  by \ssahalforya;
+    sub \saorya \viramaorya  by \sahalforya;
+    sub \haorya \viramaorya  by \hahalforya;
+    sub \rraorya \viramalowerorya  by \rrahalforya;
+    sub \rhaorya \viramalowerorya  by \rhahalforya;
+    sub \yyaorya \viramaorya  by \yyahalforya;
+    sub \waorya \viramaorya  by \wahalforya;
+    sub \kanuktaorya \viramalowerorya  by \kanuktahalforya;
+    sub \khanuktaorya \viramalowerorya  by \khanuktahalforya;
+    sub \ganuktaorya \viramalowerorya  by \ganuktahalforya;
+    sub \ghanuktaorya \viramalowerorya  by \ghanuktahalforya;
+    sub \nganuktaorya \viramalowerorya  by \nganuktahalforya;
+    sub \canuktaorya \viramalowerorya  by \canuktahalforya;
+    sub \chanuktaorya \viramalowerorya  by \chanuktahalforya;
+    sub \januktaorya \viramalowerorya  by \januktahalforya;
+    sub \jhanuktaorya \viramalowerorya  by \jhanuktahalforya;
+    sub \nyanuktaorya \viramalowerorya  by \nyanuktahalforya;
+    sub \ttanuktaorya \viramalowerorya  by \ttanuktahalforya;
+    sub \tthanuktaorya \viramalowerorya  by \tthanuktahalforya;
+    sub \nnanuktaorya \viramalowerorya  by \nnanuktahalforya;
+    sub \tanuktaorya \viramalowerorya  by \tanuktahalforya;
+    sub \thanuktaorya \viramalowerorya  by \thanuktahalforya;
+    sub \danuktaorya \viramalowerorya  by \danuktahalforya;
+    sub \dhanuktaorya \viramalowerorya  by \dhanuktahalforya;
+    sub \nanuktaorya \viramalowerorya  by \nanuktahalforya;
+    sub \panuktaorya \viramalowerorya  by \panuktahalforya;
+    sub \phanuktaorya \viramalowerorya  by \phanuktahalforya;
+    sub \banuktaorya \viramalowerorya  by \banuktahalforya;
+    sub \bhanuktaorya \viramalowerorya  by \bhanuktahalforya;
+    sub \manuktaorya \viramalowerorya  by \manuktahalforya;
+    sub \yanuktaorya \viramalowerorya  by \yanuktahalforya;
+    sub \ranuktaorya \viramalowerorya  by \ranuktahalforya;
+    sub \lanuktaorya \viramalowerorya  by \lanuktahalforya;
+    sub \llanuktaorya \viramalowerorya  by \llanuktahalforya;
+    sub \vanuktaorya \viramalowerorya  by \vanuktahalforya;
+    sub \shanuktaorya \viramalowerorya  by \shanuktahalforya;
+    sub \ssanuktaorya \viramalowerorya  by \ssanuktahalforya;
+    sub \sanuktaorya \viramalowerorya  by \sanuktahalforya;
+    sub \hanuktaorya \viramalowerorya  by \hanuktahalforya;
+    sub \yyanuktaorya \viramalowerorya  by \yyanuktahalforya;
+    sub \wanuktaorya \viramalowerorya  by \wanuktahalforya;
+    sub \kassaorya \viramaorya  by \kassahalforya;
+} halnHalantFormslookup64;
+
+feature nukt {
+
+ script ory2;
+     language dflt ;
+      lookup nuktNuktaFormslookup0;
+
+ script orya;
+     language dflt ;
+      lookup nuktNuktaFormslookup0;
+} nukt;
+
+feature rphf {
+
+ script ory2;
+     language dflt ;
+      lookup rphfRephFormlookup1;
+
+ script orya;
+     language dflt ;
+      lookup rphfRephFormlookup1;
+} rphf;
+
+feature blwf {
+
+ script ory2;
+     language dflt ;
+      lookup blwfBelowBaseFormsinOriya2looku;
+
+ script orya;
+     language dflt ;
+      lookup blwfBelowBaseFormsinOriyalookup;
+} blwf;
+
+feature pstf {
+
+ script ory2;
+     language dflt ;
+      lookup pstfPostBaseFormsinOriya2lookup;
+
+ script orya;
+     language dflt ;
+      lookup pstfPostBaseFormsinOriyalookup5;
+} pstf;
+
+feature cjct {
+
+ script ory2;
+     language dflt ;
+      lookup cjctConjunctFormsinOriya2lookup;
+} cjct;
+
+feature pres {
+
+ script ory2;
+     language dflt ;
+      lookup presPreBaseSubstitutionslookup2;
+      lookup sub_context_presory2_0;
+      lookup sub_chain_presory2_0;
+      lookup sub_chain_presory2_2;
+
+ script orya;
+     language dflt ;
+      lookup presPreBaseSubstitutionsinOriya;
+      lookup sub_context_presorya_0;
+      lookup sub_context_presorya_2;
+      lookup sub_context_presorya_4;
+      lookup presPreBaseSubstitutionslookup2;
+      lookup sub_context_presory2_0;
+      lookup sub_chain_presory2_0;
+      lookup sub_chain_presory2_2;
+} pres;
+
+feature abvs {
+
+ script ory2;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionslooku;
+      lookup sub_ligature_abvsory2_0;
+
+ script orya;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionslooku;
+      lookup sub_ligature_abvsory2_0;
+} abvs;
+
+feature blws {
+
+ script ory2;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionslooku;
+      lookup sub_ligature_blwsory2_0;
+      lookup sub_chain_blwsory2_0;
+      lookup sub_ligature_blwsory2_2;
+      lookup sub_chain_blwsory2_2;
+      lookup sub_chain_blwsory2_4;
+      lookup sub_chain_blwsory2_6;
+      lookup sub_chain_blwsory2_8;
+
+ script orya;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionslooku;
+      lookup sub_ligature_blwsory2_0;
+      lookup sub_chain_blwsory2_0;
+      lookup sub_ligature_blwsory2_2;
+      lookup sub_chain_blwsory2_2;
+      lookup sub_chain_blwsory2_4;
+      lookup sub_chain_blwsory2_6;
+      lookup sub_chain_blwsory2_8;
+} blws;
+
+feature psts {
+
+ script ory2;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionslookup;
+      lookup sub_ligature_pstsory2_0;
+
+ script orya;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionslookup;
+      lookup sub_ligature_pstsory2_0;
+} psts;
+
+feature haln {
+
+ script ory2;
+     language dflt ;
+      lookup halnHalantFormslookup64;
+
+ script orya;
+     language dflt ;
+      lookup halnHalantFormslookup64;
+} haln;
+
+# GPOS 
+
+
+lookup distDistancelookup0 {
+  lookupflag IgnoreMarks;
+    pos \tthaorya \iivowelsignorya -41;
+    pos \bhaorya \iivowelsignorya -20;
+    pos \raorya \iivowelsignorya -20;
+    pos \laorya \iivowelsignorya -20;
+    pos \evowelsignorya \nnaddaraorya 25;
+    pos \evowelsignorya \yyallaorya 47;
+    pos \evowelsignorya \yyalaorya 47;
+    pos \evowelsignorya \yyaraorya 47;
+    pos \evowelsignorya \yyamaorya 47;
+    pos \evowelsignorya \yyabaorya 47;
+    pos \evowelsignorya \yyanaorya 47;
+    pos \evowelsignorya \yyajaorya 41;
+    pos \evowelsignorya \yyakaorya 47;
+    pos \evowelsignorya \yyrvocalicorya 47;
+    pos \evowelsignorya \yyuuorya 47;
+    pos \evowelsignorya \yyuorya 47;
+    pos \evowelsignorya \saphaUIorya -8;
+    pos \evowelsignorya \sapaUIorya -8;
+    pos \evowelsignorya \sataraUIorya -8;
+    pos \evowelsignorya \sakhaUIorya -8;
+    pos \evowelsignorya \ssannaUIorya -20;
+    pos \evowelsignorya \tathaUIorya -20;
+    pos \evowelsignorya \nnannaUIorya 10;
+    pos \evowelsignorya \nnaddaUIorya 25;
+    pos \evowelsignorya \nnatthaUIorya 25;
+    pos \evowelsignorya \nnattaUIorya 25;
+    pos \evowelsignorya \kassahalforya 47;
+    pos \evowelsignorya \yyanuktahalforya 47;
+    pos \evowelsignorya \yanuktahalforya 47;
+    pos \evowelsignorya \yyahalforya 47;
+    pos \evowelsignorya \yahalforya 47;
+    pos \evowelsignorya \saphaorya -8;
+    pos \evowelsignorya \sathaorya -8;
+    pos \evowelsignorya \sataraorya -6;
+    pos \evowelsignorya \ssaphaorya -20;
+    pos \evowelsignorya \ssapaorya -20;
+    pos \evowelsignorya \badhaorya -20;
+    pos \evowelsignorya \pasaorya -20;
+    pos \evowelsignorya \papaorya -20;
+    pos \evowelsignorya \nadhaorya 47;
+    pos \evowelsignorya \nadaorya 47;
+    pos \evowelsignorya \dagaorya -10;
+    pos \evowelsignorya \tathaorya -2;
+    pos \evowelsignorya \nnannaorya 25;
+    pos \evowelsignorya \nnaddhaorya 25;
+    pos \evowelsignorya \nnaddaorya 25;
+    pos \evowelsignorya \nnatthaorya 25;
+    pos \evowelsignorya \nnattaorya 25;
+    pos \evowelsignorya \ddaddaorya -20;
+    pos \evowelsignorya \ddagaorya -20;
+    pos \evowelsignorya \nyajhaorya 43;
+    pos \evowelsignorya \nyajaorya 43;
+    pos \evowelsignorya \nyachaorya 43;
+    pos \evowelsignorya \nyacaorya 43;
+    pos \evowelsignorya \janyaorya 43;
+    pos \evowelsignorya \gadaorya -20;
+    pos \evowelsignorya \kasaorya -20;
+    pos \evowelsignorya \kassannaorya 47;
+    pos \evowelsignorya \kassaorya 47;
+    pos \evowelsignorya \kattaorya -20;
+    pos \evowelsignorya \yyanuktaorya 47;
+    pos \evowelsignorya \yanuktaorya 47;
+    pos \evowelsignorya \dhanuktaorya 47;
+    pos \evowelsignorya \thanuktaorya 47;
+    pos \evowelsignorya \nnanuktaorya 25;
+    pos \evowelsignorya \tthanuktaorya 20;
+    pos \evowelsignorya \nyanuktaorya 20;
+    pos \evowelsignorya \chanuktaorya 12;
+    pos \evowelsignorya \yyaorya 47;
+    pos \evowelsignorya \yaorya 47;
+    pos \evowelsignorya \dhaorya 47;
+    pos \evowelsignorya \thaorya 47;
+    pos \evowelsignorya \nnaorya 25;
+    pos \evowelsignorya \tthaorya 20;
+    pos \evowelsignorya \nyaorya 20;
+    pos \evowelsignorya \chaorya 12;
+    pos \yyaorya \iivowelsignorya -111;
+    pos \tthanuktaorya \iivowelsignorya -41;
+    pos \bhanuktaorya \iivowelsignorya -20;
+    pos \ranuktaorya \iivowelsignorya -20;
+    pos \lanuktaorya \iivowelsignorya -20;
+    pos \yyanuktaorya \iivowelsignorya -111;
+    pos \kassannaorya \iivowelsignorya -133;
+    pos \gadaorya \iivowelsignorya -78;
+    pos \nyacaorya \iivowelsignorya -41;
+    pos \nyajaorya \iivowelsignorya -90;
+    pos \nyajhaorya \iivowelsignorya 41;
+    pos \nnattaorya \iivowelsignorya -111;
+    pos \nnatthaorya \iivowelsignorya -12;
+    pos \tataorya \iivowelsignorya -20;
+    pos \dabhaorya \iivowelsignorya -20;
+    pos \lakaorya \iivowelsignorya -20;
+    pos \lagaorya \iivowelsignorya -20;
+    pos \lalaorya \iivowelsignorya -20;
+    pos \shacaorya \iivowelsignorya -74;
+    pos \ssakaorya \iivowelsignorya -121;
+    pos \ssattaorya \iivowelsignorya -113;
+    pos \ssatthaorya \iivowelsignorya -12;
+    pos \ssaphaorya \iivowelsignorya -88;
+    pos \sakaorya \iivowelsignorya -121;
+    pos \sakhaorya \iivowelsignorya -127;
+    pos \sataraorya \iivowelsignorya -10;
+    pos \saphaorya \iivowelsignorya -88;
+    pos \yyahalforya \iivowelsignorya -111;
+    pos \yyanuktahalforya \iivowelsignorya -111;
+    pos \nnattaUIorya \iivowelsignorya -127;
+    pos \nnatthaUIorya \iivowelsignorya -12;
+    pos \lakaUIorya \iivowelsignorya -20;
+    pos \lalaUIorya \iivowelsignorya -20;
+    pos \ssattaUIorya \iivowelsignorya -127;
+    pos \ssatthaUIorya \iivowelsignorya -14;
+    pos \sakhaUIorya \iivowelsignorya -143;
+    pos \sataraUIorya \iivowelsignorya -10;
+    pos \saphaUIorya \iivowelsignorya -98;
+    pos \yyuorya \iivowelsignorya -111;
+    pos \yyuuorya \iivowelsignorya -111;
+    pos \yyrvocalicorya \iivowelsignorya -111;
+    pos \yyakaorya \iivowelsignorya -111;
+    pos \yyajaorya \iivowelsignorya -111;
+    pos \yyanaorya \iivowelsignorya -111;
+    pos \yyabaorya \iivowelsignorya -111;
+    pos \yyamaorya \iivowelsignorya -111;
+    pos \yyaraorya \iivowelsignorya -111;
+    pos \yyalaorya \iivowelsignorya -111;
+    pos \yyallaorya \iivowelsignorya -111;
+} distDistancelookup0;
+
+lookup distDistanceinOriyalookup1 {
+  lookupflag IgnoreMarks;
+    @kc66_first_1 = [\ngaorya \nganuktaorya ];
+    @kc66_first_2 = [\yyaorya \yyanuktaorya \nnaddaorya \yyahalforya \yyanuktahalforya 
+	\shallaUIorya \yyuorya \yyuuorya \yyrvocalicorya \yyakaorya 
+	\yyajaorya \yyanaorya \yyabaorya \yyamaorya \yyaraorya \yyalaorya 
+	\yyallaorya ];
+    @kc66_first_3 = [\kassannaorya \mabhaorya \lakaorya \gallaUIorya \nnattaUIorya \lakaUIorya 
+	\ssattaUIorya \sakhaUIorya ];
+    @kc66_first_4 = [\gadaorya ];
+    @kc66_first_5 = [\nyajhaorya \pataUIorya ];
+    @kc66_first_6 = [\nnattaorya \nnatthaorya \ssattaorya \ssatthaorya \nnatthaUIorya 
+	\nnannaUIorya \ssatthaUIorya \ssannaUIorya ];
+    @kc66_first_7 = [\nnaddaUIorya \nnaddaraorya ];
+    @kc66_first_8 = [\nnaddhaorya \sakhaorya ];
+    @kc66_first_9 = [\nnannaorya \ssannaorya ];
+    @kc66_first_10 = [\pallaorya ];
+    @kc66_first_11 = [\lagaorya \shacaorya ];
+    @kc66_first_12 = [\lalaUIorya ];
+    @kc66_first_13 = [\ssakaorya \sakaorya ];
+    @kc66_first_14 = [\ssaphaorya \saphaorya ];
+    @kc66_first_15 = [\saphaUIorya ];
+    @kc66_second_1 = [\yaorya \yyaorya \yanuktaorya \yyanuktaorya \kassaorya \kassannaorya 
+	\yahalforya \yyahalforya \yanuktahalforya \yyanuktahalforya 
+	\kassahalforya \yyuorya \yyuuorya \yyrvocalicorya \yyakaorya 
+	\yyajaorya \yyanaorya \yyabaorya \yyamaorya \yyaraorya \yyalaorya 
+	\yyallaorya ];
+    @kc66_second_2 = [\nadaorya \nadhaorya ];
+    pos @kc66_first_1 @kc66_second_1 -70;
+    pos @kc66_first_1 @kc66_second_2 -61;
+    pos @kc66_first_2 @kc66_second_1 51;
+    pos @kc66_first_2 @kc66_second_2 51;
+    pos @kc66_first_3 @kc66_second_1 41;
+    pos @kc66_first_3 @kc66_second_2 41;
+    pos @kc66_first_4 @kc66_second_1 57;
+    pos @kc66_first_4 @kc66_second_2 57;
+    pos @kc66_first_5 @kc66_second_1 20;
+    pos @kc66_first_5 @kc66_second_2 20;
+    pos @kc66_first_6 @kc66_second_1 61;
+    pos @kc66_first_6 @kc66_second_2 61;
+    pos @kc66_first_7 @kc66_second_1 82;
+    pos @kc66_first_7 @kc66_second_2 82;
+    pos @kc66_first_8 @kc66_second_1 55;
+    pos @kc66_first_8 @kc66_second_2 55;
+    pos @kc66_first_9 @kc66_second_1 29;
+    pos @kc66_first_9 @kc66_second_2 29;
+    pos @kc66_first_10 @kc66_second_1 88;
+    pos @kc66_first_10 @kc66_second_2 88;
+    pos @kc66_first_11 @kc66_second_1 72;
+    pos @kc66_first_11 @kc66_second_2 72;
+    pos @kc66_first_12 @kc66_second_1 31;
+    pos @kc66_first_12 @kc66_second_2 31;
+    pos @kc66_first_13 @kc66_second_1 86;
+    pos @kc66_first_13 @kc66_second_2 86;
+    pos @kc66_first_14 @kc66_second_1 78;
+    pos @kc66_first_14 @kc66_second_2 78;
+    pos @kc66_first_15 @kc66_second_1 68;
+    pos @kc66_first_15 @kc66_second_2 68;
+} distDistanceinOriyalookup1;
+
+lookup blwmBelowBaseMarklookup2 {
+  lookupflag 0;
+  markClass [\uvowelsignorya \uuvowelsignorya \rvocalicvowelsignorya \rrvocalicvowelsignorya \viramaorya \lvocalicvowelsignorya \llvocalicvowelsignorya \kasubscriptorya \khasubscriptorya \gasubscriptorya \ghasubscriptorya \ngasubscriptorya \casubscriptorya \chasubscriptorya \jasubscriptorya \jhasubscriptorya \ttasubscriptorya \tthasubscriptorya \ddasubscriptorya \ddhasubscriptorya \nnasubscriptorya \dasubscriptorya \dhasubscriptorya \nasubscriptorya \pasubscriptorya \phasubscriptorya \basubscriptorya \bhasubscriptorya \masubscriptorya \rasubscriptorya \lasubscriptorya \llasubscriptorya \shasubscriptorya \ssasubscriptorya \sasubscriptorya \hasubscriptorya \kassasubscriptorya \tarasubscriptorya \uvowelsignaltorya \uvowelsignloworya \uuvowelsignloworya \rvocalicvowelsignloworya \rrvocalicvowelsignloworya \viramaloworya \lvocalicvowelsignloworya \llvocalicvowelsignloworya \uvowelsignlowerorya \uuvowelsignlowerorya \rvocalicvowelsignlowerorya \viramalowerorya \uvowelsigndeeporya \uuvowelsigndeeporya \rvocalicvowelsigndeeporya \viramadeeporya \kasubscriptloworya \khasubscriptloworya \gasubscriptloworya \ghasubscriptloworya \ngasubscriptloworya \casubscriptloworya \chasubscriptloworya \jasubscriptloworya \jhasubscriptloworya \ttasubscriptloworya \tthasubscriptloworya \ddasubscriptloworya \ddhasubscriptloworya \nnasubscriptloworya \dasubscriptloworya \dhasubscriptloworya \nasubscriptloworya \pasubscriptloworya \phasubscriptloworya \basubscriptloworya \bhasubscriptloworya \masubscriptloworya \rasubscriptloworya \lasubscriptloworya \llasubscriptloworya \shasubscriptloworya \ssasubscriptloworya \sasubscriptloworya \hasubscriptloworya \kassasubscriptloworya \kasubscriptlowerorya \jasubscriptlowerorya \nasubscriptlowerorya \basubscriptlowerorya \masubscriptlowerorya \rasubscriptlowerorya \lasubscriptlowerorya \llasubscriptlowerorya \kasubscriptdeeporya \jasubscriptdeeporya \nasubscriptdeeporya \basubscriptdeeporya \masubscriptdeeporya \rasubscriptdeeporya \lasubscriptdeeporya \llasubscriptdeeporya \rasubscriptshortorya \rasubscriptshorterorya \barasubscriptorya \ruvowelsubscriptloworya ] <anchor -125 0> @Anchor0;
+  markClass [\uuvowelsignaltorya \rvocalicvowelsignaltorya ] <anchor 85 0> @Anchor0;
+  markClass [\rrvocalicvowelsignaltorya ] <anchor 115 0> @Anchor0;
+  pos base [\kaorya \kataorya \kataUIorya ] <anchor 1004 0> mark @Anchor0;
+  pos base [\khaorya \shaorya \shachaorya ] <anchor 1223 0> mark @Anchor0;
+  pos base [\gaorya \gadhaorya \gallaorya \nnattaUIorya ] <anchor 1217 0> mark @Anchor0;
+  pos base [\ghaorya \paorya \phaorya \maorya \kallaorya \ngaghaorya \tamaorya \pataorya \papaorya \pasaorya \mabhaorya \mamaorya \pataUIorya \mamaUIorya ] <anchor 1202 0> mark @Anchor0;
+  pos base [\ngaorya \ddaorya \ddhaorya ] <anchor 910 0> mark @Anchor0;
+  pos base [\caorya \ttaorya ] <anchor 900 0> mark @Anchor0;
+  pos base [\chaorya \nyaorya ] <anchor 995 0> mark @Anchor0;
+  pos base [\jaorya ] <anchor 991 0> mark @Anchor0;
+  pos base [\jhaorya ] <anchor 861 0> mark @Anchor0;
+  pos base [\tthaorya \dhayapostorya ] <anchor 1085 0> mark @Anchor0;
+  pos base [\nnaorya \nnatthaorya \nnaddaorya \nnaddhaorya \nnannaorya \nnatthaUIorya \nnannaUIorya ] <anchor 1196 0> mark @Anchor0;
+  pos base [\taorya \tataorya ] <anchor 939 0> mark @Anchor0;
+  pos base [\thaorya ] <anchor 1159 0> mark @Anchor0;
+  pos base [\daorya \naorya \nataorya \nathaorya \nataUIorya ] <anchor 893 0> mark @Anchor0;
+  pos base [\dhaorya ] <anchor 1065 0> mark @Anchor0;
+  pos base [\baorya \vaorya ] <anchor 895 0> mark @Anchor0;
+  pos base [\bhaorya ] <anchor 935 0> mark @Anchor0;
+  pos base [\yaorya ] <anchor 1274 0> mark @Anchor0;
+  pos base [\raorya ] <anchor 881 0> mark @Anchor0;
+  pos base [\laorya \llapaorya \llaphaorya ] <anchor 1001 0> mark @Anchor0;
+  pos base [\llaorya ] <anchor 1016 0> mark @Anchor0;
+  pos base [\ssaorya \pallaorya \ssakaorya \ssatthaorya \ssannaorya \ssapaorya \ssaphaorya \ssatthaUIorya \ssannaUIorya ] <anchor 1227 0> mark @Anchor0;
+  pos base [\saorya \sakaorya \sataorya \sataraorya \sathaorya \sapaorya \saphaorya \kallaUIorya \sataUIorya \sataraUIorya ] <anchor 1192 0> mark @Anchor0;
+  pos base [\haorya ] <anchor 838 80> mark @Anchor0;
+  pos base [\yyaorya ] <anchor 1245 0> mark @Anchor0;
+  pos base [\waorya \nanaorya ] <anchor 985 0> mark @Anchor0;
+  pos base [\kakaorya \llakaorya \sakhaorya ] <anchor 1282 0> mark @Anchor0;
+  pos base [\kattaorya \ddagaorya ] <anchor 1110 0> mark @Anchor0;
+  pos base [\kassaorya ] <anchor 1298 0> mark @Anchor0;
+  pos base [\kasaorya \babaorya ] <anchor 1008 0> mark @Anchor0;
+  pos base [\gadaorya ] <anchor 1268 0> mark @Anchor0;
+  pos base [\ngakaorya ] <anchor 1219 0> mark @Anchor0;
+  pos base [\ngakhaorya ] <anchor 1247 0> mark @Anchor0;
+  pos base [\ngagaorya ] <anchor 1241 0> mark @Anchor0;
+  pos base [\ngakassaorya ] <anchor 1114 0> mark @Anchor0;
+  pos base [\cacaorya ] <anchor 957 0> mark @Anchor0;
+  pos base [\cachaorya ] <anchor 994 140> mark @Anchor0;
+  pos base [\jajaorya \jajaUIorya ] <anchor 1063 0> mark @Anchor0;
+  pos base [\janyaorya \nyajhaorya ] <anchor 1122 0> mark @Anchor0;
+  pos base [\nyacaorya ] <anchor 1126 0> mark @Anchor0;
+  pos base [\nyachaorya ] <anchor 999 0> mark @Anchor0;
+  pos base [\nyajaorya ] <anchor 1491 0> mark @Anchor0;
+  pos base [\ttattaorya \dadaorya \dadhaorya ] <anchor 997 0> mark @Anchor0;
+  pos base [\ddaddaorya ] <anchor 950 0> mark @Anchor0;
+  pos base [\nnattaorya \nnaddaUIorya \nnaddaraorya ] <anchor 1212 0> mark @Anchor0;
+  pos base [\takaorya ] <anchor 828 30> mark @Anchor0;
+  pos base [\tathaorya \tathaUIorya ] <anchor 1049 0> mark @Anchor0;
+  pos base [\tanaorya ] <anchor 891 0> mark @Anchor0;
+  pos base [\tapaorya ] <anchor 1022 30> mark @Anchor0;
+  pos base [\tasaorya ] <anchor 962 30> mark @Anchor0;
+  pos base [\dagaorya ] <anchor 1137 0> mark @Anchor0;
+  pos base [\dabhaorya ] <anchor 1014 0> mark @Anchor0;
+  pos base [\nataraorya ] <anchor 949 0> mark @Anchor0;
+  pos base [\nadaorya \nadhaorya ] <anchor 967 0> mark @Anchor0;
+  pos base [\badaorya ] <anchor 981 0> mark @Anchor0;
+  pos base [\badhaorya ] <anchor 1069 0> mark @Anchor0;
+  pos base [\mapaorya \maphaorya ] <anchor 1243 0> mark @Anchor0;
+  pos base [\lakaorya ] <anchor 1210 0> mark @Anchor0;
+  pos base [\lagaorya ] <anchor 1169 0> mark @Anchor0;
+  pos base [\lalaorya \lalaUIorya ] <anchor 1083 0> mark @Anchor0;
+  pos base [\llallaorya ] <anchor 1098 0> mark @Anchor0;
+  pos base [\shacaorya ] <anchor 1336 0> mark @Anchor0;
+  pos base [\shallaorya \shallaUIorya ] <anchor 1262 0> mark @Anchor0;
+  pos base [\ssattaorya \ssattaUIorya ] <anchor 1296 0> mark @Anchor0;
+  pos base [\kakaUIorya ] <anchor 1264 0> mark @Anchor0;
+  pos base [\gallaUIorya ] <anchor 1238 0> mark @Anchor0;
+  pos base [\nataraUIorya ] <anchor 953 0> mark @Anchor0;
+  pos base [\nanaUIorya ] <anchor 1047 0> mark @Anchor0;
+  pos base [\lakaUIorya ] <anchor 1128 0> mark @Anchor0;
+  pos base [\llakaUIorya ] <anchor 1270 0> mark @Anchor0;
+  pos base [\llallaUIorya \yyaraorya ] <anchor 1079 0> mark @Anchor0;
+  pos base [\shachaUIorya ] <anchor 1253 0> mark @Anchor0;
+  pos base [\sakhaUIorya ] <anchor 1292 0> mark @Anchor0;
+  pos base [\sapaUIorya \saphaUIorya ] <anchor 1206 0> mark @Anchor0;
+  pos base [\hakaorya \hajaorya \halaorya \hallaorya ] <anchor 966 0> mark @Anchor0;
+  pos base [\hanaorya \habaorya \haraorya ] <anchor 866 0> mark @Anchor0;
+  pos base [\hamaorya ] <anchor 917 0> mark @Anchor0;
+  pos base [\yyakaorya \yyalaorya \yyallaorya ] <anchor 1116 0> mark @Anchor0;
+  pos base [\yyajaorya ] <anchor 1058 0> mark @Anchor0;
+  pos base [\yyanaorya \yyabaorya \yyamaorya ] <anchor 1044 0> mark @Anchor0;
+  pos base [\hasquishorya ] <anchor 750 0> mark @Anchor0;
+} blwmBelowBaseMarklookup2;
+
+lookup blwmBelowBaseMarklookup3 {
+  lookupflag 0;
+  markClass [\tasubscriptorya \tasubscriptloworya \tasubscriptlowerorya \tasubscriptdeeporya ] <anchor -517 0> @Anchor1;
+  markClass [\thasubscriptorya \thasubscriptloworya \thasubscriptlowerorya \thasubscriptdeeporya ] <anchor -507 0> @Anchor1;
+  markClass [\rasubscriptaltorya ] <anchor -541 0> @Anchor1;
+  markClass [\rasubscriptmarkorya ] <anchor -501 0> @Anchor1;
+  pos base [\kaorya \jaorya \llaorya \kakaorya \kattaorya \kataorya \kallaorya \kasaorya \jajaorya \takaorya \dadaorya \dadhaorya \babaorya \llakaorya \llapaorya \llaphaorya \llallaorya \kakaUIorya \kallaUIorya \jajaUIorya \llakaUIorya \llallaUIorya ] <anchor 677 0> mark @Anchor1;
+  pos base [\ngaorya \chaorya \ddaorya \taorya \ngakassaorya \ddagaorya \ddaddaorya \tathaorya \tathaUIorya ] <anchor 658 0> mark @Anchor1;
+  pos base [\caorya \baorya \vaorya \badhaorya ] <anchor 650 0> mark @Anchor1;
+  pos base [\jhaorya ] <anchor 645 0> mark @Anchor1;
+  pos base [\nyaorya ] <anchor 666 0> mark @Anchor1;
+  pos base [\ttaorya ] <anchor 653 0> mark @Anchor1;
+  pos base [\tthaorya ] <anchor 733 0> mark @Anchor1;
+  pos base [\ddhaorya ] <anchor 683 0> mark @Anchor1;
+  pos base [\daorya \naorya \tanaorya \dagaorya \nataorya \nataraorya \nathaorya \nanaorya \nataUIorya \nataraUIorya \nanaUIorya ] <anchor 649 0> mark @Anchor1;
+  pos base [\phaorya \ngaghaorya \mabhaorya ] <anchor 820 0> mark @Anchor1;
+  pos base [\bhaorya ] <anchor 685 0> mark @Anchor1;
+  pos base [\raorya ] <anchor 654 0> mark @Anchor1;
+  pos base [\laorya \lakaorya \lagaorya \lalaorya \lakaUIorya \lalaUIorya ] <anchor 688 0> mark @Anchor1;
+  pos base [\haorya ] <anchor 635 180> mark @Anchor1;
+  pos base [\yyaorya ] <anchor 783 200> mark @Anchor1;
+  pos base [\waorya ] <anchor 587 0> mark @Anchor1;
+  pos base [\kassannaorya ] <anchor 916 0> mark @Anchor1;
+  pos base [\gadaorya \gallaorya \nnattaUIorya ] <anchor 835 0> mark @Anchor1;
+  pos base [\ngakaorya ] <anchor 709 0> mark @Anchor1;
+  pos base [\ngakhaorya ] <anchor 865 0> mark @Anchor1;
+  pos base [\ngagaorya ] <anchor 859 0> mark @Anchor1;
+  pos base [\cacaorya ] <anchor 664 0> mark @Anchor1;
+  pos base [\cachaorya ] <anchor 631 131> mark @Anchor1;
+  pos base [\janyaorya ] <anchor 616 0> mark @Anchor1;
+  pos base [\nyachaorya \hakaorya \hajaorya \hanaorya \habaorya \hamaorya \haraorya \halaorya \hallaorya ] <anchor 625 0> mark @Anchor1;
+  pos base [\nyajhaorya ] <anchor 770 0> mark @Anchor1;
+  pos base [\ttattaorya ] <anchor 659 0> mark @Anchor1;
+  pos base [\nnattaorya ] <anchor 830 0> mark @Anchor1;
+  pos base [\nnatthaorya \nnatthaUIorya ] <anchor 814 0> mark @Anchor1;
+  pos base [\tataorya ] <anchor 669 0> mark @Anchor1;
+  pos base [\dabhaorya ] <anchor 714 0> mark @Anchor1;
+  pos base [\nadaorya \nadhaorya ] <anchor 723 0> mark @Anchor1;
+  pos base [\pallaorya \ssakaorya \ssattaorya \ssatthaorya \ssaphaorya \ssattaUIorya \ssatthaUIorya ] <anchor 845 0> mark @Anchor1;
+  pos base [\badaorya ] <anchor 668 0> mark @Anchor1;
+  pos base [\maphaorya ] <anchor 861 0> mark @Anchor1;
+  pos base [\shacaorya ] <anchor 894 0> mark @Anchor1;
+  pos base [\shallaorya \shallaUIorya ] <anchor 880 0> mark @Anchor1;
+  pos base [\sakaorya \sakhaorya \sataraorya \saphaorya \sakhaUIorya \sataraUIorya ] <anchor 810 0> mark @Anchor1;
+  pos base [\kataUIorya ] <anchor 676 0> mark @Anchor1;
+  pos base [\saphaUIorya ] <anchor 824 0> mark @Anchor1;
+  pos base [\yyakaorya \yyajaorya \yyanaorya \yyabaorya \yyamaorya \yyaraorya \yyalaorya \yyallaorya ] <anchor 783 0> mark @Anchor1;
+  pos base [\hasquishorya ] <anchor 635 0> mark @Anchor1;
+} blwmBelowBaseMarklookup3;
+
+lookup blwmBelowBaseMarklookup4 {
+  lookupflag 0;
+  markClass [\rrvocalicvowelsignleftorya ] <anchor -50 -100> @Anchor2;
+  markClass [\lvocalicvowelsignleftorya \llvocalicvowelsignleftorya ] <anchor 0 -100> @Anchor2;
+  markClass [\khasubscriptleftmarkorya \gasubscriptleftmarkorya \ghasubscriptleftmarkorya \ngasubscriptleftmarkorya \casubscriptleftmarkorya \chasubscriptleftmarkorya \jhasubscriptleftmarkorya \ttasubscriptleftmarkorya \tthasubscriptleftmarkorya \ddasubscriptleftmarkorya \dasubscriptleftmarkorya \dhasubscriptleftmarkorya \pasubscriptleftmarkorya \phasubscriptleftmarkorya \bhasubscriptleftmarkorya \ssasubscriptleftmarkorya \sasubscriptleftmarkorya \hasubscriptleftmarkorya ] <anchor -20 -100> @Anchor2;
+  markClass [\ddhasubscriptleftmarkorya \nnasubscriptleftmarkorya ] <anchor -30 -100> @Anchor2;
+  markClass [\shasubscriptleftmarkorya ] <anchor -10 -100> @Anchor2;
+  markClass [\kassasubscriptleftmarkorya ] <anchor 20 -100> @Anchor2;
+  pos base [\kattaorya ] <anchor 1066 -100> mark @Anchor2;
+  pos base [\kasaorya ] <anchor 933 -100> mark @Anchor2;
+  pos base [\ngakassaorya ] <anchor 1039 -100> mark @Anchor2;
+  pos base [\ddagaorya ] <anchor 1035 -100> mark @Anchor2;
+  pos base [\ddaddaorya ] <anchor 812 -100> mark @Anchor2;
+  pos base [\badhaorya ] <anchor 1079 -100> mark @Anchor2;
+  pos base [\lagaorya ] <anchor 1094 -100> mark @Anchor2;
+  pos base [\llapaorya \llaphaorya ] <anchor 926 -100> mark @Anchor2;
+  pos base [\ssaphaorya ] <anchor 1152 -100> mark @Anchor2;
+  pos base [\tathaUIorya ] <anchor 974 -100> mark @Anchor2;
+  pos base [\hakaorya ] <anchor 939 -100> mark @Anchor2;
+  pos base [\hajaorya ] <anchor 938 -100> mark @Anchor2;
+  pos base [\hanaorya \habaorya ] <anchor 848 -100> mark @Anchor2;
+  pos base [\hamaorya ] <anchor 899 -100> mark @Anchor2;
+  pos base [\haraorya ] <anchor 934 -100> mark @Anchor2;
+  pos base [\hallaorya ] <anchor 948 -100> mark @Anchor2;
+  pos base [\yyakaorya \yyallaorya ] <anchor 1098 -100> mark @Anchor2;
+  pos base [\yyajaorya ] <anchor 1038 -100> mark @Anchor2;
+  pos base [\yyanaorya \yyabaorya \yyamaorya ] <anchor 1026 -100> mark @Anchor2;
+  pos base [\yyaraorya ] <anchor 1186 -100> mark @Anchor2;
+  pos base [\yyalaorya ] <anchor 1283 -100> mark @Anchor2;
+  pos base [\takaraorya ] <anchor 1043 -100> mark @Anchor2;
+} blwmBelowBaseMarklookup4;
+
+lookup blwmBelowBaseMarklookup5 {
+  lookupflag 0;
+  markClass [\uvowelsignmarkorya \uuvowelsignmarkorya \rvocalicvowelsignmarkorya \viramamarkorya ] <anchor -125 -300> @Anchor3;
+  pos mark [\kasubscriptorya \jasubscriptorya \lasubscriptorya \llasubscriptorya ] <anchor 18 -300> mark @Anchor3;
+  pos mark [\khasubscriptorya \gasubscriptorya \ghasubscriptorya \nnasubscriptorya \dhasubscriptorya \pasubscriptorya \phasubscriptorya \shasubscriptorya \ssasubscriptorya \sasubscriptorya \kassasubscriptorya \tarasubscriptorya ] <anchor 47 -300> mark @Anchor3;
+  pos mark [\ngasubscriptorya ] <anchor -153 -300> mark @Anchor3;
+  pos mark [\casubscriptorya ] <anchor -138 -300> mark @Anchor3;
+  pos mark [\chasubscriptorya \tthasubscriptorya ] <anchor -23 -300> mark @Anchor3;
+  pos mark [\jhasubscriptorya ] <anchor -179 -300> mark @Anchor3;
+  pos mark [\ttasubscriptorya ] <anchor -146 -300> mark @Anchor3;
+  pos mark [\ddasubscriptorya ] <anchor -126 -300> mark @Anchor3;
+  pos mark [\ddhasubscriptorya ] <anchor -173 -300> mark @Anchor3;
+  pos mark [\tasubscriptorya ] <anchor -213 -300> mark @Anchor3;
+  pos mark [\thasubscriptorya ] <anchor -163 -270> mark @Anchor3;
+  pos mark [\dasubscriptorya ] <anchor -92 -300> mark @Anchor3;
+  pos mark [\nasubscriptorya \basubscriptorya \masubscriptorya \barasubscriptorya ] <anchor -125 -300> mark @Anchor3;
+  pos mark [\bhasubscriptorya ] <anchor -183 -300> mark @Anchor3;
+  pos mark [\hasubscriptorya ] <anchor -111 -300> mark @Anchor3;
+  pos mark [\nuktakasubscriptorya ] <anchor -35 -300> mark @Anchor3;
+  pos mark [\nuktakhasubscriptorya ] <anchor -55 -300> mark @Anchor3;
+  pos mark [\nuktagasubscriptorya ] <anchor -72 -300> mark @Anchor3;
+  pos mark [\nuktaghasubscriptorya \nuktapasubscriptorya \nuktaphasubscriptorya ] <anchor -78 -300> mark @Anchor3;
+  pos mark [\nuktangasubscriptorya ] <anchor -293 -300> mark @Anchor3;
+  pos mark [\nuktacasubscriptorya ] <anchor -310 -300> mark @Anchor3;
+  pos mark [\nuktachasubscriptorya ] <anchor -218 -300> mark @Anchor3;
+  pos mark [\nuktajasubscriptorya \nuktalasubscriptorya \nuktallasubscriptorya ] <anchor -37 -300> mark @Anchor3;
+  pos mark [\nuktajhasubscriptorya ] <anchor -322 -300> mark @Anchor3;
+  pos mark [\nuktattasubscriptorya ] <anchor -306 -300> mark @Anchor3;
+  pos mark [\nuktatthasubscriptorya ] <anchor -256 -300> mark @Anchor3;
+  pos mark [\nuktaddasubscriptorya ] <anchor -292 -300> mark @Anchor3;
+  pos mark [\nuktaddhasubscriptorya ] <anchor -370 -300> mark @Anchor3;
+  pos mark [\nuktannasubscriptorya ] <anchor -105 -300> mark @Anchor3;
+  pos mark [\nuktatasubscriptorya ] <anchor -346 -300> mark @Anchor3;
+  pos mark [\nuktathasubscriptorya ] <anchor -20 -270> mark @Anchor3;
+  pos mark [\nuktadasubscriptorya ] <anchor -274 -300> mark @Anchor3;
+  pos mark [\nuktadhasubscriptorya ] <anchor -201 -300> mark @Anchor3;
+  pos mark [\nuktanasubscriptorya ] <anchor -203 -300> mark @Anchor3;
+  pos mark [\nuktabasubscriptorya ] <anchor -176 -300> mark @Anchor3;
+  pos mark [\nuktabhasubscriptorya ] <anchor -281 -300> mark @Anchor3;
+  pos mark [\nuktamasubscriptorya ] <anchor -137 -300> mark @Anchor3;
+  pos mark [\nuktarasubscriptorya ] <anchor -400 -300> mark @Anchor3;
+  pos mark [\nuktashasubscriptorya ] <anchor -45 -300> mark @Anchor3;
+  pos mark [\nuktassasubscriptorya ] <anchor -64 -300> mark @Anchor3;
+  pos mark [\nuktasasubscriptorya ] <anchor -84 -300> mark @Anchor3;
+  pos mark [\nuktahasubscriptorya ] <anchor -283 -300> mark @Anchor3;
+  pos mark [\nuktakassasubscriptorya ] <anchor -63 -300> mark @Anchor3;
+} blwmBelowBaseMarklookup5;
+
+lookup blwmBelowBaseMarklookup6 {
+  lookupflag 0;
+  markClass [\rrvocalicvowelsignleftorya ] <anchor -50 -100> @Anchor4;
+  markClass [\lvocalicvowelsignleftorya \llvocalicvowelsignleftorya \viramaleftorya \nasubscriptleftorya \masubscriptleftorya \rasubscriptleftorya ] <anchor 0 -100> @Anchor4;
+  markClass [\khasubscriptleftorya \gasubscriptleftorya \ghasubscriptleftorya \ngasubscriptleftorya \casubscriptleftorya \chasubscriptleftorya \jhasubscriptleftorya \ttasubscriptleftorya \tthasubscriptleftorya \ddasubscriptleftorya \dasubscriptleftorya \dhasubscriptleftorya \pasubscriptleftorya \phasubscriptleftorya \bhasubscriptleftorya \ssasubscriptleftorya \sasubscriptleftorya \hasubscriptleftorya \kasubscriptleftorya \jasubscriptleftorya \thasubscriptleftorya \basubscriptleftorya \lasubscriptleftorya \llasubscriptleftorya ] <anchor -20 -100> @Anchor4;
+  markClass [\ddhasubscriptleftorya \nnasubscriptleftorya ] <anchor -30 -100> @Anchor4;
+  markClass [\shasubscriptleftorya ] <anchor -10 -100> @Anchor4;
+  markClass [\kassasubscriptleftorya \uvowelsignleftorya \uuvowelsignleftorya \rvocalicvowelsignleftorya ] <anchor 20 -100> @Anchor4;
+  markClass [\tasubscriptleftorya ] <anchor 40 -100> @Anchor4;
+  pos mark [\kasubscriptorya \jasubscriptorya \llasubscriptorya ] <anchor 0 -100> mark @Anchor4;
+  pos mark [\khasubscriptorya \gasubscriptorya \ghasubscriptorya \nnasubscriptorya \dhasubscriptorya \pasubscriptorya \phasubscriptorya \shasubscriptorya \ssasubscriptorya \sasubscriptorya \kassasubscriptorya \tarasubscriptorya ] <anchor 47 -100> mark @Anchor4;
+  pos mark [\ngasubscriptorya ] <anchor -15 -100> mark @Anchor4;
+  pos mark [\casubscriptorya ] <anchor 11 -100> mark @Anchor4;
+  pos mark [\chasubscriptorya ] <anchor 75 -100> mark @Anchor4;
+  pos mark [\jhasubscriptorya ] <anchor 20 -100> mark @Anchor4;
+  pos mark [\ttasubscriptorya ] <anchor -70 -100> mark @Anchor4;
+  pos mark [\tthasubscriptorya \khasubscriptloworya \gasubscriptloworya \ghasubscriptloworya \nnasubscriptloworya \dhasubscriptloworya \pasubscriptloworya \shasubscriptloworya \ssasubscriptloworya \sasubscriptloworya \kassasubscriptloworya ] <anchor 107 -100> mark @Anchor4;
+  pos mark [\ddasubscriptorya \dasubscriptorya ] <anchor 28 -100> mark @Anchor4;
+  pos mark [\ddhasubscriptorya \ddhasubscriptloworya ] <anchor 220 -100> mark @Anchor4;
+  pos mark [\tasubscriptorya ] <anchor -62 -100> mark @Anchor4;
+  pos mark [\thasubscriptorya ] <anchor -27 -100> mark @Anchor4;
+  pos mark [\nasubscriptorya \basubscriptorya \masubscriptorya ] <anchor -143 -100> mark @Anchor4;
+  pos mark [\bhasubscriptorya \jhasubscriptloworya ] <anchor 106 -100> mark @Anchor4;
+  pos mark [\rasubscriptorya \rasubscriptaltorya \rasubscriptshortorya \rasubscriptshorterorya ] <anchor -160 -100> mark @Anchor4;
+  pos mark [\lasubscriptorya ] <anchor 185 -100> mark @Anchor4;
+  pos mark [\hasubscriptorya ] <anchor 38 -100> mark @Anchor4;
+  pos mark [\nuktakasubscriptorya ] <anchor -53 -100> mark @Anchor4;
+  pos mark [\nuktakhasubscriptorya \nuktajasubscriptorya \nuktallasubscriptorya ] <anchor -55 -100> mark @Anchor4;
+  pos mark [\nuktagasubscriptorya ] <anchor -72 -100> mark @Anchor4;
+  pos mark [\nuktaghasubscriptorya \nuktapasubscriptorya \nuktaphasubscriptorya ] <anchor -78 -100> mark @Anchor4;
+  pos mark [\nuktangasubscriptorya ] <anchor -154 -100> mark @Anchor4;
+  pos mark [\nuktacasubscriptorya ] <anchor -161 -100> mark @Anchor4;
+  pos mark [\nuktachasubscriptorya ] <anchor -120 -100> mark @Anchor4;
+  pos mark [\nuktajhasubscriptorya ] <anchor -123 -100> mark @Anchor4;
+  pos mark [\nuktattasubscriptorya ] <anchor -230 -100> mark @Anchor4;
+  pos mark [\nuktatthasubscriptorya ] <anchor -126 -100> mark @Anchor4;
+  pos mark [\nuktaddasubscriptorya ] <anchor -138 -100> mark @Anchor4;
+  pos mark [\nuktaddhasubscriptorya ] <anchor 42 -100> mark @Anchor4;
+  pos mark [\nuktannasubscriptorya ] <anchor -105 -100> mark @Anchor4;
+  pos mark [\nuktatasubscriptorya ] <anchor -175 -100> mark @Anchor4;
+  pos mark [\nuktathasubscriptorya ] <anchor 116 -100> mark @Anchor4;
+  pos mark [\nuktadasubscriptorya ] <anchor -152 -100> mark @Anchor4;
+  pos mark [\nuktadhasubscriptorya ] <anchor -201 -100> mark @Anchor4;
+  pos mark [\nuktanasubscriptorya ] <anchor -221 -100> mark @Anchor4;
+  pos mark [\nuktabasubscriptorya ] <anchor -194 -100> mark @Anchor4;
+  pos mark [\nuktabhasubscriptorya \tasubscriptloworya \tasubscriptlowerorya \tasubscriptdeeporya ] <anchor 8 -100> mark @Anchor4;
+  pos mark [\nuktamasubscriptorya ] <anchor -155 -100> mark @Anchor4;
+  pos mark [\nuktarasubscriptorya ] <anchor -251 -100> mark @Anchor4;
+  pos mark [\nuktalasubscriptorya ] <anchor 130 -100> mark @Anchor4;
+  pos mark [\nuktashasubscriptorya ] <anchor -45 -100> mark @Anchor4;
+  pos mark [\nuktassasubscriptorya ] <anchor -64 -100> mark @Anchor4;
+  pos mark [\nuktasasubscriptorya ] <anchor -84 -100> mark @Anchor4;
+  pos mark [\nuktahasubscriptorya ] <anchor -121 -100> mark @Anchor4;
+  pos mark [\nuktakassasubscriptorya ] <anchor -63 -100> mark @Anchor4;
+  pos mark [\kasubscriptloworya \llasubscriptloworya \kasubscriptlowerorya \jasubscriptlowerorya \llasubscriptlowerorya \jasubscriptdeeporya ] <anchor 58 -100> mark @Anchor4;
+  pos mark [\ngasubscriptloworya ] <anchor 178 -100> mark @Anchor4;
+  pos mark [\casubscriptloworya ] <anchor 122 -100> mark @Anchor4;
+  pos mark [\chasubscriptloworya \tthasubscriptloworya ] <anchor 157 -100> mark @Anchor4;
+  pos mark [\jasubscriptloworya ] <anchor 68 -100> mark @Anchor4;
+  pos mark [\ttasubscriptloworya ] <anchor 98 -100> mark @Anchor4;
+  pos mark [\ddasubscriptloworya \dasubscriptloworya ] <anchor 139 -100> mark @Anchor4;
+  pos mark [\thasubscriptloworya \thasubscriptlowerorya \thasubscriptdeeporya ] <anchor 32 -100> mark @Anchor4;
+  pos mark [\nasubscriptloworya \basubscriptloworya \masubscriptloworya ] <anchor -75 -100> mark @Anchor4;
+  pos mark [\phasubscriptloworya ] <anchor 291 -100> mark @Anchor4;
+  pos mark [\bhasubscriptloworya ] <anchor 112 -100> mark @Anchor4;
+  pos mark [\rasubscriptloworya \nasubscriptlowerorya \basubscriptlowerorya \masubscriptlowerorya \nasubscriptdeeporya \basubscriptdeeporya \masubscriptdeeporya ] <anchor -85 -100> mark @Anchor4;
+  pos mark [\lasubscriptloworya \lasubscriptlowerorya ] <anchor 243 -100> mark @Anchor4;
+  pos mark [\hasubscriptloworya ] <anchor 118 -100> mark @Anchor4;
+  pos mark [\rasubscriptlowerorya \rasubscriptdeeporya ] <anchor -95 -100> mark @Anchor4;
+  pos mark [\kasubscriptdeeporya \llasubscriptdeeporya ] <anchor 48 -100> mark @Anchor4;
+  pos mark [\khasubscriptleftorya \khasubscriptspaceorya \khasubscriptleftmarkorya ] <anchor 789 -100> mark @Anchor4;
+  pos mark [\gasubscriptleftorya \gasubscriptspaceorya \gasubscriptleftmarkorya ] <anchor 773 -100> mark @Anchor4;
+  pos mark [\ghasubscriptleftorya \nnasubscriptleftorya \pasubscriptleftorya \ghasubscriptspaceorya \nnasubscriptspaceorya \pasubscriptspaceorya \ghasubscriptleftmarkorya \nnasubscriptleftmarkorya \pasubscriptleftmarkorya ] <anchor 764 -100> mark @Anchor4;
+  pos mark [\ngasubscriptleftorya \ngasubscriptspaceorya \ngasubscriptleftmarkorya ] <anchor 821 -100> mark @Anchor4;
+  pos mark [\casubscriptleftorya \hasubscriptleftorya \casubscriptspaceorya \hasubscriptspaceorya \casubscriptleftmarkorya \hasubscriptleftmarkorya ] <anchor 732 -100> mark @Anchor4;
+  pos mark [\chasubscriptleftorya \chasubscriptspaceorya \chasubscriptleftmarkorya ] <anchor 747 -100> mark @Anchor4;
+  pos mark [\jhasubscriptleftorya \jhasubscriptspaceorya \jhasubscriptleftmarkorya ] <anchor 745 -100> mark @Anchor4;
+  pos mark [\ttasubscriptleftorya \ttasubscriptspaceorya \ttasubscriptleftmarkorya ] <anchor 721 -100> mark @Anchor4;
+  pos mark [\tthasubscriptleftorya \tthasubscriptspaceorya \tthasubscriptleftmarkorya ] <anchor 706 -100> mark @Anchor4;
+  pos mark [\ddasubscriptleftorya \ddasubscriptspaceorya \ddasubscriptleftmarkorya ] <anchor 755 -100> mark @Anchor4;
+  pos mark [\ddhasubscriptleftorya \ddhasubscriptspaceorya \ddhasubscriptleftmarkorya ] <anchor 673 -100> mark @Anchor4;
+  pos mark [\dasubscriptleftorya \rasubscriptleftorya \dasubscriptspaceorya \dasubscriptleftmarkorya \rasubscriptspaceorya ] <anchor 741 -100> mark @Anchor4;
+  pos mark [\dhasubscriptleftorya \dhasubscriptspaceorya \dhasubscriptleftmarkorya ] <anchor 693 -100> mark @Anchor4;
+  pos mark [\phasubscriptleftorya \phasubscriptspaceorya \phasubscriptleftmarkorya ] <anchor 948 -100> mark @Anchor4;
+  pos mark [\bhasubscriptleftorya \bhasubscriptspaceorya \bhasubscriptleftmarkorya ] <anchor 796 -100> mark @Anchor4;
+  pos mark [\lasubscriptdeeporya ] <anchor 223 -100> mark @Anchor4;
+  pos mark [\shasubscriptleftorya \shasubscriptspaceorya \shasubscriptleftmarkorya ] <anchor 797 -100> mark @Anchor4;
+  pos mark [\ssasubscriptleftorya \ssasubscriptspaceorya \ssasubscriptleftmarkorya ] <anchor 779 -100> mark @Anchor4;
+  pos mark [\sasubscriptleftorya \sasubscriptspaceorya \sasubscriptleftmarkorya ] <anchor 758 -100> mark @Anchor4;
+  pos mark [\kassasubscriptleftorya \kassasubscriptspaceorya \kassasubscriptleftmarkorya ] <anchor 869 -100> mark @Anchor4;
+  pos mark [\kasubscriptleftorya \kasubscriptspaceorya ] <anchor 740 -100> mark @Anchor4;
+  pos mark [\jasubscriptleftorya \jasubscriptspaceorya ] <anchor 736 -100> mark @Anchor4;
+  pos mark [\tasubscriptleftorya \tasubscriptspaceorya ] <anchor 860 -100> mark @Anchor4;
+  pos mark [\thasubscriptleftorya \thasubscriptspaceorya ] <anchor 870 -100> mark @Anchor4;
+  pos mark [\nasubscriptleftorya \nasubscriptspaceorya ] <anchor 574 -100> mark @Anchor4;
+  pos mark [\basubscriptleftorya \basubscriptspaceorya ] <anchor 591 -100> mark @Anchor4;
+  pos mark [\masubscriptleftorya \masubscriptspaceorya ] <anchor 671 -100> mark @Anchor4;
+  pos mark [\lasubscriptleftorya \lasubscriptspaceorya ] <anchor 899 -100> mark @Anchor4;
+  pos mark [\llasubscriptleftorya \llasubscriptspaceorya ] <anchor 724 -100> mark @Anchor4;
+} blwmBelowBaseMarklookup6;
+
+lookup blwmBelowBaseMarklookup7 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    pos cursive \kasubscriptorya <anchor NULL> <anchor 0 -100>;
+    pos cursive \khasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \gasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \ghasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \ngasubscriptorya <anchor NULL> <anchor -15 -100>;
+    pos cursive \casubscriptorya <anchor NULL> <anchor 11 -100>;
+    pos cursive \chasubscriptorya <anchor NULL> <anchor 75 -100>;
+    pos cursive \jasubscriptorya <anchor NULL> <anchor 0 -100>;
+    pos cursive \jhasubscriptorya <anchor NULL> <anchor 20 -100>;
+    pos cursive \ttasubscriptorya <anchor NULL> <anchor -70 -100>;
+    pos cursive \tthasubscriptorya <anchor NULL> <anchor 107 -100>;
+    pos cursive \ddasubscriptorya <anchor NULL> <anchor 28 -100>;
+    pos cursive \ddhasubscriptorya <anchor NULL> <anchor 220 -100>;
+    pos cursive \nnasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \tasubscriptorya <anchor NULL> <anchor -62 -100>;
+    pos cursive \thasubscriptorya <anchor NULL> <anchor -27 -100>;
+    pos cursive \dasubscriptorya <anchor NULL> <anchor 28 -100>;
+    pos cursive \dhasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \nasubscriptorya <anchor NULL> <anchor -143 -100>;
+    pos cursive \pasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \phasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \basubscriptorya <anchor NULL> <anchor -143 -100>;
+    pos cursive \bhasubscriptorya <anchor NULL> <anchor 106 -100>;
+    pos cursive \masubscriptorya <anchor NULL> <anchor -143 -100>;
+    pos cursive \rasubscriptorya <anchor NULL> <anchor -160 -100>;
+    pos cursive \lasubscriptorya <anchor NULL> <anchor 185 -100>;
+    pos cursive \llasubscriptorya <anchor NULL> <anchor 0 -100>;
+    pos cursive \shasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \ssasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \sasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \hasubscriptorya <anchor NULL> <anchor 38 -100>;
+    pos cursive \kassasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \tarasubscriptorya <anchor NULL> <anchor 47 -100>;
+    pos cursive \kattaorya <anchor NULL> <anchor 1066 -100>;
+    pos cursive \kassannaorya <anchor NULL> <anchor 1558 -100>;
+    pos cursive \gadaorya <anchor NULL> <anchor 1247 -100>;
+    pos cursive \gadhaorya <anchor NULL> <anchor 1227 -100>;
+    pos cursive \nyachaorya <anchor NULL> <anchor 1017 -100>;
+    pos cursive \ddagaorya <anchor NULL> <anchor 1035 -100>;
+    pos cursive \nnaddhaorya <anchor NULL> <anchor 1499 -100>;
+    pos cursive \dagaorya <anchor NULL> <anchor 1062 -100>;
+    pos cursive \papaorya <anchor NULL> <anchor 1127 -100>;
+    pos cursive \pasaorya <anchor NULL> <anchor 1127 -100>;
+    pos cursive \badhaorya <anchor NULL> <anchor 1079 -100>;
+    pos cursive \shacaorya <anchor NULL> <anchor 1308 -100>;
+    pos cursive \ssapaorya <anchor NULL> <anchor 1152 -100>;
+    pos cursive \ssaphaorya <anchor NULL> <anchor 1152 -100>;
+    pos cursive \nuktakasubscriptorya <anchor NULL> <anchor -53 -100>;
+    pos cursive \nuktakhasubscriptorya <anchor NULL> <anchor -55 -100>;
+    pos cursive \nuktagasubscriptorya <anchor NULL> <anchor -72 -100>;
+    pos cursive \nuktaghasubscriptorya <anchor NULL> <anchor -78 -100>;
+    pos cursive \nuktangasubscriptorya <anchor NULL> <anchor -154 -100>;
+    pos cursive \nuktacasubscriptorya <anchor NULL> <anchor -161 -100>;
+    pos cursive \nuktachasubscriptorya <anchor NULL> <anchor -120 -100>;
+    pos cursive \nuktajasubscriptorya <anchor NULL> <anchor -55 -100>;
+    pos cursive \nuktajhasubscriptorya <anchor NULL> <anchor -123 -100>;
+    pos cursive \nuktattasubscriptorya <anchor NULL> <anchor -230 -100>;
+    pos cursive \nuktatthasubscriptorya <anchor NULL> <anchor -126 -100>;
+    pos cursive \nuktaddasubscriptorya <anchor NULL> <anchor -138 -100>;
+    pos cursive \nuktaddhasubscriptorya <anchor NULL> <anchor 42 -100>;
+    pos cursive \nuktannasubscriptorya <anchor NULL> <anchor -105 -100>;
+    pos cursive \nuktatasubscriptorya <anchor NULL> <anchor -175 -100>;
+    pos cursive \nuktathasubscriptorya <anchor NULL> <anchor 116 -100>;
+    pos cursive \nuktadasubscriptorya <anchor NULL> <anchor -152 -100>;
+    pos cursive \nuktadhasubscriptorya <anchor NULL> <anchor -201 -100>;
+    pos cursive \nuktanasubscriptorya <anchor NULL> <anchor -221 -100>;
+    pos cursive \nuktapasubscriptorya <anchor NULL> <anchor -78 -100>;
+    pos cursive \nuktaphasubscriptorya <anchor NULL> <anchor -78 -100>;
+    pos cursive \nuktabasubscriptorya <anchor NULL> <anchor -194 -100>;
+    pos cursive \nuktabhasubscriptorya <anchor NULL> <anchor 8 -100>;
+    pos cursive \nuktamasubscriptorya <anchor NULL> <anchor -155 -100>;
+    pos cursive \nuktarasubscriptorya <anchor NULL> <anchor -251 -100>;
+    pos cursive \nuktalasubscriptorya <anchor NULL> <anchor 130 -100>;
+    pos cursive \nuktallasubscriptorya <anchor NULL> <anchor -55 -100>;
+    pos cursive \nuktashasubscriptorya <anchor NULL> <anchor -45 -100>;
+    pos cursive \nuktassasubscriptorya <anchor NULL> <anchor -64 -100>;
+    pos cursive \nuktasasubscriptorya <anchor NULL> <anchor -84 -100>;
+    pos cursive \nuktahasubscriptorya <anchor NULL> <anchor -121 -100>;
+    pos cursive \nuktakassasubscriptorya <anchor NULL> <anchor -63 -100>;
+    pos cursive \tathaUIorya <anchor NULL> <anchor 974 -100>;
+    pos cursive \kasubscriptloworya <anchor NULL> <anchor 58 -100>;
+    pos cursive \khasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \gasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \ghasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \ngasubscriptloworya <anchor NULL> <anchor 178 -100>;
+    pos cursive \casubscriptloworya <anchor NULL> <anchor 122 -100>;
+    pos cursive \chasubscriptloworya <anchor NULL> <anchor 157 -100>;
+    pos cursive \jasubscriptloworya <anchor NULL> <anchor 68 -100>;
+    pos cursive \jhasubscriptloworya <anchor NULL> <anchor 106 -100>;
+    pos cursive \ttasubscriptloworya <anchor NULL> <anchor 98 -100>;
+    pos cursive \tthasubscriptloworya <anchor NULL> <anchor 157 -100>;
+    pos cursive \ddasubscriptloworya <anchor NULL> <anchor 139 -100>;
+    pos cursive \ddhasubscriptloworya <anchor NULL> <anchor 220 -100>;
+    pos cursive \nnasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \tasubscriptloworya <anchor NULL> <anchor 8 -100>;
+    pos cursive \thasubscriptloworya <anchor NULL> <anchor 32 -100>;
+    pos cursive \dasubscriptloworya <anchor NULL> <anchor 139 -100>;
+    pos cursive \dhasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \nasubscriptloworya <anchor NULL> <anchor -75 -100>;
+    pos cursive \pasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \phasubscriptloworya <anchor NULL> <anchor 291 -100>;
+    pos cursive \basubscriptloworya <anchor NULL> <anchor -75 -100>;
+    pos cursive \bhasubscriptloworya <anchor NULL> <anchor 112 -100>;
+    pos cursive \masubscriptloworya <anchor NULL> <anchor -75 -100>;
+    pos cursive \rasubscriptloworya <anchor NULL> <anchor -85 -100>;
+    pos cursive \lasubscriptloworya <anchor NULL> <anchor 243 -100>;
+    pos cursive \llasubscriptloworya <anchor NULL> <anchor 58 -100>;
+    pos cursive \shasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \ssasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \sasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \hasubscriptloworya <anchor NULL> <anchor 118 -100>;
+    pos cursive \kassasubscriptloworya <anchor NULL> <anchor 107 -100>;
+    pos cursive \kasubscriptlowerorya <anchor NULL> <anchor 58 -100>;
+    pos cursive \jasubscriptlowerorya <anchor NULL> <anchor 58 -100>;
+    pos cursive \tasubscriptlowerorya <anchor NULL> <anchor 8 -100>;
+    pos cursive \thasubscriptlowerorya <anchor NULL> <anchor 32 -100>;
+    pos cursive \nasubscriptlowerorya <anchor NULL> <anchor -85 -100>;
+    pos cursive \basubscriptlowerorya <anchor NULL> <anchor -85 -100>;
+    pos cursive \masubscriptlowerorya <anchor NULL> <anchor -85 -100>;
+    pos cursive \rasubscriptlowerorya <anchor NULL> <anchor -95 -100>;
+    pos cursive \lasubscriptlowerorya <anchor NULL> <anchor 243 -100>;
+    pos cursive \llasubscriptlowerorya <anchor NULL> <anchor 58 -100>;
+    pos cursive \kasubscriptdeeporya <anchor NULL> <anchor 48 -100>;
+    pos cursive \khasubscriptleftorya <anchor NULL> <anchor 789 -100>;
+    pos cursive \gasubscriptleftorya <anchor NULL> <anchor 773 -100>;
+    pos cursive \ghasubscriptleftorya <anchor NULL> <anchor 764 -100>;
+    pos cursive \ngasubscriptleftorya <anchor NULL> <anchor 821 -100>;
+    pos cursive \casubscriptleftorya <anchor NULL> <anchor 732 -100>;
+    pos cursive \chasubscriptleftorya <anchor NULL> <anchor 747 -100>;
+    pos cursive \jasubscriptdeeporya <anchor NULL> <anchor 58 -100>;
+    pos cursive \jhasubscriptleftorya <anchor NULL> <anchor 745 -100>;
+    pos cursive \ttasubscriptleftorya <anchor NULL> <anchor 721 -100>;
+    pos cursive \tthasubscriptleftorya <anchor NULL> <anchor 706 -100>;
+    pos cursive \ddasubscriptleftorya <anchor NULL> <anchor 755 -100>;
+    pos cursive \ddhasubscriptleftorya <anchor NULL> <anchor 673 -100>;
+    pos cursive \nnasubscriptleftorya <anchor NULL> <anchor 764 -100>;
+    pos cursive \tasubscriptdeeporya <anchor NULL> <anchor 8 -100>;
+    pos cursive \thasubscriptdeeporya <anchor NULL> <anchor 32 -100>;
+    pos cursive \dasubscriptleftorya <anchor NULL> <anchor 741 -100>;
+    pos cursive \dhasubscriptleftorya <anchor NULL> <anchor 693 -100>;
+    pos cursive \nasubscriptdeeporya <anchor NULL> <anchor -85 -100>;
+    pos cursive \pasubscriptleftorya <anchor NULL> <anchor 764 -100>;
+    pos cursive \phasubscriptleftorya <anchor NULL> <anchor 948 -100>;
+    pos cursive \basubscriptdeeporya <anchor NULL> <anchor -85 -100>;
+    pos cursive \bhasubscriptleftorya <anchor NULL> <anchor 796 -100>;
+    pos cursive \masubscriptdeeporya <anchor NULL> <anchor -85 -100>;
+    pos cursive \rasubscriptdeeporya <anchor NULL> <anchor -95 -100>;
+    pos cursive \lasubscriptdeeporya <anchor NULL> <anchor 223 -100>;
+    pos cursive \llasubscriptdeeporya <anchor NULL> <anchor 48 -100>;
+    pos cursive \shasubscriptleftorya <anchor NULL> <anchor 797 -100>;
+    pos cursive \ssasubscriptleftorya <anchor NULL> <anchor 779 -100>;
+    pos cursive \sasubscriptleftorya <anchor NULL> <anchor 758 -100>;
+    pos cursive \hasubscriptleftorya <anchor NULL> <anchor 732 -100>;
+    pos cursive \kassasubscriptleftorya <anchor NULL> <anchor 869 -100>;
+    pos cursive \rrvocalicvowelsignspaceorya <anchor -50 -100> <anchor NULL>;
+    pos cursive \lvocalicvowelsignspaceorya <anchor 0 -100> <anchor NULL>;
+    pos cursive \llvocalicvowelsignspaceorya <anchor 0 -100> <anchor NULL>;
+    pos cursive \kasubscriptleftorya <anchor NULL> <anchor 740 -100>;
+    pos cursive \jasubscriptleftorya <anchor NULL> <anchor 736 -100>;
+    pos cursive \tasubscriptleftorya <anchor NULL> <anchor 860 -100>;
+    pos cursive \thasubscriptleftorya <anchor NULL> <anchor 870 -100>;
+    pos cursive \nasubscriptleftorya <anchor NULL> <anchor 574 -100>;
+    pos cursive \basubscriptleftorya <anchor NULL> <anchor 591 -100>;
+    pos cursive \masubscriptleftorya <anchor NULL> <anchor 671 -100>;
+    pos cursive \rasubscriptleftorya <anchor NULL> <anchor 741 -100>;
+    pos cursive \lasubscriptleftorya <anchor NULL> <anchor 899 -100>;
+    pos cursive \llasubscriptleftorya <anchor NULL> <anchor 724 -100>;
+    pos cursive \rasubscriptaltorya <anchor NULL> <anchor -160 -100>;
+    pos cursive \rasubscriptshortorya <anchor NULL> <anchor -160 -100>;
+    pos cursive \rasubscriptshorterorya <anchor NULL> <anchor -160 -100>;
+    pos cursive \halaorya <anchor NULL> <anchor 1133 -100>;
+    pos cursive \yyalaorya <anchor NULL> <anchor 1283 -100>;
+    pos cursive \takaraorya <anchor NULL> <anchor 1043 -100>;
+    pos cursive \khasubscriptspaceorya <anchor -20 -100> <anchor 789 -100>;
+    pos cursive \gasubscriptspaceorya <anchor -20 -100> <anchor 773 -100>;
+    pos cursive \ghasubscriptspaceorya <anchor -20 -100> <anchor 764 -100>;
+    pos cursive \ngasubscriptspaceorya <anchor -20 -100> <anchor 821 -100>;
+    pos cursive \casubscriptspaceorya <anchor -20 -100> <anchor 732 -100>;
+    pos cursive \chasubscriptspaceorya <anchor -20 -100> <anchor 747 -100>;
+    pos cursive \jhasubscriptspaceorya <anchor -20 -100> <anchor 745 -100>;
+    pos cursive \ttasubscriptspaceorya <anchor -20 -100> <anchor 721 -100>;
+    pos cursive \tthasubscriptspaceorya <anchor -20 -100> <anchor 706 -100>;
+    pos cursive \ddasubscriptspaceorya <anchor -20 -100> <anchor 755 -100>;
+    pos cursive \ddhasubscriptspaceorya <anchor -30 -100> <anchor 673 -100>;
+    pos cursive \nnasubscriptspaceorya <anchor -30 -100> <anchor 764 -100>;
+    pos cursive \dasubscriptspaceorya <anchor -20 -100> <anchor 741 -100>;
+    pos cursive \dhasubscriptspaceorya <anchor -20 -100> <anchor 693 -100>;
+    pos cursive \pasubscriptspaceorya <anchor -20 -100> <anchor 764 -100>;
+    pos cursive \phasubscriptspaceorya <anchor -20 -100> <anchor 948 -100>;
+    pos cursive \bhasubscriptspaceorya <anchor -20 -100> <anchor 796 -100>;
+    pos cursive \shasubscriptspaceorya <anchor -10 -100> <anchor 797 -100>;
+    pos cursive \ssasubscriptspaceorya <anchor -20 -100> <anchor 779 -100>;
+    pos cursive \sasubscriptspaceorya <anchor -20 -100> <anchor 758 -100>;
+    pos cursive \hasubscriptspaceorya <anchor -20 -100> <anchor 732 -100>;
+    pos cursive \kassasubscriptspaceorya <anchor 20 -100> <anchor 869 -100>;
+    pos cursive \khasubscriptleftmarkorya <anchor NULL> <anchor 789 -100>;
+    pos cursive \gasubscriptleftmarkorya <anchor NULL> <anchor 773 -100>;
+    pos cursive \ghasubscriptleftmarkorya <anchor NULL> <anchor 764 -100>;
+    pos cursive \ngasubscriptleftmarkorya <anchor NULL> <anchor 821 -100>;
+    pos cursive \casubscriptleftmarkorya <anchor NULL> <anchor 732 -100>;
+    pos cursive \chasubscriptleftmarkorya <anchor NULL> <anchor 747 -100>;
+    pos cursive \jhasubscriptleftmarkorya <anchor NULL> <anchor 745 -100>;
+    pos cursive \ttasubscriptleftmarkorya <anchor NULL> <anchor 721 -100>;
+    pos cursive \tthasubscriptleftmarkorya <anchor NULL> <anchor 706 -100>;
+    pos cursive \ddasubscriptleftmarkorya <anchor NULL> <anchor 755 -100>;
+    pos cursive \ddhasubscriptleftmarkorya <anchor NULL> <anchor 673 -100>;
+    pos cursive \nnasubscriptleftmarkorya <anchor NULL> <anchor 764 -100>;
+    pos cursive \dasubscriptleftmarkorya <anchor NULL> <anchor 741 -100>;
+    pos cursive \dhasubscriptleftmarkorya <anchor NULL> <anchor 693 -100>;
+    pos cursive \pasubscriptleftmarkorya <anchor NULL> <anchor 764 -100>;
+    pos cursive \phasubscriptleftmarkorya <anchor NULL> <anchor 948 -100>;
+    pos cursive \bhasubscriptleftmarkorya <anchor NULL> <anchor 796 -100>;
+    pos cursive \shasubscriptleftmarkorya <anchor NULL> <anchor 797 -100>;
+    pos cursive \ssasubscriptleftmarkorya <anchor NULL> <anchor 779 -100>;
+    pos cursive \sasubscriptleftmarkorya <anchor NULL> <anchor 758 -100>;
+    pos cursive \hasubscriptleftmarkorya <anchor NULL> <anchor 732 -100>;
+    pos cursive \kassasubscriptleftmarkorya <anchor NULL> <anchor 869 -100>;
+    pos cursive \uvowelsignspaceorya <anchor 20 -100> <anchor NULL>;
+    pos cursive \uuvowelsignspaceorya <anchor 20 -100> <anchor NULL>;
+    pos cursive \rvocalicvowelsignspaceorya <anchor 20 -100> <anchor NULL>;
+    pos cursive \kasubscriptspaceorya <anchor -20 -100> <anchor 740 -100>;
+    pos cursive \jasubscriptspaceorya <anchor -20 -100> <anchor 736 -100>;
+    pos cursive \tasubscriptspaceorya <anchor 40 -100> <anchor 860 -100>;
+    pos cursive \thasubscriptspaceorya <anchor -20 -100> <anchor 870 -100>;
+    pos cursive \nasubscriptspaceorya <anchor 0 -100> <anchor 574 -100>;
+    pos cursive \basubscriptspaceorya <anchor -20 -100> <anchor 591 -100>;
+    pos cursive \masubscriptspaceorya <anchor 0 -100> <anchor 671 -100>;
+    pos cursive \rasubscriptspaceorya <anchor 0 -100> <anchor 741 -100>;
+    pos cursive \lasubscriptspaceorya <anchor -20 -100> <anchor 899 -100>;
+    pos cursive \llasubscriptspaceorya <anchor -20 -100> <anchor 724 -100>;
+} blwmBelowBaseMarklookup7;
+
+lookup abvmAboveBaseMarklookup8 {
+  lookupflag 0;
+  markClass [\ivowelsignorya \ivowelsigncandrabinduorya \ivowelsignrephorya \ivowelsignrephcandrabinduorya ] <anchor -662 1346> @Anchor6;
+  markClass [\ivowelsignwideorya \ivowelsigncandrabinduwideorya \ivowelsignrephwideorya \ivowelrephcandrabinduwideorya ] <anchor -744 1346> @Anchor6;
+  markClass [\ivowelsignnarroworya \ivowelsigncandrabindunarroworya \ivowelsignrephnarroworya \ivowelrephcandrabindunarroworya ] <anchor -611 1346> @Anchor6;
+  pos base [\kaorya \jaorya \llaorya \kanuktaorya \januktaorya \llanuktaorya \kakaorya \kattaorya \kataorya \kallaorya \kasaorya \jajaorya \takaorya \dadaorya \dadhaorya \babaorya \llapaorya \llaphaorya \llallaorya \kakaUIorya \kataUIorya \kallaUIorya \jajaUIorya \llakaUIorya \llallaUIorya \takaraorya ] <anchor 677 1346> mark @Anchor6;
+  pos base [\khaorya \shaorya \khanuktaorya \shanuktaorya \shachaorya ] <anchor 674 1346> mark @Anchor6;
+  pos base [\gaorya \ganuktaorya ] <anchor 670 1346> mark @Anchor6;
+  pos base [\ghaorya \paorya \maorya \ghanuktaorya \panuktaorya \manuktaorya \tapaorya \tamaorya \pataorya \papaorya \pasaorya \mabhaorya \mamaorya \pataUIorya \mamaUIorya ] <anchor 663 1346> mark @Anchor6;
+  pos base [\ngaorya \nganuktaorya \ngakassaorya ] <anchor 707 1346> mark @Anchor6;
+  pos base [\caorya \baorya \vaorya \canuktaorya \banuktaorya \vanuktaorya \badhaorya ] <anchor 650 1346> mark @Anchor6;
+  pos base [\chaorya \ddaorya \ddhaorya \taorya \saorya \rraorya \rhaorya \chanuktaorya \tanuktaorya \sanuktaorya \cachaorya \tathaorya \tasaorya \sakaorya \sakhaorya \sataorya \sataraorya \sathaorya \sapaorya \saphaorya \sakhaUIorya \sataUIorya \sataraUIorya ] <anchor 658 1346> mark @Anchor6;
+  pos base [\jhaorya \jhanuktaorya ] <anchor 656 1346> mark @Anchor6;
+  pos base [\nyaorya \nyanuktaorya ] <anchor 666 1346> mark @Anchor6;
+  pos base [\ttaorya \ttanuktaorya ] <anchor 653 1346> mark @Anchor6;
+  pos base [\tthaorya \tthanuktaorya ] <anchor 733 1346> mark @Anchor6;
+  pos base [\nnaorya \nnanuktaorya \nnatthaorya \nnaddaorya \nnaddhaorya \nnannaorya \nnatthaUIorya \nnannaUIorya ] <anchor 660 1346> mark @Anchor6;
+  pos base [\thaorya \thanuktaorya ] <anchor 642 1346> mark @Anchor6;
+  pos base [\daorya \naorya \danuktaorya \nanuktaorya \tanaorya \nataorya \nataraorya \nathaorya \nanaorya \nataUIorya \nataraUIorya \nanaUIorya ] <anchor 649 1346> mark @Anchor6;
+  pos base [\dhaorya \dhanuktaorya ] <anchor 595 1346> mark @Anchor6;
+  pos base [\phaorya \phanuktaorya \ngaghaorya ] <anchor 745 1346> mark @Anchor6;
+  pos base [\bhaorya \bhanuktaorya ] <anchor 691 1346> mark @Anchor6;
+  pos base [\yaorya \yyaorya \yanuktaorya \yyanuktaorya \yyakaorya \yyajaorya \yyanaorya \yyabaorya \yyamaorya \yyaraorya \yyalaorya \yyallaorya ] <anchor 735 1346> mark @Anchor6;
+  pos base [\raorya \ranuktaorya ] <anchor 669 1346> mark @Anchor6;
+  pos base [\laorya \lalaorya ] <anchor 718 1346> mark @Anchor6;
+  pos base [\ssaorya \ssanuktaorya \pallaorya \ssakaorya \ssattaorya \ssatthaorya \ssannaorya \ssapaorya \ssaphaorya \ssattaUIorya \ssatthaUIorya \ssannaUIorya ] <anchor 676 1346> mark @Anchor6;
+  pos base [\haorya \hanuktaorya \hakaorya \hajaorya \hanaorya \habaorya \hamaorya \haraorya \halaorya \hallaorya \hasquishorya ] <anchor 635 1346> mark @Anchor6;
+  pos base [\waorya \wanuktaorya ] <anchor 587 1346> mark @Anchor6;
+  pos base [\lanuktaorya \shacaorya ] <anchor 700 1346> mark @Anchor6;
+  pos base [\kassaorya \kassannaorya \nyajaorya ] <anchor 747 1346> mark @Anchor6;
+  pos base [\gadaorya \gadhaorya \gallaorya \nnattaUIorya ] <anchor 671 1346> mark @Anchor6;
+  pos base [\ngakaorya ] <anchor 719 1346> mark @Anchor6;
+  pos base [\ngakhaorya ] <anchor 768 1346> mark @Anchor6;
+  pos base [\ngagaorya ] <anchor 765 1346> mark @Anchor6;
+  pos base [\cacaorya ] <anchor 664 1346> mark @Anchor6;
+  pos base [\janyaorya ] <anchor 616 1346> mark @Anchor6;
+  pos base [\nyacaorya ] <anchor 610 1346> mark @Anchor6;
+  pos base [\nyachaorya ] <anchor 583 1346> mark @Anchor6;
+  pos base [\nyajhaorya ] <anchor 728 1346> mark @Anchor6;
+  pos base [\ttattaorya ] <anchor 659 1346> mark @Anchor6;
+  pos base [\ddagaorya \ddaddaorya \dagaorya \tathaUIorya ] <anchor 647 1346> mark @Anchor6;
+  pos base [\nnattaorya \badaorya \nnaddaUIorya \nnaddaraorya ] <anchor 668 1346> mark @Anchor6;
+  pos base [\tataorya ] <anchor 698 1346> mark @Anchor6;
+  pos base [\dabhaorya ] <anchor 744 1346> mark @Anchor6;
+  pos base [\dhayapostorya ] <anchor 605 1346> mark @Anchor6;
+  pos base [\nadaorya \nadhaorya ] <anchor 685 1346> mark @Anchor6;
+  pos base [\mapaorya ] <anchor 684 1346> mark @Anchor6;
+  pos base [\maphaorya ] <anchor 766 1346> mark @Anchor6;
+  pos base [\lakaorya \lagaorya \lakaUIorya \lalaUIorya ] <anchor 721 1346> mark @Anchor6;
+  pos base [\llakaorya ] <anchor 679 1346> mark @Anchor6;
+  pos base [\shallaorya \shallaUIorya ] <anchor 693 1346> mark @Anchor6;
+  pos base [\gallaUIorya ] <anchor 681 1346> mark @Anchor6;
+  pos base [\shachaUIorya ] <anchor 689 1346> mark @Anchor6;
+  pos base [\sapaUIorya \saphaUIorya ] <anchor 665 1346> mark @Anchor6;
+} abvmAboveBaseMarklookup8;
+
+lookup abvmAboveBaseMarklookup9 {
+  lookupflag 0;
+  markClass [\candrabinduorya \ailengthmarkorya \rephorya \rephcandrabinduorya \ailengthmarkcandrabinduorya \ailengthmarkrephorya \ailengthmarkrephcandrabinduorya ] <anchor -262 1346> @Anchor7;
+  pos base [\phaorya \phanuktaorya \ngaghaorya \papaorya \pasaorya \mabhaorya \phahalforya \phanuktahalforya ] <anchor 1065 1346> mark @Anchor7;
+  pos base [\yyaorya \yyanuktaorya \yyahalforya \yyanuktahalforya \yyuorya \yyuuorya \yyrvocalicorya \yyakaorya \yyajaorya \yyanaorya \yyabaorya \yyamaorya \yyaraorya \yyalaorya \yyallaorya ] <anchor 1137 1346> mark @Anchor7;
+  pos base [\kattaorya \kasaorya \llapaorya \llaphaorya ] <anchor 1092 1346> mark @Anchor7;
+  pos base [\kassannaorya ] <anchor 1161 1346> mark @Anchor7;
+  pos base [\gadaorya \gadhaorya \nnattaUIorya ] <anchor 1079 1346> mark @Anchor7;
+  pos base [\ngakhaorya ] <anchor 1110 1346> mark @Anchor7;
+  pos base [\ngagaorya ] <anchor 1104 1346> mark @Anchor7;
+  pos base [\ngakassaorya ] <anchor 1192 1346> mark @Anchor7;
+  pos base [\nyachaorya ] <anchor 905 1346> mark @Anchor7;
+  pos base [\nyajaorya ] <anchor 1241 1346> mark @Anchor7;
+  pos base [\nyajhaorya ] <anchor 1071 1346> mark @Anchor7;
+  pos base [\ddagaorya \ddaddaorya \dagaorya \tathaUIorya ] <anchor 1032 1346> mark @Anchor7;
+  pos base [\nnattaorya ] <anchor 1075 1346> mark @Anchor7;
+  pos base [\nnatthaorya \nnaddhaorya \nnatthaUIorya ] <anchor 1059 1346> mark @Anchor7;
+  pos base [\badhaorya ] <anchor 1038 1346> mark @Anchor7;
+  pos base [\maphaorya ] <anchor 1106 1346> mark @Anchor7;
+  pos base [\lagaorya ] <anchor 1180 1346> mark @Anchor7;
+  pos base [\shacaorya ] <anchor 1139 1346> mark @Anchor7;
+  pos base [\ssakaorya \ssattaorya \ssatthaorya \ssapaorya \ssaphaorya \ssattaUIorya \ssatthaUIorya ] <anchor 1090 1346> mark @Anchor7;
+  pos base [\sakaorya \sakhaorya \sataraorya \saphaorya \sakhaUIorya \sataraUIorya ] <anchor 1055 1346> mark @Anchor7;
+  pos base [\saphaUIorya ] <anchor 1069 1346> mark @Anchor7;
+} abvmAboveBaseMarklookup9;
+
+lookup SinglePositioninglookup11 {
+  lookupflag 0;
+    pos \khasubscriptorya <0 104 0 0>;
+    pos \gasubscriptorya <0 104 0 0>;
+    pos \ghasubscriptorya <0 104 0 0>;
+    pos \ngasubscriptorya <0 104 0 0>;
+    pos \casubscriptorya <0 104 0 0>;
+    pos \chasubscriptorya <0 104 0 0>;
+    pos \jhasubscriptorya <0 104 0 0>;
+    pos \ttasubscriptorya <0 104 0 0>;
+    pos \tthasubscriptorya <0 75 0 0>;
+    pos \ddasubscriptorya <0 104 0 0>;
+    pos \ddhasubscriptorya <0 104 0 0>;
+    pos \nnasubscriptorya <0 104 0 0>;
+    pos \dasubscriptorya <0 104 0 0>;
+    pos \dhasubscriptorya <0 104 0 0>;
+    pos \pasubscriptorya <0 104 0 0>;
+    pos \phasubscriptorya <0 104 0 0>;
+    pos \bhasubscriptorya <0 104 0 0>;
+    pos \shasubscriptorya <0 104 0 0>;
+    pos \ssasubscriptorya <0 104 0 0>;
+    pos \sasubscriptorya <0 104 0 0>;
+    pos \hasubscriptorya <0 104 0 0>;
+    pos \kassasubscriptorya <0 104 0 0>;
+    pos \nuktakhasubscriptorya <0 104 0 0>;
+    pos \nuktagasubscriptorya <0 104 0 0>;
+    pos \nuktaghasubscriptorya <0 104 0 0>;
+    pos \nuktangasubscriptorya <0 104 0 0>;
+    pos \nuktacasubscriptorya <0 104 0 0>;
+    pos \nuktachasubscriptorya <0 104 0 0>;
+    pos \nuktajhasubscriptorya <0 104 0 0>;
+    pos \nuktattasubscriptorya <0 104 0 0>;
+    pos \nuktatthasubscriptorya <0 75 0 0>;
+    pos \nuktaddasubscriptorya <0 104 0 0>;
+    pos \nuktaddhasubscriptorya <0 104 0 0>;
+    pos \nuktannasubscriptorya <0 104 0 0>;
+    pos \nuktadasubscriptorya <0 104 0 0>;
+    pos \nuktadhasubscriptorya <0 104 0 0>;
+    pos \nuktapasubscriptorya <0 104 0 0>;
+    pos \nuktaphasubscriptorya <0 104 0 0>;
+    pos \nuktabhasubscriptorya <0 104 0 0>;
+    pos \nuktashasubscriptorya <0 104 0 0>;
+    pos \nuktassasubscriptorya <0 104 0 0>;
+    pos \nuktasasubscriptorya <0 104 0 0>;
+    pos \nuktahasubscriptorya <0 104 0 0>;
+    pos \nuktakassasubscriptorya <0 104 0 0>;
+} SinglePositioninglookup11;
+
+lookup distDistancelookup10 {
+  lookupflag MarkAttachmentType @MarkClass3;
+    @cc75_match_1 = [\khasubscriptorya \gasubscriptorya \ghasubscriptorya \ngasubscriptorya 
+	\casubscriptorya \chasubscriptorya \jhasubscriptorya 
+	\ttasubscriptorya \tthasubscriptorya \ddasubscriptorya 
+	\ddhasubscriptorya \nnasubscriptorya \dasubscriptorya 
+	\dhasubscriptorya \pasubscriptorya \phasubscriptorya 
+	\bhasubscriptorya \shasubscriptorya \ssasubscriptorya 
+	\sasubscriptorya \hasubscriptorya \kassasubscriptorya 
+	\nuktakhasubscriptorya \nuktagasubscriptorya 
+	\nuktaghasubscriptorya \nuktangasubscriptorya 
+	\nuktacasubscriptorya \nuktachasubscriptorya 
+	\nuktajhasubscriptorya \nuktattasubscriptorya 
+	\nuktatthasubscriptorya \nuktaddasubscriptorya 
+	\nuktaddhasubscriptorya \nuktannasubscriptorya 
+	\nuktadasubscriptorya \nuktadhasubscriptorya \nuktapasubscriptorya 
+	\nuktaphasubscriptorya \nuktabhasubscriptorya 
+	\nuktashasubscriptorya \nuktassasubscriptorya 
+	\nuktasasubscriptorya \nuktahasubscriptorya 
+	\nuktakassasubscriptorya ];
+    @cc75_back_1 = [\NULL ];
+    @cc75_ahead_1 = [\uvowelsigndeeporya \uuvowelsigndeeporya \rvocalicvowelsigndeeporya 
+	\rrvocalicvowelsignleftorya \viramadeeporya 
+	\lvocalicvowelsignleftorya \llvocalicvowelsignleftorya 
+	\kasubscriptdeeporya \khasubscriptleftorya \gasubscriptleftorya 
+	\ghasubscriptleftorya \ngasubscriptleftorya \casubscriptleftorya 
+	\chasubscriptleftorya \jasubscriptdeeporya \jhasubscriptleftorya 
+	\ttasubscriptleftorya \tthasubscriptleftorya \ddasubscriptleftorya 
+	\ddhasubscriptleftorya \nnasubscriptleftorya \tasubscriptdeeporya 
+	\thasubscriptdeeporya \dasubscriptleftorya \dhasubscriptleftorya 
+	\nasubscriptdeeporya \pasubscriptleftorya \phasubscriptleftorya 
+	\basubscriptdeeporya \bhasubscriptleftorya \masubscriptdeeporya 
+	\rasubscriptdeeporya \lasubscriptdeeporya \llasubscriptdeeporya 
+	\shasubscriptleftorya \ssasubscriptleftorya \sasubscriptleftorya 
+	\hasubscriptleftorya \kassasubscriptleftorya 
+	\rrvocalicvowelsignspaceorya \lvocalicvowelsignspaceorya 
+	\llvocalicvowelsignspaceorya \uvowelsignmarkorya 
+	\uuvowelsignmarkorya \rvocalicvowelsignmarkorya \viramamarkorya 
+	\rasubscriptmarkorya ];
+    pos @cc75_match_1'lookup SinglePositioninglookup11  @cc75_ahead_1 ;
+} distDistancelookup10;
+
+feature dist {
+
+ script ory2;
+     language dflt ;
+      lookup distDistancelookup0;
+      lookup distDistancelookup10;
+
+ script orya;
+     language dflt ;
+      lookup distDistancelookup0;
+      lookup distDistanceinOriyalookup1;
+      lookup distDistancelookup10;
+} dist;
+
+feature kern {
+
+ script ory2;
+     language dflt ;
+      lookup distDistanceinOriyalookup1;
+} kern;
+
+feature blwm {
+
+ script ory2;
+     language dflt ;
+      lookup blwmBelowBaseMarklookup2;
+      lookup blwmBelowBaseMarklookup3;
+      lookup blwmBelowBaseMarklookup4;
+      lookup blwmBelowBaseMarklookup5;
+      lookup blwmBelowBaseMarklookup6;
+      lookup blwmBelowBaseMarklookup7;
+
+ script orya;
+     language dflt ;
+      lookup blwmBelowBaseMarklookup2;
+      lookup blwmBelowBaseMarklookup3;
+      lookup blwmBelowBaseMarklookup4;
+      lookup blwmBelowBaseMarklookup5;
+      lookup blwmBelowBaseMarklookup6;
+      lookup blwmBelowBaseMarklookup7;
+} blwm;
+
+feature abvm {
+
+ script ory2;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup8;
+      lookup abvmAboveBaseMarklookup9;
+
+ script orya;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup8;
+      lookup abvmAboveBaseMarklookup9;
+} abvm;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+@MarkClass1 = [ ivowelsignorya ivowelsigncandrabinduorya ivowelsignrephorya ivowelsignrephcandrabinduorya ivowelsignwideorya ivowelsigncandrabinduwideorya ivowelsignrephwideorya ivowelrephcandrabinduwideorya ivowelsignnarroworya ivowelsigncandrabindunarroworya ivowelsignrephnarroworya ivowelrephcandrabindunarroworya ];
+@MarkClass2 = [ candrabinduorya rephorya rephcandrabinduorya ];
+@MarkClass3 = [ nuktaorya uvowelsignorya uuvowelsignorya rvocalicvowelsignorya rrvocalicvowelsignorya viramaorya lvocalicvowelsignorya llvocalicvowelsignorya kasubscriptorya khasubscriptorya gasubscriptorya ghasubscriptorya ngasubscriptorya casubscriptorya chasubscriptorya jasubscriptorya jhasubscriptorya ttasubscriptorya tthasubscriptorya ddasubscriptorya ddhasubscriptorya nnasubscriptorya tasubscriptorya thasubscriptorya dasubscriptorya dhasubscriptorya nasubscriptorya pasubscriptorya phasubscriptorya basubscriptorya bhasubscriptorya masubscriptorya rasubscriptorya lasubscriptorya llasubscriptorya shasubscriptorya ssasubscriptorya sasubscriptorya hasubscriptorya kassasubscriptorya tarasubscriptorya ivowelsignloworya uvowelsignaltorya uuvowelsignaltorya rvocalicvowelsignaltorya rrvocalicvowelsignaltorya uvowelsignloworya uuvowelsignloworya rvocalicvowelsignloworya rrvocalicvowelsignloworya viramaloworya lvocalicvowelsignloworya llvocalicvowelsignloworya uvowelsignlowerorya uuvowelsignlowerorya rvocalicvowelsignlowerorya viramalowerorya uvowelsigndeeporya uuvowelsigndeeporya rvocalicvowelsigndeeporya rrvocalicvowelsignleftorya viramadeeporya lvocalicvowelsignleftorya llvocalicvowelsignleftorya nuktakasubscriptorya nuktakhasubscriptorya nuktagasubscriptorya nuktaghasubscriptorya nuktangasubscriptorya nuktacasubscriptorya nuktachasubscriptorya nuktajasubscriptorya nuktajhasubscriptorya nuktattasubscriptorya nuktatthasubscriptorya nuktaddasubscriptorya nuktaddhasubscriptorya nuktannasubscriptorya nuktatasubscriptorya nuktathasubscriptorya nuktadasubscriptorya nuktadhasubscriptorya nuktanasubscriptorya nuktapasubscriptorya nuktaphasubscriptorya nuktabasubscriptorya nuktabhasubscriptorya nuktamasubscriptorya nuktarasubscriptorya nuktalasubscriptorya nuktallasubscriptorya nuktashasubscriptorya nuktassasubscriptorya nuktasasubscriptorya nuktahasubscriptorya nuktakassasubscriptorya nuktauvowelsignorya nuktauuvowelsignorya nuktarvocalicvowelsignorya nuktarrvocalicvowelsignorya nuktalvocalicvowelsignorya nuktallvocalicvowelsignorya kasubscriptloworya khasubscriptloworya gasubscriptloworya ghasubscriptloworya ngasubscriptloworya casubscriptloworya chasubscriptloworya jasubscriptloworya jhasubscriptloworya ttasubscriptloworya tthasubscriptloworya ddasubscriptloworya ddhasubscriptloworya nnasubscriptloworya tasubscriptloworya thasubscriptloworya dasubscriptloworya dhasubscriptloworya nasubscriptloworya pasubscriptloworya phasubscriptloworya basubscriptloworya bhasubscriptloworya masubscriptloworya rasubscriptloworya lasubscriptloworya llasubscriptloworya shasubscriptloworya ssasubscriptloworya sasubscriptloworya hasubscriptloworya kassasubscriptloworya kasubscriptlowerorya jasubscriptlowerorya tasubscriptlowerorya thasubscriptlowerorya nasubscriptlowerorya basubscriptlowerorya masubscriptlowerorya rasubscriptlowerorya lasubscriptlowerorya llasubscriptlowerorya kasubscriptdeeporya khasubscriptleftorya gasubscriptleftorya ghasubscriptleftorya ngasubscriptleftorya casubscriptleftorya chasubscriptleftorya jasubscriptdeeporya jhasubscriptleftorya ttasubscriptleftorya tthasubscriptleftorya ddasubscriptleftorya ddhasubscriptleftorya nnasubscriptleftorya tasubscriptdeeporya thasubscriptdeeporya dasubscriptleftorya dhasubscriptleftorya nasubscriptdeeporya pasubscriptleftorya phasubscriptleftorya basubscriptdeeporya bhasubscriptleftorya masubscriptdeeporya rasubscriptdeeporya lasubscriptdeeporya llasubscriptdeeporya shasubscriptleftorya ssasubscriptleftorya sasubscriptleftorya hasubscriptleftorya kassasubscriptleftorya uvowelsignleftorya uuvowelsignleftorya rvocalicvowelsignleftorya rrvocalicvowelsignspaceorya viramaleftorya lvocalicvowelsignspaceorya llvocalicvowelsignspaceorya kasubscriptleftorya jasubscriptleftorya tasubscriptleftorya thasubscriptleftorya nasubscriptleftorya basubscriptleftorya masubscriptleftorya rasubscriptleftorya lasubscriptleftorya llasubscriptleftorya rasubscriptaltorya rasubscriptshortorya rasubscriptshorterorya uvowelsignmarkorya uuvowelsignmarkorya rvocalicvowelsignmarkorya viramamarkorya rasubscriptmarkorya barasubscriptorya ruvowelsubscriptloworya khasubscriptspaceorya gasubscriptspaceorya ghasubscriptspaceorya ngasubscriptspaceorya casubscriptspaceorya chasubscriptspaceorya jhasubscriptspaceorya ttasubscriptspaceorya tthasubscriptspaceorya ddasubscriptspaceorya ddhasubscriptspaceorya nnasubscriptspaceorya dasubscriptspaceorya dhasubscriptspaceorya pasubscriptspaceorya phasubscriptspaceorya bhasubscriptspaceorya shasubscriptspaceorya ssasubscriptspaceorya sasubscriptspaceorya hasubscriptspaceorya kassasubscriptspaceorya khasubscriptleftmarkorya gasubscriptleftmarkorya ghasubscriptleftmarkorya ngasubscriptleftmarkorya casubscriptleftmarkorya chasubscriptleftmarkorya jhasubscriptleftmarkorya ttasubscriptleftmarkorya tthasubscriptleftmarkorya ddasubscriptleftmarkorya ddhasubscriptleftmarkorya nnasubscriptleftmarkorya dasubscriptleftmarkorya dhasubscriptleftmarkorya pasubscriptleftmarkorya phasubscriptleftmarkorya bhasubscriptleftmarkorya shasubscriptleftmarkorya ssasubscriptleftmarkorya sasubscriptleftmarkorya hasubscriptleftmarkorya kassasubscriptleftmarkorya uvowelsignspaceorya uuvowelsignspaceorya rvocalicvowelsignspaceorya kasubscriptspaceorya jasubscriptspaceorya tasubscriptspaceorya thasubscriptspaceorya nasubscriptspaceorya basubscriptspaceorya masubscriptspaceorya rasubscriptspaceorya lasubscriptspaceorya llasubscriptspaceorya ];
+
+@GDEF_Simple = [\NULL \nonmarkingreturn \space \anusvaraorya \visargaorya \aorya 
+	\aaorya \iorya \iiorya \uorya \uuorya \rvocalicorya \lvocalicorya \eorya \aiorya 
+	\oorya \auorya \kaorya \khaorya \gaorya \ghaorya \ngaorya \caorya \chaorya 
+	\jaorya \jhaorya \nyaorya \ttaorya \tthaorya \ddaorya \ddhaorya \nnaorya \taorya 
+	\thaorya \daorya \dhaorya \naorya \paorya \phaorya \baorya \bhaorya \maorya 
+	\yaorya \raorya \laorya \llaorya \vaorya \shaorya \ssaorya \saorya \haorya 
+	\avagrahaorya \aavowelsignorya \iivowelsignorya \evowelsignorya 
+	\aivowelsignorya \ovowelsignorya \auvowelsignorya \aulengthmarkorya \rraorya 
+	\rhaorya \yyaorya \rrvocalicorya \llvocalicorya \zeroorya \oneorya \twoorya 
+	\threeorya \fourorya \fiveorya \sixorya \sevenorya \eightorya \nineorya 
+	\issharorya \waorya \uni0B72 \uni0B73 \uni0B74 \uni0B75 \uni0B76 \uni0B77 
+	\exclam.orya \quotedbl.orya \numbersign.orya \percent.orya \quotesingle.orya 
+	\parenleft.orya \parenright.orya \asterisk.orya \plus.orya \comma.orya 
+	\hyphen.orya \period.orya \slash.orya \zero.orya \one.orya \two.orya 
+	\three.orya \four.orya \five.orya \six.orya \seven.orya \eight.orya \nine.orya 
+	\colon.orya \semicolon.orya \less.orya \equal.orya \greater.orya 
+	\question.orya \bracketleft.orya \backslash.orya \bracketright.orya 
+	\asciicircum.orya \underscore.orya \braceleft.orya \bar.orya 
+	\braceright.orya \asciitilde.orya \sfthyphen.orya \endash.orya \emdash.orya 
+	\quoteleft.orya \quoteright.orya \quotedblleft.orya \quotedblright.orya 
+	\ellipsis.orya \multiply.orya \divide.orya \minus.orya \uni20B9.orya 
+	\danda.orya \dbldanda.orya \uni200C \uni200D \uni25CC \hasquishorya ];
+@GDEF_Ligature = [\kanuktaorya \khanuktaorya \ganuktaorya \ghanuktaorya 
+	\nganuktaorya \canuktaorya \chanuktaorya \januktaorya \jhanuktaorya 
+	\nyanuktaorya \ttanuktaorya \tthanuktaorya \nnanuktaorya \tanuktaorya 
+	\thanuktaorya \danuktaorya \dhanuktaorya \nanuktaorya \panuktaorya 
+	\phanuktaorya \banuktaorya \bhanuktaorya \manuktaorya \yanuktaorya 
+	\ranuktaorya \lanuktaorya \llanuktaorya \vanuktaorya \shanuktaorya 
+	\ssanuktaorya \sanuktaorya \hanuktaorya \yyanuktaorya \wanuktaorya 
+	\yapostorya \kakaorya \kattaorya \kataorya \kallaorya \kassaorya \kassannaorya 
+	\kasaorya \gadaorya \gadhaorya \gallaorya \ngakaorya \ngakhaorya \ngagaorya 
+	\ngaghaorya \ngakassaorya \cacaorya \cachaorya \jajaorya \janyaorya \nyacaorya 
+	\nyachaorya \nyajaorya \nyajhaorya \ttattaorya \ddagaorya \ddaddaorya 
+	\nnattaorya \nnatthaorya \nnaddaorya \nnaddhaorya \nnannaorya \takaorya 
+	\tataorya \tathaorya \tanaorya \tapaorya \tamaorya \tasaorya \dagaorya 
+	\dadaorya \dadhaorya \dabhaorya \dhayapostorya \nataorya \nataraorya 
+	\nathaorya \nadaorya \nadhaorya \nanaorya \pataorya \papaorya \pallaorya 
+	\pasaorya \badaorya \badhaorya \babaorya \mapaorya \maphaorya \mabhaorya 
+	\mamaorya \lakaorya \lagaorya \lalaorya \llakaorya \llapaorya \llaphaorya 
+	\llallaorya \shacaorya \shachaorya \shallaorya \ssakaorya \ssattaorya 
+	\ssatthaorya \ssannaorya \ssapaorya \ssaphaorya \sakaorya \sakhaorya \sataorya 
+	\sataraorya \sathaorya \sapaorya \saphaorya \aicandrabinduorya \airephorya 
+	\omorya \aucandrabinduorya \aurephorya \aulengthmarkcandrabinduorya 
+	\aulengthmarkrephorya \aulengthmarkrephcandrabinduorya \kahalforya 
+	\khahalforya \gahalforya \ghahalforya \ngahalforya \cahalforya \chahalforya 
+	\jahalforya \jhahalforya \nyahalforya \ttahalforya \tthahalforya \ddahalforya 
+	\ddhahalforya \nnahalforya \tahalforya \thahalforya \dahalforya \dhahalforya 
+	\nahalforya \pahalforya \phahalforya \bahalforya \bhahalforya \mahalforya 
+	\yahalforya \rahalforya \lahalforya \llahalforya \vahalforya \shahalforya 
+	\ssahalforya \sahalforya \hahalforya \rrahalforya \rhahalforya \yyahalforya 
+	\wahalforya \kanuktahalforya \khanuktahalforya \ganuktahalforya 
+	\ghanuktahalforya \nganuktahalforya \canuktahalforya \chanuktahalforya 
+	\januktahalforya \jhanuktahalforya \nyanuktahalforya \ttanuktahalforya 
+	\tthanuktahalforya \nnanuktahalforya \tanuktahalforya \thanuktahalforya 
+	\danuktahalforya \dhanuktahalforya \nanuktahalforya \panuktahalforya 
+	\phanuktahalforya \banuktahalforya \bhanuktahalforya \manuktahalforya 
+	\yanuktahalforya \ranuktahalforya \lanuktahalforya \llanuktahalforya 
+	\vanuktahalforya \shanuktahalforya \ssanuktahalforya \sanuktahalforya 
+	\hanuktahalforya \yyanuktahalforya \wanuktahalforya \kassahalforya 
+	\kakaUIorya \kataUIorya \kallaUIorya \gallaUIorya \jajaUIorya \nnattaUIorya 
+	\nnatthaUIorya \nnaddaUIorya \nnannaUIorya \tathaUIorya \nataUIorya 
+	\nataraUIorya \nanaUIorya \pataUIorya \mamaUIorya \lakaUIorya \lalaUIorya 
+	\llakaUIorya \llallaUIorya \shachaUIorya \shallaUIorya \ssattaUIorya 
+	\ssatthaUIorya \ssannaUIorya \sakhaUIorya \sataUIorya \sataraUIorya 
+	\sapaUIorya \saphaUIorya \huorya \huuorya \hrvocalicorya \hakaorya \hajaorya 
+	\hanaorya \habaorya \hamaorya \haraorya \halaorya \hallaorya \yyuorya \yyuuorya 
+	\yyrvocalicorya \yyakaorya \yyajaorya \yyanaorya \yyabaorya \yyamaorya 
+	\yyaraorya \yyalaorya \yyallaorya \nnaddaraorya \takaraorya ];
+@GDEF_Mark = [\candrabinduorya \nuktaorya \ivowelsignorya \uvowelsignorya 
+	\uuvowelsignorya \rvocalicvowelsignorya \rrvocalicvowelsignorya \viramaorya 
+	\ailengthmarkorya \lvocalicvowelsignorya \llvocalicvowelsignorya \rephorya 
+	\kasubscriptorya \khasubscriptorya \gasubscriptorya \ghasubscriptorya 
+	\ngasubscriptorya \casubscriptorya \chasubscriptorya \jasubscriptorya 
+	\jhasubscriptorya \ttasubscriptorya \tthasubscriptorya \ddasubscriptorya 
+	\ddhasubscriptorya \nnasubscriptorya \tasubscriptorya \thasubscriptorya 
+	\dasubscriptorya \dhasubscriptorya \nasubscriptorya \pasubscriptorya 
+	\phasubscriptorya \basubscriptorya \bhasubscriptorya \masubscriptorya 
+	\rasubscriptorya \lasubscriptorya \llasubscriptorya \shasubscriptorya 
+	\ssasubscriptorya \sasubscriptorya \hasubscriptorya \kassasubscriptorya 
+	\tarasubscriptorya \rephcandrabinduorya \ivowelsigncandrabinduorya 
+	\ivowelsignrephorya \ivowelsignrephcandrabinduorya 
+	\ailengthmarkcandrabinduorya \ailengthmarkrephorya 
+	\ailengthmarkrephcandrabinduorya \ivowelsignloworya \ivowelsignwideorya 
+	\ivowelsigncandrabinduwideorya \ivowelsignrephwideorya 
+	\ivowelrephcandrabinduwideorya \ivowelsignnarroworya 
+	\ivowelsigncandrabindunarroworya \ivowelsignrephnarroworya 
+	\ivowelrephcandrabindunarroworya \uvowelsignaltorya \uuvowelsignaltorya 
+	\rvocalicvowelsignaltorya \rrvocalicvowelsignaltorya \uvowelsignloworya 
+	\uuvowelsignloworya \rvocalicvowelsignloworya \rrvocalicvowelsignloworya 
+	\viramaloworya \lvocalicvowelsignloworya \llvocalicvowelsignloworya 
+	\uvowelsignlowerorya \uuvowelsignlowerorya \rvocalicvowelsignlowerorya 
+	\viramalowerorya \uvowelsigndeeporya \uuvowelsigndeeporya 
+	\rvocalicvowelsigndeeporya \rrvocalicvowelsignleftorya \viramadeeporya 
+	\lvocalicvowelsignleftorya \llvocalicvowelsignleftorya \uni200B 
+	\nuktakasubscriptorya \nuktakhasubscriptorya \nuktagasubscriptorya 
+	\nuktaghasubscriptorya \nuktangasubscriptorya \nuktacasubscriptorya 
+	\nuktachasubscriptorya \nuktajasubscriptorya \nuktajhasubscriptorya 
+	\nuktattasubscriptorya \nuktatthasubscriptorya \nuktaddasubscriptorya 
+	\nuktaddhasubscriptorya \nuktannasubscriptorya \nuktatasubscriptorya 
+	\nuktathasubscriptorya \nuktadasubscriptorya \nuktadhasubscriptorya 
+	\nuktanasubscriptorya \nuktapasubscriptorya \nuktaphasubscriptorya 
+	\nuktabasubscriptorya \nuktabhasubscriptorya \nuktamasubscriptorya 
+	\nuktarasubscriptorya \nuktalasubscriptorya \nuktallasubscriptorya 
+	\nuktashasubscriptorya \nuktassasubscriptorya \nuktasasubscriptorya 
+	\nuktahasubscriptorya \nuktakassasubscriptorya \nuktauvowelsignorya 
+	\nuktauuvowelsignorya \nuktarvocalicvowelsignorya 
+	\nuktarrvocalicvowelsignorya \nuktalvocalicvowelsignorya 
+	\nuktallvocalicvowelsignorya \kasubscriptloworya \khasubscriptloworya 
+	\gasubscriptloworya \ghasubscriptloworya \ngasubscriptloworya 
+	\casubscriptloworya \chasubscriptloworya \jasubscriptloworya 
+	\jhasubscriptloworya \ttasubscriptloworya \tthasubscriptloworya 
+	\ddasubscriptloworya \ddhasubscriptloworya \nnasubscriptloworya 
+	\tasubscriptloworya \thasubscriptloworya \dasubscriptloworya 
+	\dhasubscriptloworya \nasubscriptloworya \pasubscriptloworya 
+	\phasubscriptloworya \basubscriptloworya \bhasubscriptloworya 
+	\masubscriptloworya \rasubscriptloworya \lasubscriptloworya 
+	\llasubscriptloworya \shasubscriptloworya \ssasubscriptloworya 
+	\sasubscriptloworya \hasubscriptloworya \kassasubscriptloworya 
+	\kasubscriptlowerorya \jasubscriptlowerorya \tasubscriptlowerorya 
+	\thasubscriptlowerorya \nasubscriptlowerorya \basubscriptlowerorya 
+	\masubscriptlowerorya \rasubscriptlowerorya \lasubscriptlowerorya 
+	\llasubscriptlowerorya \kasubscriptdeeporya \khasubscriptleftorya 
+	\gasubscriptleftorya \ghasubscriptleftorya \ngasubscriptleftorya 
+	\casubscriptleftorya \chasubscriptleftorya \jasubscriptdeeporya 
+	\jhasubscriptleftorya \ttasubscriptleftorya \tthasubscriptleftorya 
+	\ddasubscriptleftorya \ddhasubscriptleftorya \nnasubscriptleftorya 
+	\tasubscriptdeeporya \thasubscriptdeeporya \dasubscriptleftorya 
+	\dhasubscriptleftorya \nasubscriptdeeporya \pasubscriptleftorya 
+	\phasubscriptleftorya \basubscriptdeeporya \bhasubscriptleftorya 
+	\masubscriptdeeporya \rasubscriptdeeporya \lasubscriptdeeporya 
+	\llasubscriptdeeporya \shasubscriptleftorya \ssasubscriptleftorya 
+	\sasubscriptleftorya \hasubscriptleftorya \kassasubscriptleftorya 
+	\uvowelsignleftorya \uuvowelsignleftorya \rvocalicvowelsignleftorya 
+	\rrvocalicvowelsignspaceorya \viramaleftorya \lvocalicvowelsignspaceorya 
+	\llvocalicvowelsignspaceorya \kasubscriptleftorya \jasubscriptleftorya 
+	\tasubscriptleftorya \thasubscriptleftorya \nasubscriptleftorya 
+	\basubscriptleftorya \masubscriptleftorya \rasubscriptleftorya 
+	\lasubscriptleftorya \llasubscriptleftorya \rasubscriptaltorya 
+	\rasubscriptshortorya \rasubscriptshorterorya \uvowelsignmarkorya 
+	\uuvowelsignmarkorya \rvocalicvowelsignmarkorya \viramamarkorya 
+	\rasubscriptmarkorya \barasubscriptorya \ruvowelsubscriptloworya 
+	\khasubscriptspaceorya \gasubscriptspaceorya \ghasubscriptspaceorya 
+	\ngasubscriptspaceorya \casubscriptspaceorya \chasubscriptspaceorya 
+	\jhasubscriptspaceorya \ttasubscriptspaceorya \tthasubscriptspaceorya 
+	\ddasubscriptspaceorya \ddhasubscriptspaceorya \nnasubscriptspaceorya 
+	\dasubscriptspaceorya \dhasubscriptspaceorya \pasubscriptspaceorya 
+	\phasubscriptspaceorya \bhasubscriptspaceorya \shasubscriptspaceorya 
+	\ssasubscriptspaceorya \sasubscriptspaceorya \hasubscriptspaceorya 
+	\kassasubscriptspaceorya \khasubscriptleftmarkorya 
+	\gasubscriptleftmarkorya \ghasubscriptleftmarkorya 
+	\ngasubscriptleftmarkorya \casubscriptleftmarkorya 
+	\chasubscriptleftmarkorya \jhasubscriptleftmarkorya 
+	\ttasubscriptleftmarkorya \tthasubscriptleftmarkorya 
+	\ddasubscriptleftmarkorya \ddhasubscriptleftmarkorya 
+	\nnasubscriptleftmarkorya \dasubscriptleftmarkorya 
+	\dhasubscriptleftmarkorya \pasubscriptleftmarkorya 
+	\phasubscriptleftmarkorya \bhasubscriptleftmarkorya 
+	\shasubscriptleftmarkorya \ssasubscriptleftmarkorya 
+	\sasubscriptleftmarkorya \hasubscriptleftmarkorya 
+	\kassasubscriptleftmarkorya \uvowelsignspaceorya \uuvowelsignspaceorya 
+	\rvocalicvowelsignspaceorya \kasubscriptspaceorya \jasubscriptspaceorya 
+	\tasubscriptspaceorya \thasubscriptspaceorya \nasubscriptspaceorya 
+	\basubscriptspaceorya \masubscriptspaceorya \rasubscriptspaceorya 
+	\lasubscriptspaceorya \llasubscriptspaceorya ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
+
+} GDEF;
+
