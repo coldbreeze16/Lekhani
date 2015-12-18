@@ -1,5 +1,5 @@
 # GDEF Mark Attachment Classes
-@MarkClass1=[\or_ukaar \or_uukaar \or_rukaar \uni0B44 \uni0B62 \uni0B63 \or_nukta \or_halant 
+@MarkClass1=[\or_nukta \or_ukaar \or_uukaar \or_rukaar \uni0B44 \or_halant \uni0B62 \uni0B63 
 	\or_ikaar_below \or_ka_phalaa \or_kha_phalaa \or_ga_phalaa 
 	\or_gha_phalaa \or_nga_phalaa \or_ca_phalaa \or_cha_phalaa 
 	\or_ja_phalaa \or_jha_phalaa \or_tta_phalaa \or_ttha_phalaa 
@@ -9,9 +9,8 @@
 	\or_ma_phalaa \or_ya_phalaa \or_ra_phalaa \or_la_phalaa 
 	\or_lla_phalaa \or_va_phalaa \or_sha_phalaa \or_ssa_phalaa 
 	\or_sa_phalaa \or_ha_phalaa \or_t_ra_phalaa \or_ukaar_lower 
-	\or_uukaar_lower \or_rukaar_lower \or_ra_phalaa_ukaar 
-	\or_ra_phalaa_uukaar ];
-@MarkClass2=[\or_ikaar \or_aikaar \or_ai_lengthmk \or_candrabindu \or_reph 
+	\or_uukaar_lower \or_rukaar_lower ];
+@MarkClass2=[\or_candrabindu \or_ikaar \or_aikaar \or_ai_lengthmk \or_reph 
 	\or_ikaar_candrabindu \or_reph_ikaar \or_reph_ikaar_candrabindu 
 	\or_ai_lengthmk_candrabindu \or_reph_ai_lengthmk 
 	\or_reph_ai_lengthmk_candrabindu \or_ikaar_wide 
@@ -68,6 +67,7 @@ lookup blwfBelowBaseFormsinOriyalookup {
     sub \or_ra \or_halant  by \or_ra_phalaa;
     sub \or_la \or_halant  by \or_la_phalaa;
     sub \or_lla \or_halant  by \or_lla_phalaa;
+    sub \or_wa \or_halant  by \or_va_phalaa;
     sub \or_va \or_halant  by \or_va_phalaa;
     sub \or_sha \or_halant  by \or_sha_phalaa;
     sub \or_ssa \or_halant  by \or_ssa_phalaa;
@@ -105,6 +105,7 @@ lookup blwfBelowBaseFormsinOriya2looku {
     sub \or_halant \or_ra  by \or_ra_phalaa;
     sub \or_halant \or_la  by \or_la_phalaa;
     sub \or_halant \or_lla  by \or_lla_phalaa;
+    sub \or_halant \or_wa  by \or_va_phalaa;
     sub \or_halant \or_va  by \or_va_phalaa;
     sub \or_halant \or_sha  by \or_sha_phalaa;
     sub \or_halant \or_ssa  by \or_ssa_phalaa;
@@ -142,20 +143,20 @@ lookup presPreBaseSubstitutionslookup7 {
     sub \or_sa \or_ta_phalaa \or_ra_phalaa  by \or_s_t_ra;
 } presPreBaseSubstitutionslookup7;
 
-lookup presPreBaseSubstitutionslookup8 {
+lookup presPreBaseSubstitutionslookup9 {
   lookupflag MarkAttachmentType @MarkClass1;
     sub \or_ka \or_ka_phalaa  by \or_k_ka;
     sub \or_ka \or_ta_phalaa  by \or_k_ta;
     sub \or_ka \or_lla_phalaa  by \or_k_lla;
     sub \or_ka \or_ssa_phalaa  by \or_k_ssa;
-    sub \or_ka \or_ssa_phalaa \or_nna_phalaa  by \or_k_ss_nna;
+    sub \or_k_ssa \or_nna_phalaa  by \or_k_ss_nna;
     sub \or_ka \or_sa_phalaa  by \or_k_sa;
     sub \or_ga \or_da_phalaa  by \or_g_da;
     sub \or_ga \or_dha_phalaa  by \or_g_dha;
     sub \or_ga \or_lla_phalaa  by \or_g_lla;
     sub \or_nga \or_ka_phalaa  by \or_ng_ka;
     sub \or_nga \or_ka_phalaa \or_ta_phalaa  by \or_ng_k_ta;
-    sub \or_nga \or_ka_phalaa \or_ssa_phalaa  by \or_ng_k_ssa;
+    sub \or_nga \or_halant \or_k_ssa  by \or_ng_k_ssa;
     sub \or_nga \or_kha_phalaa  by \or_ng_kha;
     sub \or_nga \or_ga_phalaa  by \or_ng_ga;
     sub \or_nga \or_gha_phalaa  by \or_ng_gha;
@@ -231,129 +232,7 @@ lookup presPreBaseSubstitutionslookup8 {
     sub \or_sa \or_tha_phalaa  by \or_s_tha;
     sub \or_sa \or_pa_phalaa  by \or_s_pa;
     sub \or_sa \or_pha_phalaa  by \or_s_pha;
-} presPreBaseSubstitutionslookup8;
-
-lookup blwsBelowBaseSubstitutionslooku {
-  lookupflag 0;
-    sub \or_ra_phalaa \or_ukaar  by \or_ra_phalaa_ukaar;
-    sub \or_ra_phalaa \or_uukaar  by \or_ra_phalaa_uukaar;
-} blwsBelowBaseSubstitutionslooku;
-
-lookup sub_chain_blwsory2_0 {
-  lookupflag 0;
-    sub [\or_ka_phalaa \or_kha_phalaa \or_ga_phalaa \or_gha_phalaa \or_nga_phalaa 
-	\or_ca_phalaa \or_cha_phalaa \or_ja_phalaa \or_jha_phalaa 
-	\or_tta_phalaa \or_ttha_phalaa \or_dda_phalaa \or_ddha_phalaa 
-	\or_nna_phalaa \or_ta_phalaa \or_tha_phalaa \or_da_phalaa 
-	\or_dha_phalaa \or_na_phalaa \or_pa_phalaa \or_pha_phalaa 
-	\or_ba_phalaa \or_bha_phalaa \or_ma_phalaa \or_ya_phalaa 
-	\or_ra_phalaa \or_la_phalaa \or_lla_phalaa \or_va_phalaa 
-	\or_sha_phalaa \or_ssa_phalaa \or_sa_phalaa \or_ha_phalaa ] [\or_ukaar ]'  by [\or_ukaar_lower ];
-} sub_chain_blwsory2_0;
-
-lookup sub_chain_blwsory2_2 {
-  lookupflag MarkAttachmentType @MarkClass1;
-    sub [\or_t_ra_phalaa ] [\or_ukaar ]'  by [\or_ukaar_lower ];
-} sub_chain_blwsory2_2;
-
-lookup sub_chain_blwsory2_4 {
-  lookupflag MarkAttachmentType @MarkClass1;
-    sub [\or_k_ka \or_k_ta \or_k_lla \or_k_ssa \or_k_ss_nna \or_k_sa \or_g_da \or_g_dha 
-	\or_g_lla \or_ng_ka \or_ng_k_ta \or_ng_k_ssa \or_ng_kha \or_ng_ga 
-	\or_ng_gha \or_c_ca \or_c_cha \or_j_ja \or_j_j_va \or_j_jha \or_j_nya 
-	\or_ny_ca \or_ny_cha \or_ny_ja \or_ny_jha \or_tt_tta \or_dd_ga 
-	\or_dd_dda \or_nn_tta \or_nn_ttha \or_nn_dda \or_nn_ddha \or_nn_nna 
-	\or_t_ka \or_t_ta \or_t_tha \or_t_na \or_t_pa \or_t_ma \or_t_sa 
-	\or_t_s_na \or_d_ga \or_d_gha \or_d_da \or_d_dha \or_d_bha \or_dh_yya 
-	\or_n_ta \or_n_t_ra \or_n_t_va \or_n_tha \or_n_da \or_n_dha \or_n_na 
-	\or_p_ta \or_p_pa \or_p_lla \or_p_sa \or_b_ja \or_b_da \or_b_dha 
-	\or_b_ba \or_m_pa \or_m_pha \or_m_ba \or_m_bha \or_m_ma \or_ll_ka 
-	\or_ll_bha \or_ll_lla \or_ll_pa \or_ll_pha \or_l_ka \or_l_ga \or_l_la 
-	\or_sh_ca \or_sh_cha \or_sh_lla \or_ss_ka \or_ss_tta \or_ss_ttha 
-	\or_ss_nna \or_ss_pa \or_ss_pha \or_s_ka \or_s_kha \or_s_ta \or_s_t_ra 
-	\or_s_tha \or_s_pa \or_s_pha ] [\or_ukaar \or_uukaar \or_rukaar ]'  by [\or_ukaar_lower \or_uukaar_lower 
-	\or_rukaar_lower ];
-} sub_chain_blwsory2_4;
-
-lookup nuktNuktaFormslookup13 {
-  lookupflag 0;
-    sub \or_ka \or_nukta  by \or_ka_nukta;
-    sub \or_kha \or_nukta  by \or_kha_nukta;
-    sub \or_ga \or_nukta  by \or_ga_nukta;
-    sub \or_gha \or_nukta  by \or_gha_nukta;
-    sub \or_nga \or_nukta  by \or_nga_nukta;
-    sub \or_ca \or_nukta  by \or_ca_nukta;
-    sub \or_cha \or_nukta  by \or_cha_nukta;
-    sub \or_ja \or_nukta  by \or_ja_nukta;
-    sub \or_jha \or_nukta  by \or_jha_nukta;
-    sub \or_nya \or_nukta  by \or_nya_nukta;
-    sub \or_tta \or_nukta  by \or_tta_nukta;
-    sub \or_ttha \or_nukta  by \or_ttha_nukta;
-    sub \or_nna \or_nukta  by \or_nna_nukta;
-    sub \or_ta \or_nukta  by \or_ta_nukta;
-    sub \or_tha \or_nukta  by \or_tha_nukta;
-    sub \or_da \or_nukta  by \or_da_nukta;
-    sub \or_dha \or_nukta  by \or_dha_nukta;
-    sub \or_na \or_nukta  by \or_na_nukta;
-    sub \or_pa \or_nukta  by \or_pa_nukta;
-    sub \or_pha \or_nukta  by \or_pha_nukta;
-    sub \or_ba \or_nukta  by \or_ba_nukta;
-    sub \or_bha \or_nukta  by \or_bha_nukta;
-    sub \or_ma \or_nukta  by \or_ma_nukta;
-    sub \or_ya \or_nukta  by \or_ya_nukta;
-    sub \or_ra \or_nukta  by \or_ra_nukta;
-    sub \or_la \or_nukta  by \or_la_nukta;
-    sub \or_lla \or_nukta  by \or_lla_nukta;
-    sub \or_va \or_nukta  by \or_va_nukta;
-    sub \or_sha \or_nukta  by \or_sha_nukta;
-    sub \or_ssa \or_nukta  by \or_ssa_nukta;
-    sub \or_sa \or_nukta  by \or_sa_nukta;
-    sub \or_ha \or_nukta  by \or_ha_nukta;
-    sub \or_yya \or_nukta  by \or_yya_nukta;
-    sub \or_wa \or_nukta  by \or_wa_nukta;
-} nuktNuktaFormslookup13;
-
-lookup halnHalantFormslookup14 {
-  lookupflag 0;
-    sub \or_ka \or_halant  by \or_ka_halant;
-    sub \or_kha \or_halant  by \or_kha_halant;
-    sub \or_ga \or_halant  by \or_ga_halant;
-    sub \or_gha \or_halant  by \or_gha_halant;
-    sub \or_nga \or_halant  by \or_nga_halant;
-    sub \or_ca \or_halant  by \or_ca_halant;
-    sub \or_cha \or_halant  by \or_cha_halant;
-    sub \or_ja \or_halant  by \or_ja_halant;
-    sub \or_jha \or_halant  by \or_jha_halant;
-    sub \or_nya \or_halant  by \or_nya_halant;
-    sub \or_tta \or_halant  by \or_tta_halant;
-    sub \or_ttha \or_halant  by \or_ttha_halant;
-    sub \or_dda \or_halant  by \or_dda_halant;
-    sub \or_ddha \or_halant  by \or_ddha_halant;
-    sub \or_nna \or_halant  by \or_nna_halant;
-    sub \or_ta \or_halant  by \or_ta_halant;
-    sub \or_tha \or_halant  by \or_tha_halant;
-    sub \or_da \or_halant  by \or_da_halant;
-    sub \or_dha \or_halant  by \or_dha_halant;
-    sub \or_na \or_halant  by \or_na_halant;
-    sub \or_pa \or_halant  by \or_pa_halant;
-    sub \or_pha \or_halant  by \or_pha_halant;
-    sub \or_ba \or_halant  by \or_ba_halant;
-    sub \or_bha \or_halant  by \or_bha_halant;
-    sub \or_ma \or_halant  by \or_ma_halant;
-    sub \or_ya \or_halant  by \or_ya_halant;
-    sub \or_ra \or_halant  by \or_ra_halant;
-    sub \or_la \or_halant  by \or_la_halant;
-    sub \or_lla \or_halant  by \or_lla_halant;
-    sub \or_va \or_halant  by \or_va_halant;
-    sub \or_sha \or_halant  by \or_sha_halant;
-    sub \or_ssa \or_halant  by \or_ssa_halant;
-    sub \or_sa \or_halant  by \or_sa_halant;
-    sub \or_ha \or_halant  by \or_ha_halant;
-    sub \or_yya \or_halant  by \or_rra_halant;
-    sub \or_wa \or_halant  by \or_rha_halant;
-    sub \or_rra \or_halant  by \or_yya_halant;
-    sub \or_rha \or_halant  by \or_wa_halant;
-} halnHalantFormslookup14;
+} presPreBaseSubstitutionslookup9;
 
 feature akhn {
 
@@ -417,695 +296,194 @@ feature pres {
  script ory2;
      language dflt ;
       lookup presPreBaseSubstitutionslookup7;
-      lookup presPreBaseSubstitutionslookup8;
+      lookup presPreBaseSubstitutionslookup9;
 
  script orya;
      language dflt ;
       lookup presPreBaseSubstitutionslookup7;
-      lookup presPreBaseSubstitutionslookup8;
+      lookup presPreBaseSubstitutionslookup9;
 } pres;
-
-feature blws {
-
- script ory2;
-     language dflt ;
-      lookup blwsBelowBaseSubstitutionslooku;
-      lookup sub_chain_blwsory2_0;
-      lookup sub_chain_blwsory2_2;
-      lookup sub_chain_blwsory2_4;
-
- script orya;
-     language dflt ;
-      lookup blwsBelowBaseSubstitutionslooku;
-      lookup sub_chain_blwsory2_0;
-      lookup sub_chain_blwsory2_2;
-      lookup sub_chain_blwsory2_4;
-} blws;
-
-feature nukt {
-
- script ory2;
-     language dflt ;
-      lookup nuktNuktaFormslookup13;
-
- script orya;
-     language dflt ;
-      lookup nuktNuktaFormslookup13;
-} nukt;
-
-feature haln {
-
- script ory2;
-     language dflt ;
-      lookup halnHalantFormslookup14;
-
- script orya;
-     language dflt ;
-      lookup halnHalantFormslookup14;
-} haln;
 
 # GPOS 
 
 
 lookup abvmAboveBaseMarklookup0 {
   lookupflag MarkAttachmentType @MarkClass2;
-  markClass [\or_ikaar \or_ikaar_candrabindu \or_reph_ikaar \or_reph_ikaar_candrabindu ] <anchor -660 1320> @Anchor0;
+  markClass [\or_ikaar \or_ikaar_candrabindu \or_reph_ikaar \or_reph_ikaar_candrabindu ] <anchor -680 1360> @Anchor0;
   markClass [\or_ai_lengthmk \or_ai_lengthmk_candrabindu \or_reph_ai_lengthmk \or_reph_ai_lengthmk_candrabindu ] <anchor -310 1300> @Anchor1;
-  pos base [\or_ka \or_kha \or_ga \or_gha \or_nga \or_ca \or_cha \or_ja \or_jha \or_nya \or_tta \or_ttha \or_dda \or_ddha \or_nna \or_ta \or_tha \or_da \or_dha \or_na \or_pa \or_pha \or_ba \or_bha \or_ma \or_ya \or_ra \or_la \or_lla \or_va \or_sha \or_ssa \or_sa \or_ha \or_yya \or_wa \or_rra \or_rha ] <anchor 950 1300> mark @Anchor1
+  pos base [\or_ka \or_kha \or_ga \or_gha \or_nga \or_ca \or_cha \or_ja \or_jha \or_nya \or_tta \or_ttha \or_dda \or_ddha \or_nna \or_ta \or_tha \or_da \or_dha \or_na \or_pa \or_pha \or_ba \or_bha \or_ma \or_ya \or_ra \or_la \or_lla \or_va \or_sha \or_ssa \or_sa \or_ha \or_rra \or_rha \or_yya \or_wa ] <anchor 950 1300> mark @Anchor1
 	<anchor 660 1375> mark @Anchor0;
 } abvmAboveBaseMarklookup0;
 
 lookup abvmAboveBaseMarklookup1 {
   lookupflag MarkAttachmentType @MarkClass2;
-  markClass [\or_ikaar \or_ikaar_candrabindu \or_reph_ikaar \or_reph_ikaar_candrabindu ] <anchor -660 1320> @Anchor2;
+  markClass [\or_ikaar \or_ikaar_candrabindu \or_reph_ikaar \or_reph_ikaar_candrabindu ] <anchor -680 1360> @Anchor2;
   markClass [\or_ai_lengthmk \or_ai_lengthmk_candrabindu \or_reph_ai_lengthmk \or_reph_ai_lengthmk_candrabindu ] <anchor -310 1300> @Anchor3;
-  pos ligature \or_k_ka <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_k_ta <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_k_lla <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_k_ssa <anchor 950 1300> mark @Anchor3 <anchor 740 1375> mark @Anchor2 
-    ligComponent
-      <anchor 740 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_k_ss_nna <anchor 950 1300> mark @Anchor3 <anchor 740 1375> mark @Anchor2 
-    ligComponent
-      <anchor 740 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_k_sa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_g_da <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_g_dha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_g_lla <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ng_ka <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ng_k_ta <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ng_k_ssa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ng_kha <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ng_ga <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ng_gha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_c_ca <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_c_cha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_j_ja <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_j_j_va <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_j_jha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_j_nya <anchor 950 1300> mark @Anchor3 <anchor 620 1375> mark @Anchor2 
-    ligComponent
-      <anchor 620 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ny_ca <anchor 950 1300> mark @Anchor3 <anchor 620 1375> mark @Anchor2 
-    ligComponent
-      <anchor 620 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ny_cha <anchor 950 1300> mark @Anchor3 <anchor 620 1375> mark @Anchor2 
-    ligComponent
-      <anchor 620 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ny_ja <anchor 950 1300> mark @Anchor3 <anchor 620 1375> mark @Anchor2 
-    ligComponent
-      <anchor 620 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ny_jha <anchor 950 1300> mark @Anchor3 <anchor 620 1375> mark @Anchor2 
-    ligComponent
-      <anchor 620 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_tt_tta <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_dd_ga <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_dd_dda <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_nn_tta <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_nn_ttha <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_nn_dda <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_nn_ddha <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_nn_nna <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_t_ka <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_t_ta <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_t_tha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_t_na <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_t_pa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_t_ma <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_t_sa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_t_s_na <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_d_ga <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_d_gha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_d_da <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_d_dha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_d_bha <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_dh_yya <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_n_ta <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_n_t_ra <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_n_t_va <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_n_tha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_n_da <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_n_dha <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_n_na <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_p_ta <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_p_pa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_p_lla <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_p_sa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_b_ja <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_b_da <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_b_dha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_b_ba <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_m_pa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_m_pha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_m_ba <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_m_bha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_m_ma <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ll_ka <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ll_bha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ll_lla <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ll_pa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ll_pha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_l_ka <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_l_ga <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_l_la <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_sh_ca <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_sh_cha <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_sh_lla <anchor 950 1300> mark @Anchor3 <anchor 700 1375> mark @Anchor2 
-    ligComponent
-      <anchor 700 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ss_ka <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ss_tta <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ss_ttha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ss_nna <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ss_pa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_ss_pha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_s_ka <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_s_kha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_s_ta <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_s_t_ra <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_s_tha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_s_pa <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
-  pos ligature \or_s_pha <anchor 950 1300> mark @Anchor3 <anchor 660 1375> mark @Anchor2 
-    ligComponent
-      <anchor 660 1375> mark @Anchor2 <anchor 950 1300> mark @Anchor3 ;
+  pos base [\or_k_ka \or_k_ta \or_k_lla \or_k_ssa \or_k_ss_nna \or_k_sa \or_g_da \or_g_dha \or_g_lla \or_ng_ka \or_ng_k_ta \or_ng_k_ssa \or_ng_kha \or_ng_ga \or_ng_gha \or_c_ca \or_c_cha \or_j_ja \or_j_j_va \or_j_jha \or_j_nya \or_ny_ca \or_ny_cha \or_ny_ja \or_ny_jha \or_tt_tta \or_dd_ga \or_dd_dda \or_nn_tta \or_nn_ttha \or_nn_dda \or_nn_ddha \or_nn_nna \or_t_ka \or_t_ta \or_t_tha \or_t_na \or_t_pa \or_t_ma \or_t_sa \or_t_s_na \or_d_ga \or_d_gha \or_d_da \or_d_dha \or_d_bha \or_dh_yya \or_n_ta \or_n_t_ra \or_n_t_va \or_n_tha \or_n_da \or_n_dha \or_n_na \or_p_ta \or_p_pa \or_p_lla \or_p_sa \or_b_ja \or_b_da \or_b_dha \or_b_ba \or_m_pa \or_m_pha \or_m_ba \or_m_bha \or_m_ma \or_ll_ka \or_ll_bha \or_ll_lla \or_ll_pa \or_ll_pha \or_l_ka \or_l_ga \or_l_la \or_sh_ca \or_sh_cha \or_sh_lla \or_ss_ka \or_ss_tta \or_ss_ttha \or_ss_nna \or_ss_pa \or_ss_pha \or_s_ka \or_s_kha \or_s_ta \or_s_t_ra \or_s_tha \or_s_pa \or_s_pha ] <anchor 950 1300> mark @Anchor3
+	<anchor 660 1325> mark @Anchor2;
 } abvmAboveBaseMarklookup1;
 
 lookup blwmBelowBaseMarklookup2 {
   lookupflag 0;
-  markClass [\or_ukaar_lower ] <anchor -140 -450> @Anchor4;
-  pos mark [\or_ka_phalaa ] <anchor 2 -781> mark @Anchor4;
-  pos mark [\or_kha_phalaa \or_ga_phalaa \or_gha_phalaa \or_nga_phalaa \or_ca_phalaa \or_cha_phalaa \or_ja_phalaa \or_jha_phalaa \or_tta_phalaa \or_ttha_phalaa \or_dda_phalaa \or_ddha_phalaa \or_nna_phalaa \or_ta_phalaa \or_tha_phalaa \or_da_phalaa \or_dha_phalaa \or_pa_phalaa \or_pha_phalaa \or_ba_phalaa \or_bha_phalaa \or_ma_phalaa \or_ya_phalaa \or_ra_phalaa \or_la_phalaa \or_lla_phalaa \or_va_phalaa \or_sha_phalaa \or_ssa_phalaa \or_sa_phalaa \or_ha_phalaa ] <anchor -130 -550> mark @Anchor4;
-  pos mark [\or_na_phalaa ] <anchor -42 -781> mark @Anchor4;
+    pos \or_nukta <-450 150 0 0> \or_rukaar_lower  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_uukaar_lower  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ukaar_lower  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_t_ra_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_sa_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ssa_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_sha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_va_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_lla_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_la_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ra_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ya_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ma_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_bha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ba_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_pha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_pa_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_na_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_dha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_da_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_tha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ta_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_nna_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ddha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_dda_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ttha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_tta_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_jha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ja_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_cha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ca_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_nga_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_gha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ga_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_kha_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ka_phalaa  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ikaar_below  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \uni0B63  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \uni0B62  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_halant  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \uni0B44  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_rukaar  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_uukaar  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_ukaar  <-450 150 0 0>;
+    pos \or_nukta <-450 150 0 0> \or_nukta  <-450 150 0 0>;
 } blwmBelowBaseMarklookup2;
 
 lookup blwmBelowBaseMarklookup3 {
   lookupflag 0;
-  markClass [\or_ukaar_lower ] <anchor -150 -460> @Anchor5;
-  pos ligature \or_k_ka <anchor 1265 -410> mark @Anchor5 
-    ligComponent
-      <anchor 1265 -410> mark @Anchor5 ;
-  pos ligature \or_k_ta <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_k_lla <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_k_ssa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_k_ss_nna <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_k_sa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_g_da <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_g_dha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_g_lla <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ng_ka <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ng_k_ta <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ng_k_ssa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ng_kha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ng_ga <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ng_gha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_c_ca <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_c_cha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_j_ja <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_j_j_va <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_j_jha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_j_nya <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ny_ca <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ny_cha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ny_ja <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ny_jha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_tt_tta <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_dd_ga <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_dd_dda <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_nn_tta <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_nn_ttha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_nn_dda <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_nn_ddha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_nn_nna <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_t_ka <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_t_ta <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_t_tha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_t_na <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_t_pa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_t_ma <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_t_sa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_t_s_na <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_d_ga <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_d_gha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_d_da <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_d_dha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_d_bha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_dh_yya <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_n_ta <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_n_t_ra <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_n_t_va <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_n_tha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_n_da <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_n_dha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_n_na <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_p_ta <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_p_pa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_p_lla <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_p_sa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_b_ja <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_b_da <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_b_dha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_b_ba <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_m_pa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_m_pha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_m_ba <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_m_bha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_m_ma <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ll_ka <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ll_bha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ll_lla <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ll_pa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ll_pha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_l_ka <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_l_ga <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_l_la <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_sh_ca <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_sh_cha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_sh_lla <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ss_ka <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ss_tta <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ss_ttha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ss_nna <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ss_pa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_ss_pha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_s_ka <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_s_kha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_s_ta <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_s_t_ra <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_s_tha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_s_pa <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
-  pos ligature \or_s_pha <anchor 0 0> mark @Anchor5 
-    ligComponent
-      <anchor 0 0> mark @Anchor5 ;
+  markClass [\or_ukaar ] <anchor -130 0> @Anchor4;
+  markClass [\or_ra_phalaa ] <anchor -130 -20> @Anchor4;
+  markClass [\or_uukaar ] <anchor -130 0> @Anchor5;
+  markClass [\or_rukaar ] <anchor -120 -20> @Anchor6;
+  markClass [\or_ka_phalaa ] <anchor -270 -20> @Anchor7;
+  markClass [\or_kha_phalaa \or_ga_phalaa \or_gha_phalaa \or_nga_phalaa \or_ca_phalaa \or_cha_phalaa \or_ja_phalaa \or_jha_phalaa \or_tta_phalaa \or_ttha_phalaa \or_dda_phalaa \or_ddha_phalaa \or_nna_phalaa \or_ta_phalaa \or_tha_phalaa \or_da_phalaa \or_dha_phalaa \or_na_phalaa \or_pa_phalaa \or_pha_phalaa \or_ba_phalaa \or_bha_phalaa \or_ma_phalaa \or_ya_phalaa \or_la_phalaa \or_lla_phalaa \or_va_phalaa \or_sha_phalaa \or_ssa_phalaa \or_sa_phalaa \or_ha_phalaa ] <anchor -270 -40> @Anchor7;
+  markClass [\or_halant ] <anchor 0 0> @Anchor8;
+  pos base [\or_ka \or_kha \or_ga \or_gha \or_nga \or_ca \or_cha \or_ja \or_jha \or_nya \or_tta \or_ttha \or_dda \or_ddha \or_nna \or_ta \or_tha \or_da \or_dha \or_na \or_pa \or_pha \or_ba \or_bha \or_ma \or_ya \or_ra \or_la \or_lla \or_va \or_sha \or_ssa \or_sa \or_ha \or_rra \or_rha \or_yya \or_wa ] <anchor 990 10> mark @Anchor8
+	<anchor 990 0> mark @Anchor7
+	<anchor 700 0> mark @Anchor6
+	<anchor 1000 0> mark @Anchor5
+	<anchor 1000 0> mark @Anchor4;
 } blwmBelowBaseMarklookup3;
 
 lookup blwmBelowBaseMarklookup4 {
   lookupflag 0;
-  markClass [\or_ukaar ] <anchor -130 0> @Anchor6;
-  markClass [\or_uukaar ] <anchor -130 0> @Anchor7;
-  markClass [\or_rukaar ] <anchor -120 -20> @Anchor8;
-  pos base [\or_ka \or_lla ] <anchor 980 0> mark @Anchor8
-	<anchor 1000 0> mark @Anchor7
-	<anchor 1000 0> mark @Anchor6;
-  pos base [\or_kha \or_ga ] <anchor 1185 0> mark @Anchor8
-	<anchor 1205 0> mark @Anchor7
-	<anchor 1205 0> mark @Anchor6;
-  pos base [\or_gha ] <anchor 1190 -45> mark @Anchor8
-	<anchor 1195 0> mark @Anchor7
-	<anchor 1195 0> mark @Anchor6;
-  pos base [\or_nga \or_ca \or_jha \or_tta \or_dda \or_ddha \or_ta \or_bha \or_ra ] <anchor 700 0> mark @Anchor8
-	<anchor 720 0> mark @Anchor7
-	<anchor 920 -50> mark @Anchor6;
-  pos base [\or_cha ] <anchor 850 0> mark @Anchor8
-	<anchor 920 0> mark @Anchor7
-	<anchor 920 -50> mark @Anchor6;
-  pos base [\or_ja ] <anchor 960 0> mark @Anchor8
-	<anchor 980 0> mark @Anchor7
-	<anchor 980 0> mark @Anchor6;
-  pos base [\or_nya ] <anchor 760 0> mark @Anchor8
-	<anchor 740 0> mark @Anchor7
-	<anchor 920 -50> mark @Anchor6;
-  pos base [\or_ttha \or_yya ] <anchor 820 0> mark @Anchor8
-	<anchor 820 0> mark @Anchor7
-	<anchor 920 -50> mark @Anchor6;
-  pos base [\or_nna \or_pa \or_pha \or_ma ] <anchor 1170 0> mark @Anchor8
-	<anchor 1190 0> mark @Anchor7
-	<anchor 1190 0> mark @Anchor6;
-  pos base [\or_tha ] <anchor 1130 0> mark @Anchor8
-	<anchor 1150 0> mark @Anchor7
-	<anchor 1150 0> mark @Anchor6;
-  pos base [\or_da \or_na \or_ba \or_va ] <anchor 860 0> mark @Anchor8
-	<anchor 880 0> mark @Anchor7
-	<anchor 890 0> mark @Anchor6;
-  pos base [\or_dha ] <anchor 1030 0> mark @Anchor8
-	<anchor 1050 0> mark @Anchor7
-	<anchor 1060 0> mark @Anchor6;
-  pos base [\or_ya ] <anchor 1240 0> mark @Anchor8
-	<anchor 1260 0> mark @Anchor7
-	<anchor 1270 0> mark @Anchor6;
-  pos base [\or_la ] <anchor 970 0> mark @Anchor8
-	<anchor 995 0> mark @Anchor7
-	<anchor 995 0> mark @Anchor6;
-  pos base [\or_sha ] <anchor 1190 0> mark @Anchor8
-	<anchor 1210 0> mark @Anchor7
-	<anchor 1212 0> mark @Anchor6;
-  pos base [\or_ssa ] <anchor 1200 0> mark @Anchor8
-	<anchor 1220 0> mark @Anchor7
-	<anchor 1215 0> mark @Anchor6;
-  pos base [\or_sa ] <anchor 1160 0> mark @Anchor8
-	<anchor 1180 0> mark @Anchor7
-	<anchor 1178 0> mark @Anchor6;
-  pos base [\or_ha ] <anchor 700 -10> mark @Anchor8
-	<anchor 720 0> mark @Anchor7
-	<anchor 860 0> mark @Anchor6;
-  pos base [\or_wa ] <anchor 950 0> mark @Anchor8
-	<anchor 720 0> mark @Anchor7
-	<anchor 970 0> mark @Anchor6;
-  pos base [\or_rra \or_rha ] <anchor 1020 -200> mark @Anchor8
-	<anchor 900 -320> mark @Anchor7
-	<anchor 920 -300> mark @Anchor6;
+  markClass [\or_ukaar ] <anchor -130 0> @Anchor9;
+  markClass [\or_ra_phalaa ] <anchor -130 -20> @Anchor9;
+  markClass [\or_uukaar ] <anchor -130 0> @Anchor10;
+  markClass [\or_rukaar ] <anchor -120 -20> @Anchor11;
+  markClass [\or_ka_phalaa \or_kha_phalaa \or_ga_phalaa \or_gha_phalaa \or_nga_phalaa \or_ca_phalaa \or_cha_phalaa \or_ja_phalaa \or_jha_phalaa \or_tta_phalaa \or_ttha_phalaa \or_dda_phalaa \or_ddha_phalaa \or_nna_phalaa \or_tha_phalaa \or_da_phalaa \or_pa_phalaa \or_pha_phalaa \or_bha_phalaa \or_ssa_phalaa ] <anchor 0 -50> @Anchor12;
+  markClass [\or_ta_phalaa ] <anchor 0 -80> @Anchor12;
+  markClass [\or_dha_phalaa ] <anchor 55 -50> @Anchor12;
+  markClass [\or_na_phalaa ] <anchor 20 -50> @Anchor12;
+  markClass [\or_ba_phalaa \or_va_phalaa ] <anchor 80 0> @Anchor12;
+  markClass [\or_ma_phalaa ] <anchor 0 -20> @Anchor12;
+  markClass [\or_ya_phalaa ] <anchor 0 80> @Anchor12;
+  markClass [\or_la_phalaa \or_lla_phalaa ] <anchor 50 0> @Anchor12;
+  markClass [\or_sha_phalaa ] <anchor 100 -50> @Anchor12;
+  markClass [\or_sa_phalaa ] <anchor 50 -50> @Anchor12;
+  markClass [\or_ha_phalaa ] <anchor 50 -20> @Anchor12;
+  markClass [\or_halant ] <anchor 0 0> @Anchor13;
+  pos base [\or_k_ka \or_k_ta \or_k_lla \or_k_sa \or_g_da \or_g_lla \or_ng_k_ssa \or_j_ja \or_j_j_va \or_ny_cha \or_dd_ga \or_nn_tta \or_nn_ttha \or_nn_dda \or_nn_ddha \or_d_ga \or_d_gha \or_n_ta \or_n_t_ra \or_n_t_va \or_n_na \or_p_ta \or_p_pa \or_p_lla \or_p_sa \or_b_ja \or_m_ba \or_m_ma \or_ll_ka \or_ll_bha \or_ll_lla \or_ll_pa \or_ll_pha \or_l_ka \or_l_ga \or_l_la \or_sh_lla \or_ss_tta \or_ss_ttha \or_ss_pa \or_ss_pha \or_s_kha \or_s_ta \or_s_t_ra \or_s_pa \or_s_pha ] <anchor 1220 -420> mark @Anchor13
+	<anchor 1370 -425> mark @Anchor12
+	<anchor 1265 -400> mark @Anchor11
+	<anchor 1270 -400> mark @Anchor10
+	<anchor 1270 -400> mark @Anchor9;
+  pos base [\or_k_ssa \or_ng_ka \or_ng_kha \or_ng_ga \or_ng_gha \or_j_nya \or_ny_ca \or_ny_ja \or_ny_jha \or_d_bha \or_m_pa \or_m_pha \or_m_bha ] <anchor 1220 0> mark @Anchor13
+	<anchor 1570 0> mark @Anchor12
+	<anchor 1290 0> mark @Anchor11
+	<anchor 1290 0> mark @Anchor10
+	<anchor 1290 0> mark @Anchor9;
+  pos base [\or_k_ss_nna ] <anchor 1470 -560> mark @Anchor13
+	<anchor 1820 -570> mark @Anchor12
+	<anchor 1550 -500> mark @Anchor11
+	<anchor 1550 -500> mark @Anchor10
+	<anchor 1550 -500> mark @Anchor9;
+  pos base [\or_g_dha \or_j_jha \or_nn_nna \or_t_tha \or_b_dha \or_ss_nna ] <anchor 1220 -560> mark @Anchor13
+	<anchor 1480 -550> mark @Anchor12
+	<anchor 1210 -500> mark @Anchor11
+	<anchor 1210 -500> mark @Anchor10
+	<anchor 1210 -500> mark @Anchor9;
+  pos base [\or_ng_k_ta \or_sh_cha ] <anchor 1220 -500> mark @Anchor13
+	<anchor 1400 -560> mark @Anchor12
+	<anchor 1250 -520> mark @Anchor11
+	<anchor 1270 -500> mark @Anchor10
+	<anchor 1270 -500> mark @Anchor9;
+  pos base [\or_c_ca \or_tt_tta \or_t_ta \or_d_da \or_d_dha \or_dh_yya \or_n_da \or_n_dha \or_b_da \or_b_ba ] <anchor 1100 0> mark @Anchor13
+	<anchor 1260 0> mark @Anchor12
+	<anchor 720 -30> mark @Anchor11
+	<anchor 700 -50> mark @Anchor10
+	<anchor 920 -50> mark @Anchor9;
+  pos base [\or_c_cha ] <anchor 1100 -200> mark @Anchor13
+	<anchor 1300 -140> mark @Anchor12
+	<anchor 920 -140> mark @Anchor11
+	<anchor 920 -100> mark @Anchor10
+	<anchor 920 -100> mark @Anchor9;
+  pos base [\or_dd_dda ] <anchor 1100 -420> mark @Anchor13
+	<anchor 1100 -425> mark @Anchor12
+	<anchor 940 -400> mark @Anchor11
+	<anchor 940 -400> mark @Anchor10
+	<anchor 940 -400> mark @Anchor9;
+  pos base [\or_t_ka \or_t_na \or_t_pa \or_t_ma \or_t_sa \or_t_s_na \or_n_tha \or_ss_ka \or_s_ka \or_s_tha ] <anchor 1220 -300> mark @Anchor13
+	<anchor 1290 -250> mark @Anchor12
+	<anchor 680 -300> mark @Anchor11
+	<anchor 680 -150> mark @Anchor10
+	<anchor 680 -150> mark @Anchor9;
+  pos base [\or_sh_ca ] <anchor 1350 -420> mark @Anchor13
+	<anchor 1540 -450> mark @Anchor12
+	<anchor 1250 -400> mark @Anchor11
+	<anchor 1250 -400> mark @Anchor10
+	<anchor 1250 -400> mark @Anchor9;
 } blwmBelowBaseMarklookup4;
+
+lookup blwmBelowBaseMarklookup5 {
+  lookupflag 0;
+  markClass [\or_nukta ] <anchor -251 -33> @Anchor14;
+  markClass [\or_ukaar \or_uukaar ] <anchor -130 -50> @Anchor14;
+  markClass [\or_rukaar \uni0B62 \uni0B63 \or_ikaar_below \or_kha_phalaa \or_ga_phalaa \or_gha_phalaa \or_nga_phalaa \or_ca_phalaa \or_cha_phalaa \or_ja_phalaa \or_jha_phalaa \or_tta_phalaa \or_ttha_phalaa \or_dda_phalaa \or_ddha_phalaa \or_nna_phalaa \or_ta_phalaa \or_tha_phalaa \or_da_phalaa \or_dha_phalaa \or_na_phalaa \or_pa_phalaa \or_pha_phalaa \or_bha_phalaa \or_ma_phalaa \or_la_phalaa \or_lla_phalaa \or_va_phalaa \or_sha_phalaa \or_ssa_phalaa \or_sa_phalaa \or_ha_phalaa \or_t_ra_phalaa ] <anchor -130 0> @Anchor14;
+  markClass [\uni0B44 ] <anchor -64 110> @Anchor14;
+  markClass [\or_halant ] <anchor -229 44> @Anchor14;
+  markClass [\or_ka_phalaa ] <anchor -185 11> @Anchor14;
+  markClass [\or_ba_phalaa ] <anchor -130 20> @Anchor14;
+  markClass [\or_ya_phalaa ] <anchor -130 150> @Anchor14;
+  markClass [\or_ra_phalaa ] <anchor -130 -20> @Anchor14;
+  markClass [\or_ukaar_lower \or_uukaar_lower \or_rukaar_lower ] <anchor -130 -200> @Anchor14;
+  pos mark [\or_ka_phalaa \or_ja_phalaa ] <anchor 10 -540> mark @Anchor14;
+  pos mark [\or_kha_phalaa \or_ga_phalaa \or_gha_phalaa \or_nga_phalaa \or_ca_phalaa \or_tta_phalaa \or_ttha_phalaa \or_dda_phalaa \or_nna_phalaa \or_dha_phalaa \or_pa_phalaa \or_pha_phalaa \or_bha_phalaa \or_sha_phalaa \or_ssa_phalaa \or_sa_phalaa ] <anchor 50 -710> mark @Anchor14;
+  pos mark [\or_cha_phalaa ] <anchor 20 -710> mark @Anchor14;
+  pos mark [\or_jha_phalaa ] <anchor -150 -710> mark @Anchor14;
+  pos mark [\or_ddha_phalaa \or_ha_phalaa ] <anchor 0 -710> mark @Anchor14;
+  pos mark [\or_ta_phalaa \or_tha_phalaa ] <anchor -150 -600> mark @Anchor14;
+  pos mark [\or_da_phalaa ] <anchor -90 -710> mark @Anchor14;
+  pos mark [\or_na_phalaa \or_ba_phalaa \or_va_phalaa ] <anchor -130 -540> mark @Anchor14;
+  pos mark [\or_ma_phalaa ] <anchor -135 -540> mark @Anchor14;
+  pos mark [\or_ya_phalaa ] <anchor -140 -540> mark @Anchor14;
+  pos mark [\or_ra_phalaa ] <anchor -130 -500> mark @Anchor14;
+  pos mark [\or_la_phalaa \or_lla_phalaa ] <anchor 10 -650> mark @Anchor14;
+} blwmBelowBaseMarklookup5;
 
 feature abvm {
 
@@ -1127,67 +505,67 @@ feature blwm {
       lookup blwmBelowBaseMarklookup2;
       lookup blwmBelowBaseMarklookup3;
       lookup blwmBelowBaseMarklookup4;
+      lookup blwmBelowBaseMarklookup5;
 
  script orya;
      language dflt ;
       lookup blwmBelowBaseMarklookup2;
       lookup blwmBelowBaseMarklookup3;
       lookup blwmBelowBaseMarklookup4;
+      lookup blwmBelowBaseMarklookup5;
 } blwm;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
-@MarkClass1 = [ or_ukaar or_uukaar or_rukaar uni0B44 uni0B62 uni0B63 or_nukta or_halant or_ikaar_below or_ka_phalaa or_kha_phalaa or_ga_phalaa or_gha_phalaa or_nga_phalaa or_ca_phalaa or_cha_phalaa or_ja_phalaa or_jha_phalaa or_tta_phalaa or_ttha_phalaa or_dda_phalaa or_ddha_phalaa or_nna_phalaa or_ta_phalaa or_tha_phalaa or_da_phalaa or_dha_phalaa or_na_phalaa or_pa_phalaa or_pha_phalaa or_ba_phalaa or_bha_phalaa or_ma_phalaa or_ya_phalaa or_ra_phalaa or_la_phalaa or_lla_phalaa or_va_phalaa or_sha_phalaa or_ssa_phalaa or_sa_phalaa or_ha_phalaa or_t_ra_phalaa or_ukaar_lower or_uukaar_lower or_rukaar_lower or_ra_phalaa_ukaar or_ra_phalaa_uukaar ];
-@MarkClass2 = [ or_ikaar or_aikaar or_ai_lengthmk or_candrabindu or_reph or_ikaar_candrabindu or_reph_ikaar or_reph_ikaar_candrabindu or_ai_lengthmk_candrabindu or_reph_ai_lengthmk or_reph_ai_lengthmk_candrabindu or_ikaar_wide or_ikaar_wide_candrabindu or_reph_ikaar_wide or_reph_ikaar_wide_candrabindu or_ikaar_narrow or_ikaar_narrow_candrabindu or_reph_ikaar_narrow or_reph_ikaar_narrow_candrabindu ];
+@MarkClass1 = [ or_nukta or_ukaar or_uukaar or_rukaar uni0B44 or_halant uni0B62 uni0B63 or_ikaar_below or_ka_phalaa or_kha_phalaa or_ga_phalaa or_gha_phalaa or_nga_phalaa or_ca_phalaa or_cha_phalaa or_ja_phalaa or_jha_phalaa or_tta_phalaa or_ttha_phalaa or_dda_phalaa or_ddha_phalaa or_nna_phalaa or_ta_phalaa or_tha_phalaa or_da_phalaa or_dha_phalaa or_na_phalaa or_pa_phalaa or_pha_phalaa or_ba_phalaa or_bha_phalaa or_ma_phalaa or_ya_phalaa or_ra_phalaa or_la_phalaa or_lla_phalaa or_va_phalaa or_sha_phalaa or_ssa_phalaa or_sa_phalaa or_ha_phalaa or_t_ra_phalaa or_ukaar_lower or_uukaar_lower or_rukaar_lower ];
+@MarkClass2 = [ or_candrabindu or_ikaar or_aikaar or_ai_lengthmk or_reph or_ikaar_candrabindu or_reph_ikaar or_reph_ikaar_candrabindu or_ai_lengthmk_candrabindu or_reph_ai_lengthmk or_reph_ai_lengthmk_candrabindu or_ikaar_wide or_ikaar_wide_candrabindu or_reph_ikaar_wide or_reph_ikaar_wide_candrabindu or_ikaar_narrow or_ikaar_narrow_candrabindu or_reph_ikaar_narrow or_reph_ikaar_narrow_candrabindu ];
 
-@GDEF_Simple = [\.notdef \_1 \nonmarkingreturn \NULL \space \or_zero \or_one 
-	\or_two \or_three \or_four \or_five \or_six \or_seven \or_eight \or_nine 
-	\uni0B72 \uni0B73 \uni0B74 \uni0B75 \uni0B76 \uni0B77 \or_avagraha \or_isshar 
-	\rupeesign \dv_danda \dv_double_danda \question \quotedbl.001 \percent 
-	\quotesingle \parenleft \parenright \asterisk \plus \comma \hyphen \slash \colon 
-	\semicolon \equal \bracketleft \bracketright \bar \multiply \divide \minus 
-	\zerowidthnonjoiner \zerowidthjoiner \dottedcircle \or_a \or_aa \or_i \or_ii 
-	\or_u \or_uu \or_ru \or_rru \or_lu \or_llu \or_e \or_ai \or_o \or_au \or_ka \or_kha 
-	\or_ga \or_gha \or_nga \or_ca \or_cha \or_ja \or_jha \or_nya \or_tta \or_ttha 
-	\or_dda \or_ddha \or_nna \or_ta \or_tha \or_da \or_dha \or_na \or_pa \or_pha 
-	\or_ba \or_bha \or_ma \or_ya \or_ra \or_la \or_lla \or_va \or_sha \or_ssa \or_sa 
-	\or_ha \or_yya \or_wa \or_rra \or_rha \glyph2 \glyph3 \or_kha_ikaar 
-	\or_tha_ikaar \or_dha_ikaar \or_ca_aakaar \glyph4 \.notdefined \or_aakaar 
-	\or_iikaar \or_ekaar \or_okaar \or_aukaar \or_au_lengthmk \or_anusvar 
-	\or_visarga \or_yya_phalaa \glyph1 \or_au_lengthmk_candrabindu 
-	\or_reph_au_lengthmk \or_reph_au_lengthmk_candrabindu \or_reph_au 
-	\or_reph_ai \or_ka_halant \or_kha_halant \or_ga_halant \or_gha_halant 
-	\or_nga_halant \or_ca_halant \or_cha_halant \or_ja_halant \or_jha_halant 
-	\or_nya_halant \or_tta_halant \or_ttha_halant \or_dda_halant \or_ddha_halant 
-	\or_nna_halant \or_ta_halant \or_tha_halant \or_da_halant \or_dha_halant 
-	\or_na_halant \or_pa_halant \or_pha_halant \or_ba_halant \or_bha_halant 
-	\or_ma_halant \or_ya_halant \or_ra_halant \or_la_halant \or_lla_halant 
-	\or_va_halant \or_sha_halant \or_ssa_halant \or_sa_halant \or_ha_halant 
-	\or_rra_halant \or_rha_halant \or_yya_halant \or_wa_halant \numbersign 
-	\exclam \quotedbl \period \zero \one \two \three \four \five \six \seven \eight 
-	\nine \less.orya \greater.orya \backslash \asciicircum \underscore \braceleft 
-	\braceright \asciitilde \quoteleft \quoteright \quotedblleft \quotedblright 
-	\endash.orya.001 \endash \emdash ];
-@GDEF_Ligature = [\or_k_ka \or_k_ta \or_k_lla \or_k_ssa \or_k_ss_nna \or_k_sa 
-	\or_g_da \or_g_dha \or_g_lla \or_ng_ka \or_ng_k_ta \or_ng_k_ssa \or_ng_kha 
-	\or_ng_ga \or_ng_gha \or_c_ca \or_c_cha \or_j_ja \or_j_j_va \or_j_jha \or_j_nya 
-	\or_ny_ca \or_ny_cha \or_ny_ja \or_ny_jha \or_tt_tta \or_dd_ga \or_dd_dda 
-	\or_nn_tta \or_nn_ttha \or_nn_dda \or_nn_ddha \or_nn_nna \or_t_ka \or_t_ta 
-	\or_t_tha \or_t_na \or_t_pa \or_t_ma \or_t_sa \or_t_s_na \or_d_ga \or_d_gha 
-	\or_d_da \or_d_dha \or_d_bha \or_dh_yya \or_n_ta \or_n_t_ra \or_n_t_va 
-	\or_n_tha \or_n_da \or_n_dha \or_n_na \or_p_ta \or_p_pa \or_p_lla \or_p_sa 
-	\or_b_ja \or_b_da \or_b_dha \or_b_ba \or_m_pa \or_m_pha \or_m_ba \or_m_bha 
-	\or_m_ma \or_ll_ka \or_ll_bha \or_ll_lla \or_ll_pa \or_ll_pha \or_l_ka \or_l_ga 
-	\or_l_la \or_sh_ca \or_sh_cha \or_sh_lla \or_ss_ka \or_ss_tta \or_ss_ttha 
-	\or_ss_nna \or_ss_pa \or_ss_pha \or_s_ka \or_s_kha \or_s_ta \or_s_t_ra 
-	\or_s_tha \or_s_pa \or_s_pha \or_ka_nukta \or_kha_nukta \or_ga_nukta 
-	\or_gha_nukta \or_nga_nukta \or_ca_nukta \or_cha_nukta \or_ja_nukta 
-	\or_jha_nukta \or_nya_nukta \or_tta_nukta \or_ttha_nukta \or_nna_nukta 
-	\or_ta_nukta \or_tha_nukta \or_da_nukta \or_dha_nukta \or_na_nukta 
-	\or_pa_nukta \or_pha_nukta \or_ba_nukta \or_bha_nukta \or_ma_nukta 
-	\or_ya_nukta \or_ra_nukta \or_la_nukta \or_lla_nukta \or_va_nukta 
-	\or_sha_nukta \or_ssa_nukta \or_sa_nukta \or_ha_nukta \or_yya_nukta 
-	\or_wa_nukta ];
-@GDEF_Mark = [\or_ikaar \or_ukaar \or_uukaar \or_rukaar \uni0B44 \uni0B62 \uni0B63 
-	\or_aikaar \or_ai_lengthmk \or_candrabindu \or_nukta \or_halant 
+@GDEF_Simple = [\.notdef \_1.001 \nonmarkingreturn \NULL \space \exclam \quotedbl 
+	\numbersign \percent \quotesingle \parenleft \parenright \asterisk \plus \comma 
+	\hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight \nine 
+	\colon \semicolon \less.orya \equal \greater.orya \question \bracketleft 
+	\backslash \bracketright \asciicircum \underscore \braceleft \bar \braceright 
+	\asciitilde \multiply \divide \dv_danda \dv_double_danda \or_anusvar 
+	\or_visarga \or_a \or_aa \or_i \or_ii \or_u \or_uu \or_ru \or_lu \or_e \or_ai \or_o 
+	\or_au \or_ka \or_kha \or_ga \or_gha \or_nga \or_ca \or_cha \or_ja \or_jha \or_nya 
+	\or_tta \or_ttha \or_dda \or_ddha \or_nna \or_ta \or_tha \or_da \or_dha \or_na 
+	\or_pa \or_pha \or_ba \or_bha \or_ma \or_ya \or_ra \or_la \or_lla \or_va \or_sha 
+	\or_ssa \or_sa \or_ha \or_avagraha \or_aakaar \or_iikaar \or_ekaar \or_okaar 
+	\or_aukaar \or_au_lengthmk \or_rra \or_rha \or_yya \or_rru \or_llu \or_zero 
+	\or_one \or_two \or_three \or_four \or_five \or_six \or_seven \or_eight \or_nine 
+	\or_isshar \or_wa \uni0B72 \uni0B73 \uni0B74 \uni0B75 \uni0B76 \uni0B77 
+	\zerowidthnonjoiner \zerowidthjoiner \endash \emdash \quoteleft \quoteright 
+	\quotedblleft \quotedblright \minus \dottedcircle \_1 \rupeesign \quotedbl.001 
+	\or_k_ka \or_k_ta \or_k_lla \or_k_ssa \or_k_ss_nna \or_k_sa \or_g_da \or_g_dha 
+	\or_g_lla \or_ng_ka \or_ng_k_ta \or_ng_k_ssa \or_ng_kha \or_ng_ga \or_ng_gha 
+	\or_c_ca \or_c_cha \or_j_ja \or_j_j_va \or_j_jha \or_j_nya \or_ny_ca \or_ny_cha 
+	\or_ny_ja \or_ny_jha \or_tt_tta \or_dd_ga \or_dd_dda \or_nn_tta \or_nn_ttha 
+	\or_nn_dda \or_nn_ddha \or_nn_nna \or_t_ka \or_t_ta \or_t_tha \or_t_na \or_t_pa 
+	\or_t_ma \or_t_sa \or_t_s_na \or_d_ga \or_d_gha \or_d_da \or_d_dha \or_d_bha 
+	\or_dh_yya \or_n_ta \or_n_t_ra \or_n_t_va \or_n_tha \or_n_da \or_n_dha \or_n_na 
+	\glyph2 \or_p_ta \or_p_pa \or_p_lla \or_p_sa \or_b_ja \or_b_da \or_b_dha 
+	\or_b_ba \or_m_pa \or_m_pha \or_m_ba \or_m_bha \or_m_ma \or_ll_ka \or_ll_bha 
+	\or_ll_lla \or_ll_pa \or_ll_pha \or_l_ka \or_l_ga \or_l_la \or_sh_ca \or_sh_cha 
+	\or_sh_lla \or_ss_ka \or_ss_tta \or_ss_ttha \or_ss_nna \or_ss_pa \or_ss_pha 
+	\or_s_ka \or_s_kha \or_s_ta \or_s_t_ra \or_s_tha \or_s_pa \or_s_pha \glyph3 
+	\or_kha_ikaar \or_tha_ikaar \or_dha_ikaar \or_ca_aakaar \glyph4 \.notdefined 
+	\or_yya_phalaa \glyph1 \or_au_lengthmk_candrabindu \or_reph_au_lengthmk 
+	\or_reph_au_lengthmk_candrabindu \or_reph_au \or_reph_ai \or_ka_halant 
+	\or_kha_halant \or_ga_halant \or_gha_halant \or_nga_halant \or_ca_halant 
+	\or_cha_halant \or_ja_halant \or_jha_halant \or_nya_halant \or_tta_halant 
+	\or_ttha_halant \or_dda_halant \or_ddha_halant \or_nna_halant \or_ta_halant 
+	\or_tha_halant \or_da_halant \or_dha_halant \or_na_halant \or_pa_halant 
+	\or_pha_halant \or_ba_halant \or_bha_halant \or_ma_halant \or_ya_halant 
+	\or_ra_halant \or_la_halant \or_lla_halant \or_va_halant \or_sha_halant 
+	\or_ssa_halant \or_sa_halant \or_ha_halant \or_rra_halant \or_rha_halant 
+	\or_yya_halant \or_wa_halant \endash.orya.001 ];
+@GDEF_Ligature = [\or_ka_nukta \or_kha_nukta \or_ga_nukta \or_gha_nukta 
+	\or_nga_nukta \or_ca_nukta \or_cha_nukta \or_ja_nukta \or_jha_nukta 
+	\or_nya_nukta \or_tta_nukta \or_ttha_nukta \or_nna_nukta \or_ta_nukta 
+	\or_tha_nukta \or_da_nukta \or_dha_nukta \or_na_nukta \or_pa_nukta 
+	\or_pha_nukta \or_ba_nukta \or_bha_nukta \or_ma_nukta \or_ya_nukta 
+	\or_ra_nukta \or_la_nukta \or_lla_nukta \or_va_nukta \or_sha_nukta 
+	\or_ssa_nukta \or_sa_nukta \or_ha_nukta \or_yya_nukta \or_wa_nukta ];
+@GDEF_Mark = [\or_candrabindu \or_nukta \or_ikaar \or_ukaar \or_uukaar \or_rukaar 
+	\uni0B44 \or_aikaar \or_halant \or_ai_lengthmk \uni0B62 \uni0B63 
 	\or_ikaar_below \or_ka_phalaa \or_kha_phalaa \or_ga_phalaa \or_gha_phalaa 
 	\or_nga_phalaa \or_ca_phalaa \or_cha_phalaa \or_ja_phalaa \or_jha_phalaa 
 	\or_tta_phalaa \or_ttha_phalaa \or_dda_phalaa \or_ddha_phalaa \or_nna_phalaa 
